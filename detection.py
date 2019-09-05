@@ -8,17 +8,15 @@ from label_map_util import create_category_index, load_labelmap, convert_label_m
 import sys
 import os
 import operator
-PATH_TO_LABELS = "/home/marbec/Bureau/deeplelz/rfcn_resnet101_coco_2018_01_28/data/object_detection.pbtxt"
+PATH_TO_LABELS = "PATH TO BE CONFIGURED"
 NUM_CLASSES=5
 class TrafficLightClassifier(object):
     def __init__(self):
-        PATH_TO_MODEL = '/home/marbec/Bureau/deeplelz/rfcn_resnet101_coco_2018_01_28/model/fine_tuned_model/frozen_inference_graph.pb'
+        PATH_TO_MODEL = 'PATH TO BE CONFIGURED'
         self.detection_graph = tf.Graph()
         with self.detection_graph.as_default():
             od_graph_def = tf.GraphDef()
-            # Works up to here.
-            #with tf.gfile.GFile("/home/sebv/SebV/RCNN-detection/fish_detection/fish_detection_mobile_net/fine_tuned_fish_model/frozen_inference_graph.pb", 'rb') as fid:
-            with tf.gfile.GFile("/home/marbec/Bureau/deeplelz/rfcn_resnet101_coco_2018_01_28/model/fine_tuned_model/frozen_inference_graph.pb", 'rb') as fid:
+            with tf.gfile.GFile("PATH TO BE CONFIGURED", 'rb') as fid:
                 serialized_graph = fid.read()
                 od_graph_def.ParseFromString(serialized_graph)
                 tf.import_graph_def(od_graph_def, name='')
@@ -88,9 +86,6 @@ def cropND(img, bounding):
 
     (left, right, top, bottom) = (int(ymax * im_width), int(xmax * im_width),
                                   int(ymin * im_height), int(xmin * im_height))
-    #ici on fa fait une approx pour avoir des int
-    #print (bounding)
-    #print (left,right,top,bottom)
     box = (left, top, right, bottom)
     area = image_pil.crop(box)
     #area.show()
@@ -115,8 +110,8 @@ def get_bounding_box_list(img, txt_file):
 
 
 def main():
-    #image = "/media/sebv/Data/RESULTS_DETECTION/poissons/training/J2_43_C_GP020213-5a65f392d9044_18_04_04/57.jpeg"
-    #image = "/media/sebv/Data/test_detect/images/162.jpeg"
+    #image = "PATH TO TEST IMAGE 1"
+    #image = "PATH TO TEST IMAGE 2"
     dossier_source = sys.argv[1] #dossier contenant les frames poissons a traiter
     dossier_cible = sys.argv[2] #dossier contenant les frames poissons a traiter
     liste_espece=sys.argv[3]
@@ -152,7 +147,7 @@ def main():
         liste_boxes_over_threshold=[]
         for box in boxes[0]:
             score=scores[0][compteur]
-            if score >= 0.75:
+            if score >= 0.5:
                 #print (box)
                 #image_crop=cropND(dossier_source+"/"+image, box)
                 #print (score)
