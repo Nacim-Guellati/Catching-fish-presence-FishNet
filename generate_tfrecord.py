@@ -29,7 +29,7 @@ FLAGS = flags.FLAGS
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
 	dico_classe={}
-	lelz = open('/home/marbec/Bureau/deeplelz/rfcn_resnet101_coco_2018_01_28/data/liste_classes.txt')
+	lelz = open('PATH TO BECONFIGURED')
 	lignes = lelz.readlines()
 	for l in lignes:
 		dico_classe[l.split(":")[1].replace("\n","",69)]=l.split(":")[0]
@@ -115,10 +115,9 @@ def create_tf_example(group, path):
 
 
 def main(_):
-    csv_input = sys.argv[1] #dossier contenant les frames poissons a traiter
-    output_path = sys.argv[2] #fichier .record
+    csv_input = sys.argv[1] #path to th .csv file containing the annotations
+    output_path = sys.argv[2] #path to where the .record file will be created
 
-    print ("wtfff")
 
     print (output_path)
 
