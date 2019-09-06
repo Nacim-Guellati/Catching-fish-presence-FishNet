@@ -57,3 +57,15 @@ etc..
 etc..
 ```
 You should end up with this in terms of files organization:
+<p align="center">
+  <img src="img/organization1.png" width=676 height=450>
+</p>
+<p align="center">
+  <img src="img/organization2.png" width=676 height=450>
+</p>
+<p align="center">
+  <img src="img/organization3.png" width=676 height=450>
+</p>
+<p align="center">
+  <img src="img/organization4.png" width=676 height=450>
+</p>
