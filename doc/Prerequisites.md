@@ -1,3 +1,5 @@
+# Prerequisites
+
 1. Ubuntu or MacOS operating system, if you are on Windows install an Ubuntu partition: 
 https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0 
 https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
