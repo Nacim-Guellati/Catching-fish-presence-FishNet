@@ -18,6 +18,6 @@ pip install tensorboard
 pip install opencv-python
 ```
 
-4. Import `Catching-fish-presence-FishNet/object_detection` and `Catching-fish-presence-FishNet/images` folder on your machine.
+4. Import `Catching-fish-presence-FishNet/object_detection` and `Catching-fish-presence-FishNet/images` folders on your machine.
 
 5. Dowload this folder https://github.com/tensorflow/models and place it wherever you want.
