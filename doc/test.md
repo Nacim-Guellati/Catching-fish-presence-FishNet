@@ -43,8 +43,4 @@ python detection.py path/to/Catching-fish-presence-FishNet/images/test_set path/
 - the second path in this command: `path/to/results/folder` points to a folder, that you must create, where you want the results to be saved.
 
 6. You can also make your own set of annotated images on which you can run `detection.py`. You can do that using apps like <a href='https://github.com/tzutalin/labelImg'>LabelIMG</a> <br>
-Just make sure that each .txt file in your set has the same name as the image it is associated with. <br>
-Also make sure that the .txt files have the following line for each annotation made on the image: 
-```bash
-xmin ymin xmax ymax class_name
-```
+Make sure that they are organized the same way than the images given in `Catching-fish-presence-FishNet/images`
