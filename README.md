@@ -3,6 +3,11 @@
 - réseau pré entrainé blabla il é cool
 - tu peux aussi l'entrainer toi même et voir ce que ça fait
 
+## Maintainers
+
+* Villon Sebastien, github: [SebVill](https://github.com/SebVill)
+* Guellati Nacim, github: [Nacim-Guellati](https://github.com/Nacim-Guellati)
+
 ## Table of contents
 * <a href='doc/Prerequisites.md'>Prerequisites</a><br>
 * How to test the network 
