@@ -42,6 +42,6 @@ python detection.py path/to/Catching-fish-presence-FishNet/images/test_set path/
 - This command will run the object detection on your test images and make result images from this set. In those images, boxes will show where he algorithm sees the different objects and it will associate to each of these boxes a score in % that represents degree of certainty in its detection. These results give you an idea on how the pre-trained model performs at detecting fishes.
 - the second path in this command: `path/to/results/folder` points to a folder, that you must create, where you want the results to be saved.
 
-6. You can also make your own set of annotated images, using apps like <a href='https://github.com/tzutalin/labelImg'>LabelIMG</a>, on which you can run `detection.py`. <br>
+6. You can also make your own set of annotated images on which you can run `detection.py`. You can do that using apps like <a href='https://github.com/tzutalin/labelImg'>LabelIMG</a> <br>
 Just make sure that each .txt file in your set has the same name as the image it is associated with. <br>
-Also make sure that 
+Also make sure that the .txt files are written following this organization: "xmin" "ymin" "xmax" ymax" "class name" for each annotation.
