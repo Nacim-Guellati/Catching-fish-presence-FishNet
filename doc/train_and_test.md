@@ -3,7 +3,7 @@
 ## Test the model you just trained
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
-- line 12: NUM_CLASSES: the number of classes in your dataset.
+- line 12: NUM_CLASSES: the number of classes in your dataset, if you're using the training set provided in this git then there is only "1" class: "fish".
 - line 11 & 15: Edit PATH_TO_LABELS and PATH_TO_MODEL so they point respectively to `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt` and `Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model/frozen_inference_graph.pb`
 - Path at line 19 must also point to `Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model/frozen_inference_graph.pb`
 - line 119: make sure the image format at the end of the line is the same as the images you have in your test set (.jpeg/ .jpg/ etc..) which are located in `Catching-fish-presence-FishNet/images/test_set`.
