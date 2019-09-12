@@ -13,7 +13,7 @@
 
 2. Run the following lines in your command prompt: (Paths are to be configured)
 ````bash
-source venv/bin/activate #activate your virtual environment#
+source venv/bin/activate #activate your virtual environment
 export PYTHONPATH=/path/to/models-master/slim:$PYTHONPATH
 cd path/to/models-master/research/
 protoc object_detection/protos/*.proto --python_out=.
