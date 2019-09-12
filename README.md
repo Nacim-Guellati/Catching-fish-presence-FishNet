@@ -1,7 +1,7 @@
 # Catching fish presence with FishNet model
-- petite intro
-- réseau pré entrainé blabla il é cool
-- tu peux aussi l'entrainer toi même et voir ce que ça fait
+- petite intro sur detection d'objets 
+- le réseau pré entrainé blabla il é cool
+- tu peux aussi l'entrainer toi même et voir ce que ça fait p'tit curieux
 
 ## Maintainers
 
