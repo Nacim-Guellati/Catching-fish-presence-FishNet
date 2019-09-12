@@ -1,4 +1,4 @@
-# Catching fish presence with FishNet model
+# Catching fish presence with FishNet object detection model
 - petite intro sur detection d'objets 
 - le réseau pré entrainé blabla il é cool
 - tu peux aussi l'entrainer toi même et voir ce que ça fait p'tit curieux
