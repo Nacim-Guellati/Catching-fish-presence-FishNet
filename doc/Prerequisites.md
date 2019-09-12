@@ -20,4 +20,4 @@ pip install opencv-python
 
 4. Import `Catching-fish-presence-FishNet/object_detection` folder.
 
-5. Dowload this folder https://github.com/tensorflow/models and put it wherever you want.
+5. Dowload this folder https://github.com/tensorflow/models and place it wherever you want.
