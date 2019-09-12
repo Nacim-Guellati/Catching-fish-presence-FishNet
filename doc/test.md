@@ -1,12 +1,12 @@
-# Test the pre-trained FishNet model on a test images set
+# Test the pre-trained FishNet model
 
 0. Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a><br>
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
 - line 12: NUM_CLASSES: the pre-trained model only has 1 class: "fish", so it should be set to "1"
-- Edit PATH_TO_LABELS and PATH_TO_MODEL so they point respectively to `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt` and `Catching-fish-presence-FishNet/object_detection/FishNet/model/pre-trained_model/frozen_inference_graph.pb`
-- Path at line 21 must also point to `Catching-fish-presence-FishNet/object_detection/FishNet/model/pre-trained_model/frozen_inference_graph.pb`
-- line 124: make sure the image format is the same as the images you have in your test set (.jpeg/ .jpg/ etc..) which are located in `Catching-fish-presence-FishNet/images/test_set`.
+- line 11 & 15: Edit PATH_TO_LABELS and PATH_TO_MODEL so they point respectively to `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt` and `Catching-fish-presence-FishNet/object_detection/FishNet/model/pre-trained_model/frozen_inference_graph.pb`
+- Path at line 19 must also point to `Catching-fish-presence-FishNet/object_detection/FishNet/model/pre-trained_model/frozen_inference_graph.pb`
+- line 119: make sure the image format at the end of the line is the same as the images you have in your test set (.jpeg/ .jpg/ etc..) which are located in `Catching-fish-presence-FishNet/images/test_set`.
 
 
 2. Open `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt` with a text editor and make sure that the following is written in it:
@@ -43,5 +43,4 @@ python detection.py path/to/Catching-fish-presence-FishNet/images/test_set path/
 - the second path in this command: `path/to/results/folder` points to a folder, that you must create, where you want the results to be saved.
 
 6. You can also make your own set of annotated images on which you can run `detection.py`. You can do that using apps like <a href='https://github.com/tzutalin/labelImg'>LabelIMG</a> <br>
-Just make sure that each .txt file in your set has the same name as the image it is associated with. <br>
-Also make sure that the .txt files are written following this organization: "xmin" "ymin" "xmax" ymax" "class name" for each annotation.
+Make sure that they are organized the same way than the images given in `Catching-fish-presence-FishNet/images`

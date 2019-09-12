@@ -9,7 +9,7 @@ import sys
 import os
 import operator
 PATH_TO_LABELS = "PATH TO BE CONFIGURED"
-NUM_CLASSES=5
+NUM_CLASSES=1
 class TrafficLightClassifier(object):
     def __init__(self):
         PATH_TO_MODEL = 'PATH TO BE CONFIGURED'
