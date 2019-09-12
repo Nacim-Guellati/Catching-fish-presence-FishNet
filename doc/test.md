@@ -1,4 +1,4 @@
-# Test the pre-trained FishNet model on a test images set
+# Test the pre-trained FishNet model
 
 0. Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a><br>
 
