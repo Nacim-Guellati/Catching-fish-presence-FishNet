@@ -1,6 +1,6 @@
-# Test the pre-trained FishNet model
-
 !! Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a> !!<br>
+
+## Test the pre-trained FishNet model
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
 - line 12: NUM_CLASSES: the pre-trained model only has 1 class: "fish", so it should be set to "1"
