@@ -3,10 +3,12 @@
 0. Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a><br>
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
-- line 12: NUM_CLASSES: the pre-trained model only have 1 class: "fish" so it should be set to "1"
+- line 12: NUM_CLASSES: the pre-trained model only has 1 class: "fish", so it should be set to "1"
 - Edit PATH_TO_LABELS and PATH_TO_MODEL so they point respectively to `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt` and `Catching-fish-presence-FishNet/object_detection/FishNet/model/pre-trained_model/frozen_inference_graph.pb`
 - Path at line 21 must also point to `Catching-fish-presence-FishNet/object_detection/FishNet/model/pre-trained_model/frozen_inference_graph.pb`
 - line 124: make sure the image format is the same as the images you have in your test set (.jpeg/ .jpg/ etc..) which are located in `Catching-fish-presence-FishNet/images/test_set`.
+
+
 
 
 2. Run the following lines in your command prompt: (Paths are to be configured)
