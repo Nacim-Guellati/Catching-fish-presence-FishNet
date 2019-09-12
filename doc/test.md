@@ -32,7 +32,7 @@ cd path/to/models-master/research/
 protoc object_detection/protos/*.proto --python_out=.
 export PYTHONPATH=$PYTHONPATH:'/path/to/models-master/research':'/path/to/models-master/research/slim'
 ```
-- `models-master` is the folder you downloaded in the Prerequisites.
+- `models-master` is the folder you downloaded in the <a href='doc/Prerequisites.md'>Prerequisites</a>.
 
 
 5. Run the following in the same command prompt: (Paths are to be configured)
