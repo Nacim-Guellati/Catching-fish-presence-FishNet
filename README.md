@@ -11,4 +11,4 @@
 ## Table of contents
 * <a href='doc/Prerequisites.md'>Prerequisites</a><br>
 * <a href='doc/test.md'>How to test the network</a><br> 
-* <a href='doc/train_and_test.md'>How to train and test the network</a><br>
+* <a href='doc/train_and_test.md'>How to train the network</a><br>
