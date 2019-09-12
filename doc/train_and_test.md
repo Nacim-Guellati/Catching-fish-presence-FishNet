@@ -1,5 +1,9 @@
 !! Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a> !!<br>
 
+## Train the model
+
+lelz
+
 ## Test the model you just trained
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
