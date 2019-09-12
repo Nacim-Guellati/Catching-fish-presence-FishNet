@@ -1,4 +1,4 @@
-0. Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a><br>
+!! Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a> !!<br>
 
 ## Test the model you just trained
 
