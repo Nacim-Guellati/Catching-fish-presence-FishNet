@@ -1,10 +1,20 @@
 !! Make sure you have gone through all the <a href='Prerequisites.md'>Prerequisites</a> !!<br>
 
-## Train the model
+## A. Train the model
 
-lelz
+1. Creatting a .csv file that gathers all the annotations: <br>
+- Open `Catching-fish-presence-FishNet/object_detection/txt_to_csv.py` with a text editor and check that on lines 29 and 43 you have the same image format than the images in your training set (.jpg / .jpeg / etc.)
+- Run the following lines in a command prompt: (Paths to be configured)<br>
+(`models-master` is the folder you downloaded in the <a href='Prerequisites.md'>Prerequisites</a>.)
+```bash
+source venv/bin/activate #activate your virtual environment
+export PYTHONPATH=/path/to/models-master/slim:$PYTHONPATH
+cd path/to/models-master/research/
+protoc object_detection/protos/*.proto --python_out=.
+export PYTHONPATH=$PYTHONPATH:'/path/to/models-master/research':'/path/to/models-master/research/slim'
+```
 
-## Test the model you just trained
+## B. Test the model you just trained
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
 - line 12: NUM_CLASSES: the number of classes in your dataset, if you're using the training image set provided in this git then there is only 1 class: "fish".
