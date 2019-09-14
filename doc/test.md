@@ -1,4 +1,4 @@
-!! Make sure you have gone through all the <a href='doc/Prerequisites.md'>Prerequisites</a> !!<br>
+!! Make sure you have gone through all the <a href='Prerequisites.md'>Prerequisites</a> !!<br>
 
 ## Test the pre-trained FishNet model
 
