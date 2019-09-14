@@ -6,8 +6,6 @@ from PIL import Image
 
 
 
-
-
 def main():
 	dossier_source  = sys.argv[1] #dossier annotations
 	fichier_cible = sys.argv[2] #fichier_csv
