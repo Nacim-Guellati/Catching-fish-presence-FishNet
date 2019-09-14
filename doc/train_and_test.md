@@ -47,9 +47,11 @@ python3 train.py --logtostderr --train_dir=path/to/Catching-fish-presence-FishNe
 ```bash
 python export_inference_graph.py --input_type image_tensor --pipeline_config_path path/to/Catching-fish-presence-FishNet/object_detection/FishNet/data/pipeline.config --trained_checkpoint_prefix path/to/Catching-fish-presence-FishNet/object_detection/FishNet/model/train/model.ckpt-123456 --output_directory path/to/Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model
 ```
-- 
+- In `--trained_checkpoint_prefix path/to/model/train/model.ckpt-123456`.
+123456 is given as an example, replace this number with the number of steps you indicated at step A.3.
+<br>
 
-## B. Test the model you just trained
+## B. Test the newly trained model
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
 - line 12: NUM_CLASSES: the number of classes in your dataset, if you're using the training image set provided in this git then there is only 1 class: "fish".
