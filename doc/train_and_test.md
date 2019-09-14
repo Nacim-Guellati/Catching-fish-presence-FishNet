@@ -43,7 +43,11 @@ python3 train.py --logtostderr --train_dir=path/to/Catching-fish-presence-FishNe
 <br>
 
 5. Once the training is done, export the trained model:
-- In the same command prompt that you left open since step A.1., run the following line to export the newly trained model:
+- In the same command prompt that you left open since step A.1., run the following line to export the newly trained model into the folder `Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model`:
+```bash
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path path/to/Catching-fish-presence-FishNet/object_detection/FishNet/data/pipeline.config --trained_checkpoint_prefix path/to/Catching-fish-presence-FishNet/object_detection/FishNet/model/train/model.ckpt-123456 --output_directory path/to/Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model
+```
+- 
 
 ## B. Test the model you just trained
 
