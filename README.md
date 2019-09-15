@@ -9,5 +9,6 @@
 * <a href='doc/test.md'>Test the pre-trained model</a><br> 
 * <a href='doc/train_and_test.md'>Train and test the model</a><br>
 <br>
-FAUT UPLOAD LES IMAGES + LES FICHIERS VOLUMINEUX DU MODELE<br>
-FAUT DONNER num_steps ET num_examples DANS <a href='doc/train_and_test.md'>Train and test the model</a>
+
+# FAUT UPLOAD LES IMAGES + LES FICHIERS VOLUMINEUX DU MODELE<br>
+# FAUT DONNER num_steps ET num_examples DANS <a href='doc/train_and_test.md'>Train and test the model</a>
