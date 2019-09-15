@@ -86,7 +86,7 @@ etc..
 ```bash
 python detection.py path/to/Catching-fish-presence-FishNet/images/test_set path/to/results/folder path/to/Catching-fish-presence-FishNet/object_detection/data/class_list.txt
 ```
-- This command will run the object detection on your test images and make result images from this set. In those images, boxes will show where he algorithm sees the different objects and it will associate to each of these boxes a score in % that represents degree of certainty in its detection. These results give you an idea on how the pre-trained model performs at detecting fishes.
+- This command will run the object detection on your test images and make result images from this set. In those images, boxes will show where he algorithm sees the different objects and it will associate to each of these boxes a score in % that represents degree of certainty in its detection. These results give you an idea on how the newly trained model performs at detecting fishes.
 - the second path in this command: `path/to/results/folder` points to the folder, that you must create, where you want the results to be saved.
 <br>
 
