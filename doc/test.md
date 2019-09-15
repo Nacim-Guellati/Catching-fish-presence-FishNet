@@ -44,4 +44,4 @@ python detection.py path/to/Catching-fish-presence-FishNet/images/test_set path/
 <br>
 
 6. You can also make your own set of annotated images on which you can run `detection.py`. You can do that using apps like <a href='https://github.com/tzutalin/labelImg'>LabelIMG</a> <br>
-Make sure that they are organized the same way than the images given in `Catching-fish-presence-FishNet/images`
+Make sure that the images and their associated .txt files are organized the same way than the images given in `Catching-fish-presence-FishNet/images`
