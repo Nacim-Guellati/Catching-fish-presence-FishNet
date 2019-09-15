@@ -13,14 +13,14 @@ cd path/to/models-master/research/
 protoc object_detection/protos/*.proto --python_out=.
 export PYTHONPATH=$PYTHONPATH:'/path/to/models-master/research':'/path/to/models-master/research/slim'
 ```
-- In the same command prompt, run the following line to create `annotations.csv` in `Catching-fish-presence-FishNet/object_detection/FishNet/data/`:
+- In the same command prompt, run the following line to create `annotations.csv` in `Catching-fish-presence-FishNet/object_detection/FishNet/data/`: (Paths to be configured)
 ```bash
 python txt_to_csv.py /path/to/Catching-fish-presence-FishNet/images/training_set path/to/Catching-fish-presence-FishNet/object_detection/FishNet/data/annotations.csv
 ```
 <br>
 
 2. Creating a .record file from the .csv file:
-- In the same command prompt that you left open since step A.1., run the following line to create `train.recrod` in `Catching-fish-presence-FishNet/object_detection/FishNet/data/`:
+- In the same command prompt that you left open since step A.1., run the following line to create `train.recrod` in `Catching-fish-presence-FishNet/object_detection/FishNet/data/`: (Paths to be configured)
 ```bash
 python generate_tfrecord.py path/to/Catching-fish-presence-FishNet/object_detection/FishNet/data/annotations.csv path/to/Catching-fish-presence-FishNet/object_detection/FishNet/data/train.record
 ```
@@ -35,20 +35,20 @@ python generate_tfrecord.py path/to/Catching-fish-presence-FishNet/object_detect
 <br>
 
 4. Start the training:
-- In the same command prompt that you left open since step A.1., run the following line to start the training:
+- In the same command prompt that you left open since step A.1., run the following line to start the training: (Paths to be configured)
 ```bash
 python3 train.py --logtostderr --train_dir=path/to/Catching-fish-presence-FishNet/object_detection/FishNet/model/train --pipeline_config_path=path/to/Catching-fish-presence-FishNet/object_detection/FishNet/data/pipeline.config
 ```
 - If the training is interrupted and you must redo it, move or delete every file in `Catching-fish-presence-FishNet/object_detection/FishNet/model/train` before doing so.
 <br>
 
-5. Once the training is done, export the trained model:
-- In the same command prompt that you left open since step A.1., run the following line to export the newly trained model into the folder `Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model`:
+5. Once the training is done (it will take some time), export the trained model:
+- In the same command prompt that you left open since step A.1., run the following line to export the newly trained model into the folder `Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model`: (Paths to be configured)
 ```bash
 python export_inference_graph.py --input_type image_tensor --pipeline_config_path path/to/Catching-fish-presence-FishNet/object_detection/FishNet/data/pipeline.config --trained_checkpoint_prefix path/to/Catching-fish-presence-FishNet/object_detection/FishNet/model/train/model.ckpt-123456 --output_directory path/to/Catching-fish-presence-FishNet/object_detection/FishNet/model/fine_tuned_model
 ```
 - In `--trained_checkpoint_prefix path/to/model/train/model.ckpt-123456`.
-123456 is given as an example, replace this number with the number of steps you indicated at step A.3.
+"123456" is given as an example, replace this number with the number of steps you indicated at step A.3.
 <br>
 
 ## B. Test the newly trained model
