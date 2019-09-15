@@ -24,7 +24,7 @@ item {
 ```
 <br>
 
-4. Run the following lines in your command prompt: (Paths are to be configured)
+4. Run the following lines in your command prompt: (Paths to be configured)
 ```bash
 source venv/bin/activate #activate your virtual environment
 export PYTHONPATH=/path/to/models-master/slim:$PYTHONPATH
@@ -35,7 +35,7 @@ export PYTHONPATH=$PYTHONPATH:'/path/to/models-master/research':'/path/to/models
 - `models-master` is the folder you downloaded in the <a href='Prerequisites.md'>Prerequisites</a>.
 <br>
 
-5. Run the following in the same command prompt: (Paths are to be configured)
+5. Run the following in the same command prompt: (Paths to be configured)
 ```bash
 python detection.py path/to/Catching-fish-presence-FishNet/images/test_set path/to/results/folder path/to/Catching-fish-presence-FishNet/object_detection/data/class_list.txt
 ```
