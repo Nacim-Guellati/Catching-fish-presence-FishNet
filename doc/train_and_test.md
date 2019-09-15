@@ -1,6 +1,6 @@
 !! Make sure you have gone through all the <a href='Prerequisites.md'>Prerequisites</a> !!<br>
 
-## A. Train the model
+## A. Train the FishNet model
 
 1. Creating a .csv file that gathers all the annotations: <br>
 - Open `Catching-fish-presence-FishNet/object_detection/txt_to_csv.py` with a text editor and check that on lines 29 and 43 you have the same image format than the images in your training set (.jpg / .jpeg / etc.)
@@ -51,7 +51,7 @@ python export_inference_graph.py --input_type image_tensor --pipeline_config_pat
 "123456" is given as an example, replace this number with the number of steps you indicated at step A.3.
 <br>
 
-## B. Test the newly trained model
+## B. Test the newly trained FishNet model
 
 1. Open `Catching-fish-presence-FishNet/object_detection/detection.py` with a text editor and check the following:
 - line 12: NUM_CLASSES: the number of classes in your dataset, if you're using the training image set provided in this git then there is only 1 class: "fish".
