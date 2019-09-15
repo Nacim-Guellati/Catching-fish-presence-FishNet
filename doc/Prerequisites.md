@@ -8,6 +8,8 @@ https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
 
 3. Run the following lines in your virtual environment to install the dependencies:
 ``` bash
+source venv/bin/activate #reminder: this activates your virtual environment
+
 sudo apt install protobuf-compiler (for Ubuntu)
 brew install protobuf (for MacOS)
 pip install Pillow
