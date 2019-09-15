@@ -60,7 +60,7 @@ python export_inference_graph.py --input_type image_tensor --pipeline_config_pat
 - line 119: make sure the image format at the end of the line is the same as the images you have in your test set (.jpeg/ .jpg/ etc..) which are located in `Catching-fish-presence-FishNet/images/test_set`.
 <br>
 
-2. Open `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt` with a text editor and make sure that for each class in your dataset you have:
+2. Open `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt` with a text editor and make sure that for each class in your dataset you have: (if you are using the training image set provided in this git, there is only one class: "fish")
 ````bash
 item {
   id: 1
@@ -74,7 +74,7 @@ etc..
 ````
 <br>
 
-3.Open `Catching-fish-presence-FishNet/object_detection/FishNet/data/class_list.txt` with a text editor and make sure that for each class in your dataset you have:
+3.Open `Catching-fish-presence-FishNet/object_detection/FishNet/data/class_list.txt` with a text editor and make sure that for each class in your dataset you have: (if you are using the training image set provided in this git, there is only one class: "fish")
 ```bash
 1:class_1
 2:class_2
