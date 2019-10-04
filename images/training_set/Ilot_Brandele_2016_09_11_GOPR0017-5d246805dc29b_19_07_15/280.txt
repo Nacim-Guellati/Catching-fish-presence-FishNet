@@ -1,5 +1,0 @@
-1655 824 1859 955 Pomacentrus_sulfureus 
-185 796 411 916 Ctenochaetus_striatus 
-351 912 691 1075 Gnathodentex_aureolineatus 
-4 941 239 1073 Gnathodentex_aureolineatus 
-594 803 742 996 Hemigymnus_fasciatus 
