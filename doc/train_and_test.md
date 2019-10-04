@@ -29,7 +29,7 @@ python generate_tfrecord.py path/to/Catching-fish-presence-FishNet/object_detect
 3. Open `Catching-fish-presence-FishNet/object_detection/FishNet/data/pipeline.config` with a text editor and check the following:
 - line 3: num_classes: the number of classes in your dataset, if you're using the training image set provided in this git then there is only 1 class: "fish".
 - line 107: fine_tune_checkpoint: the path must lead to `Catching-fish-presence-FishNet/object_detection/FishNet/model/pre-trained_model/model.ckpt`
-- line 109 and 118: num_steps and num_examples must be set to ??? and ??? if you are using the training image set provided in this git.
+- line 109 and 118: num_steps and num_examples were set to 45000 and 8000 for the set of images provided in this Git, if you are using your own set of images you may hape to change these values for better training results.
 - line 112 and 123: label_map_path: the path must lead to `Catching-fish-presence-FishNet/object_detection/FishNet/data/object_detection.pbtxt`
 - line 114 and 127: input path: the path must lead to `Catching-fish-presence-FishNet/object_detection/FishNet/data/train.record`
 <br>
