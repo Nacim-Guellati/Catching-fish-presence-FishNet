@@ -1,0 +1,11 @@
+990 784 1291 967 Pomacentrus_sulfureus 
+1242 807 1307 854 Pomacentrus_sulfureus 
+106 755 234 925 Ctenochaetus_striatus 
+70 720 168 799 Ctenochaetus_striatus 
+407 723 486 782 Gnathodentex_aureolineatus 
+483 759 665 845 Gnathodentex_aureolineatus 
+677 815 728 919 Gnathodentex_aureolineatus 
+707 972 819 1030 Gnathodentex_aureolineatus 
+1379 600 1441 647 Zebrasoma 
+64 560 129 603 Chromis 
+34 533 94 574 Chromis 

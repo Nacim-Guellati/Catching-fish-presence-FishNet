@@ -1,0 +1,5 @@
+635 878 746 979 Ctenochaetus 
+1657 863 1885 976 Pomacentrus 
+0 606 115 683 Gnathodentex 
+1520 742 1836 886 Gnathodentex 
+998 714 1088 903 Chaetodon_trifascialis 

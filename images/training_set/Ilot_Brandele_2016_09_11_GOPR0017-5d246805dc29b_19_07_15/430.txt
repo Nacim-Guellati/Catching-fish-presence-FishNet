@@ -1,0 +1,8 @@
+411 576 566 661 Gnathodentex_aureolineatus 
+568 577 718 632 Gnathodentex_aureolineatus 
+838 933 1033 1048 Ctenochaetus_striatus 
+470 757 531 789 Pomacentrus_sulfureus 
+397 762 460 794 Pomacentrus_sulfureus 
+100 652 149 681 Chromis 
+170 704 216 735 Chromis 
+38 671 86 697 Chromis 

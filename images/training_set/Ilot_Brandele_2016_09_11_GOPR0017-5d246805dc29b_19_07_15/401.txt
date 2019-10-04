@@ -1,0 +1,5 @@
+276 673 553 764 Gomphosus_caeruleus_male 
+656 864 756 952 Ctenochaetus 
+1440 718 1758 857 Gnathodentex 
+1648 844 1881 951 Pomacentrus 
+1323 637 1442 798 Chaetodon_trifascialis 

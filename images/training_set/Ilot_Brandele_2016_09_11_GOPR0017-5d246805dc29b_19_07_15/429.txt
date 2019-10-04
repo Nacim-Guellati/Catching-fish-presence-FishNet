@@ -1,0 +1,6 @@
+291 562 455 646 Gnathodentex_aureolineatus 
+442 581 596 644 Gnathodentex_aureolineatus 
+876 939 1066 1046 Ctenochaetus_striatus 
+192 705 241 735 Chromis 
+112 657 159 684 Chromis 
+49 679 99 704 Chromis 

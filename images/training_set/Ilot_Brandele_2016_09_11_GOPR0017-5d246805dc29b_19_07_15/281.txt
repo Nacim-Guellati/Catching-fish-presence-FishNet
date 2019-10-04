@@ -1,0 +1,6 @@
+1662 835 1861 966 Pomacentrus_sulfureus 
+163 789 360 913 Ctenochaetus_striatus 
+672 903 743 957 Gnathodentex_aureolineatus 
+314 962 607 1075 Gnathodentex_aureolineatus 
+20 972 198 1076 Gnathodentex_aureolineatus 
+515 788 571 869 Gnathodentex_aureolineatus 

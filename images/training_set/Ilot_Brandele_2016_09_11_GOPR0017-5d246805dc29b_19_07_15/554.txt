@@ -1,0 +1,9 @@
+1 689 77 800 Chaetodon_trifasciatus 
+335 778 428 855 Chaetodon_trifasciatus 
+481 353 730 504 Gnathodentex_aureolineatus 
+1482 371 1917 689 Gnathodentex_aureolineatus 
+1560 794 1849 944 Gnathodentex_aureolineatus 
+1798 887 1917 976 Gnathodentex_aureolineatus 
+1290 818 1595 931 Gomphosus_caeruleus_female 
+975 822 1103 880 Gomphosus_caeruleus_female 
+1515 812 1617 900 Ctenochaetus_striatus 

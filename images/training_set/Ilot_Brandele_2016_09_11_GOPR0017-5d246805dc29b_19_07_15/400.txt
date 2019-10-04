@@ -1,0 +1,4 @@
+711 859 787 947 Ctenochaetus 
+1173 877 1222 927 Pomacentrus_sulfureus 
+642 669 827 742 Gomphosus_caeruleus_male 
+1676 722 1785 968 Chaetodon_trifascialis 

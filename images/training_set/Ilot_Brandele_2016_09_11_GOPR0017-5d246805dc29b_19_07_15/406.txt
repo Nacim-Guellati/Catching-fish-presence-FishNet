@@ -1,0 +1,6 @@
+771 871 856 978 Ctenochaetus 
+1148 901 1251 999 Ctenochaetus 
+1816 713 1907 777 Ctenochaetus 
+398 647 575 749 Gnathodentex 
+1190 691 1272 756 Gnathodentex 
+1142 806 1196 851 Pomacentrus_sulfureus 

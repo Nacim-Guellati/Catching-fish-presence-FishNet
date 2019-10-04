@@ -1,0 +1,7 @@
+469 944 664 1077 Ctenochaetus_striatus 
+100 729 230 814 Chaetodon_trifasciatus 
+727 838 969 959 Gnathodentex_aureolineatus 
+1654 799 1833 917 Pomacentrus_sulfureus 
+1418 801 1764 920 Gomphosus_caeruleus_female 
+1365 808 1474 861 Gomphosus_caeruleus_female 
+1762 745 1917 880 Gnathodentex_aureolineatus 

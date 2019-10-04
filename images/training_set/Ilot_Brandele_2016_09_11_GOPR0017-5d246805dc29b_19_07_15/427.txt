@@ -1,0 +1,5 @@
+1 541 175 619 Gnathodentex_aureolineatus 
+165 561 297 629 Gnathodentex_aureolineatus 
+855 898 1035 991 Ctenochaetus_striatus 
+1718 549 1893 698 Aphareus_furca 
+46 754 88 781 Chromis 
