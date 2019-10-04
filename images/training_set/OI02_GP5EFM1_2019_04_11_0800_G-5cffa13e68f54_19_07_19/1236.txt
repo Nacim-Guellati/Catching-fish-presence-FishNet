@@ -1,0 +1,4 @@
+856 425 945 506 Acanthurus_thompsoni 
+1072 496 1195 557 Acanthurus_thompsoni 
+495 859 546 899 Paracirrhites_forsteri 
+1149 733 1227 804 Naso_elegans 

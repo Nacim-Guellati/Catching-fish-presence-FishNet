@@ -1,0 +1,7 @@
+898 96 1123 246 Pygoplites_diacanthus 
+520 338 603 405 Chaetodon_trifasciatus 
+193 211 354 364 Zebrasoma_scopas 
+1694 516 1915 697 Labrichthys_unilineatus 
+752 756 867 848 Plectroglyphidodon_lacrymatus 
+1456 97 1519 142 Pomacentrus_sulfureus 
+1234 41 1289 76 Pomacentrus_sulfureus 

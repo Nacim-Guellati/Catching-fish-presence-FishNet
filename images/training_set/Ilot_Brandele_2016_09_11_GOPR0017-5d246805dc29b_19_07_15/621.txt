@@ -1,0 +1,6 @@
+1189 835 1275 886 Pomacentrus_sulfureus 
+703 914 858 1020 Gnathodentex_aureolineatus 
+885 935 1174 1033 Gnathodentex_aureolineatus 
+0 722 49 829 Chaetodon_trifasciatus 
+605 998 752 1073 Chaetodon_trifascialis 
+1535 875 1670 943 Hemigymnus_fasciatus 

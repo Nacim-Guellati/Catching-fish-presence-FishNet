@@ -1,0 +1,7 @@
+1394 254 1573 368 Nemanthias_carberryi_male 
+171 749 207 776 Chromis_dimidiata 
+546 681 576 701 Chromis_dimidiata 
+623 725 649 753 Chromis_dimidiata 
+1410 733 1456 761 Chromis_dimidiata 
+5 978 61 1059 Balistapus_undulatus 
+1265 1008 1352 1074 Pseudocheilinus_hexataenia 

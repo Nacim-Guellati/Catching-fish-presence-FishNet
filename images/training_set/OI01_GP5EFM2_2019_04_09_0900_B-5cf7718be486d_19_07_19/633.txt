@@ -1,0 +1,5 @@
+1130 628 1234 684 Ctenochaetus_truncatus 
+1408 211 1893 574 Plectorhinchus_obscurus 
+540 819 700 899 Acanthurus_lineatus 
+441 709 479 736 Chromis_dimidiata 
+1070 855 1134 900 Chromis_dimidiata 

@@ -1,0 +1,12 @@
+472 441 575 546 Stegastes_pelicieri 
+1148 797 1341 903 Pseudanthias_squamipinnis_male 
+1715 369 1916 467 Ecsenius_midas 
+868 731 970 791 Pseudanthias_bicolor_female 
+11 968 56 1046 Pseudanthias_bicolor_female 
+583 148 668 188 Pseudanthias 
+362 551 447 594 Pseudanthias 
+618 636 681 683 Pseudanthias 
+42 226 128 274 Pseudanthias 
+656 593 680 618 Chromis_dimidiata 
+752 591 778 616 Chromis_dimidiata 
+690 226 747 262 Pseudanthias 

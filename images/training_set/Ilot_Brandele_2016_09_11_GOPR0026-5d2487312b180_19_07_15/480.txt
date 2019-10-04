@@ -1,0 +1,7 @@
+626 122 725 229 Thalassoma_hardwicke 
+1198 744 1298 882 Chaetodon_meyeri 
+165 86 273 214 Chaetodon_trifasciatus 
+1637 59 1697 111 Pomacentrus_sulfureus 
+57 478 403 786 Zebrasoma_rostratum 
+933 59 1031 106 Gomphosus_caeruleus_female 
+1 733 117 1006 Gomphosus_caeruleus_female 

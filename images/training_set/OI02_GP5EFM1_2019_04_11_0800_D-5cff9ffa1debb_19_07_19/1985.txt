@@ -1,0 +1,3 @@
+179 93 360 178 Acanthurus_thompsoni 
+386 303 451 348 Acanthurus_thompsoni 
+545 361 615 400 Acanthurus_thompsoni 

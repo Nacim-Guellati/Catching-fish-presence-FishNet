@@ -1,0 +1,5 @@
+890 140 1047 187 Thalassoma_hardwicke 
+1386 121 1553 187 Thalassoma_hardwicke 
+617 395 770 464 Pomacentrus_sulfureus 
+1578 320 1640 358 Plectroglyphidodon_lacrymatus 
+1772 367 1845 409 Plectroglyphidodon_lacrymatus 

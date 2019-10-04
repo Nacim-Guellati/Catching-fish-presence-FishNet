@@ -1,0 +1,11 @@
+1387 232 1536 329 Ctenochaetus_striatus 
+528 282 870 609 Amanses_scopas 
+946 12 1083 121 Gomphosus_caeruleus_male 
+635 27 743 97 Pomacentrus_sulfureus 
+721 2 775 53 Pomacentrus_sulfureus 
+1287 31 1352 122 Amanses_scopas 
+1541 933 1677 1027 Gomphosus_caeruleus_female 
+1120 23 1181 84 Amanses_scopas 
+1358 1 1423 42 Ctenochaetus_striatus 
+895 16 958 54 Ctenochaetus_striatus 
+861 32 895 74 Ctenochaetus_striatus 

@@ -1,0 +1,13 @@
+1328 294 1469 375 Chromis_dimidiata 
+1585 223 1634 261 Chromis_dimidiata 
+1284 160 1315 194 Chromis_dimidiata 
+1055 81 1090 116 Chromis_dimidiata 
+818 45 856 72 Chromis_dimidiata 
+518 15 549 45 Chromis_dimidiata 
+657 154 676 175 Chromis_dimidiata 
+732 142 755 164 Chromis_dimidiata 
+871 212 892 237 Chromis_dimidiata 
+36 77 83 108 Chromis_dimidiata 
+276 58 308 89 Chromis_dimidiata 
+669 751 879 866 Halichoeres_hortulanus 
+1617 420 1726 456 Gomphosus_caeruleus_female 

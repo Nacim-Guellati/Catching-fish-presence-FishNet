@@ -1,0 +1,6 @@
+1063 613 1151 674 Chromis_dimidiata 
+195 882 276 959 Chromis_dimidiata 
+469 871 649 981 Gomphosus_caeruleus_male 
+1533 408 1676 504 Pseudanthias_squamipinnis_male 
+455 829 526 859 Paracirrhites_forsteri 
+1532 741 1606 807 Ptereleotris_evides 

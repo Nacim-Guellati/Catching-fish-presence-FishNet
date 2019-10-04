@@ -1,0 +1,4 @@
+559 934 677 1076 Ctenochaetus_striatus 
+55 748 143 831 Chaetodon_trifasciatus 
+850 787 1005 1000 Gnathodentex_aureolineatus 
+1754 838 1915 942 Gomphosus_caeruleus_female 

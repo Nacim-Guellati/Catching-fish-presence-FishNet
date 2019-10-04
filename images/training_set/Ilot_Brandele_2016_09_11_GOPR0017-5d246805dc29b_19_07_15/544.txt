@@ -1,0 +1,5 @@
+171 755 510 956 Hemigymnus_fasciatus 
+23 700 267 887 Ctenochaetus_striatus 
+776 840 852 950 Ctenochaetus_striatus 
+1801 865 1875 905 Pomacentrus_sulfureus 
+1158 562 1388 661 Gnathodentex_aureolineatus 

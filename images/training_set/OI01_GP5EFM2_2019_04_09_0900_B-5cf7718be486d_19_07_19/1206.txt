@@ -1,0 +1,9 @@
+1011 447 1153 514 Chromis_ternatensis 
+459 294 553 329 Chromis_ternatensis 
+414 187 481 221 Chromis_ternatensis 
+207 234 279 288 Chromis_ternatensis 
+488 442 529 476 Chromis_ternatensis 
+519 648 602 692 Nemateleotris_magnifica 
+836 647 911 719 Ctenochaetus_striatus 
+763 699 849 756 Acanthurus_lineatus 
+266 762 416 857 Acanthurus_lineatus 

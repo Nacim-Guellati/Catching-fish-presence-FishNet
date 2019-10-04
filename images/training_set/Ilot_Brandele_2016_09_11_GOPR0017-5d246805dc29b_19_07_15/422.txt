@@ -1,0 +1,8 @@
+1296 763 1442 833 Gnathodentex_aureolineatus 
+1662 828 1877 967 Pomacentrus_sulfureus 
+1795 718 1917 861 Zebrasoma_rostratum 
+1482 841 1626 906 Gomphosus_caeruleus_female 
+1450 766 1555 812 Gomphosus_caeruleus_female 
+792 837 962 944 Ctenochaetus_striatus 
+16 446 576 703 Aphareus_furca 
+1107 667 1172 719 Scaridae 

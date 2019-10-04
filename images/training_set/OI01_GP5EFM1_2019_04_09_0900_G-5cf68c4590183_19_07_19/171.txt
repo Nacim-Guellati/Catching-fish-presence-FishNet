@@ -1,0 +1,5 @@
+592 424 723 487 Ctenochaetus_striatus 
+1290 531 1351 578 Chromis_dimidiata 
+1356 814 1420 903 Chromis_dimidiata 
+418 416 581 521 Acanthurus_lineatus 
+1219 441 1351 492 Thalassoma_hebraicum 

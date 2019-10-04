@@ -1,0 +1,7 @@
+762 660 808 716 Ctenochaetus_striatus 
+1396 181 1437 224 Chromis_ternatensis 
+1749 324 1825 359 Chromis_ternatensis 
+1807 293 1867 335 Chromis_ternatensis 
+863 785 935 825 Chromis_ternatensis 
+1074 970 1148 1067 Chromis_ternatensis 
+1460 268 1525 328 Chromis_dimidiata 

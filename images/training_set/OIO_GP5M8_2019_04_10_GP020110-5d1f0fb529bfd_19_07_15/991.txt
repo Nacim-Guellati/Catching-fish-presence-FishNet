@@ -1,0 +1,6 @@
+511 293 920 463 Acanthurus_dussumieri 
+789 168 1148 335 Acanthurus_dussumieri 
+581 7 708 97 Sargocentron_cornutum 
+299 54 489 159 Sargocentron_cornutum 
+1341 804 1404 857 Acanthurus_dussumieri 
+1387 769 1463 807 Acanthurus_dussumieri 

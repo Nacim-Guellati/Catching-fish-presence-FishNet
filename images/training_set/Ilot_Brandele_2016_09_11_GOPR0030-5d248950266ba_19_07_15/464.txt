@@ -1,0 +1,5 @@
+1763 385 1823 450 Pomacentrus_sulfureus 
+777 805 887 886 Amphiprion 
+701 848 804 899 Amphiprion 
+458 269 574 327 Chromis_viridis 
+1193 282 1229 317 Acanthurus 

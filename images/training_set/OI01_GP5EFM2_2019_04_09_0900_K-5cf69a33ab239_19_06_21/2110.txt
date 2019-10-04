@@ -1,0 +1,8 @@
+248 462 343 524 Chromis_dimidiata 
+1490 458 1521 484 Chromis_dimidiata 
+621 564 676 606 Nemateleotris_magnifica 
+928 21 989 57 Chromis_ternatensis 
+1068 3 1124 45 Chromis_ternatensis 
+268 28 327 79 Chromis_ternatensis 
+1091 461 1169 514 Acanthurus_lineatus 
+1518 936 1639 1014 Plectroglyphidodon_johnstonianus 

@@ -1,0 +1,8 @@
+1124 667 1233 780 Ctenochaetus_striatus 
+1027 397 1071 431 Chromis_dimidiata 
+1578 598 1654 647 Chromis_dimidiata 
+202 452 248 479 Chromis_dimidiata 
+116 296 177 326 Labridae 
+347 240 426 288 Labridae 
+274 353 335 387 Labridae 
+295 417 353 441 Chromis 

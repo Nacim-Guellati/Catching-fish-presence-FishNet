@@ -1,0 +1,8 @@
+1134 727 1212 812 Ctenochaetus_striatus 
+999 698 1063 773 Ctenochaetus_striatus 
+327 502 584 655 Ctenochaetus_striatus 
+610 327 855 469 Ctenochaetus_striatus 
+1152 858 1206 965 Zebrasoma_scopas 
+1193 557 1270 613 Plectroglyphidodon_dickii 
+1532 760 1683 872 Monotaxis_grandoculis 
+1768 829 1916 928 Monotaxis_grandoculis 

@@ -1,0 +1,16 @@
+870 401 1059 494 Aethaloperca_rogaa 
+456 107 601 188 Lutjanus_gibbus 
+1723 207 1819 254 Chromis_dimidiata 
+1611 82 1673 129 Chromis_dimidiata 
+1349 172 1381 223 Chromis_dimidiata 
+1051 206 1084 226 Chromis_dimidiata 
+860 119 913 168 Chromis_dimidiata 
+781 76 825 113 Chromis_dimidiata 
+618 123 650 158 Chromis_dimidiata 
+441 637 549 701 Chromis_dimidiata 
+114 246 225 366 Chromis_dimidiata 
+155 74 205 117 Chromis_dimidiata 
+226 4 273 32 Chromis_dimidiata 
+406 57 446 96 Chromis_dimidiata 
+453 73 503 117 Chromis_dimidiata 
+504 49 548 84 Chromis_dimidiata 

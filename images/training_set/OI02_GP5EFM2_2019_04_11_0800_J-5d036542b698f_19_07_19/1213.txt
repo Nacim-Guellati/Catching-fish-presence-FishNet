@@ -1,0 +1,9 @@
+428 258 582 330 Chromis_dimidiata 
+515 556 633 601 Chromis_dimidiata 
+1511 85 1705 200 Chromis_dimidiata 
+1532 163 1585 205 Chromis_dimidiata 
+935 57 981 87 Chromis_dimidiata 
+1297 163 1323 184 Chromis_dimidiata 
+1456 221 1479 248 Chromis_dimidiata 
+1584 220 1613 243 Chromis_dimidiata 
+1226 544 1260 569 Chromis_dimidiata 

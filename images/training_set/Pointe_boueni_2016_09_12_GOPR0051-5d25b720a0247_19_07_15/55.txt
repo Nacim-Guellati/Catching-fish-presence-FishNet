@@ -1,0 +1,17 @@
+1005 141 1171 249 Acanthurus_lineatus 
+1233 202 1506 329 Acanthurus_lineatus 
+1632 258 1755 351 Acanthurus_lineatus 
+1398 388 1622 527 Acanthurus_lineatus 
+770 378 1022 482 Acanthurus_lineatus 
+633 259 855 351 Acanthurus_lineatus 
+265 12 466 171 Acanthurus_lineatus 
+197 673 305 763 Ctenochaetus_striatus 
+1010 201 1097 281 Ctenochaetus_striatus 
+166 429 225 521 Ctenochaetus_striatus 
+337 751 476 822 Plectroglyphidodon_dickii 
+1686 807 1821 881 Plectroglyphidodon_dickii 
+583 426 633 464 Thalassoma_hardwicke 
+1131 431 1252 492 Plectroglyphidodon_dickii 
+1602 0 1701 44 Abudefduf_sparoides 
+1390 349 1567 421 Gomphosus_caeruleus_male 
+806 329 863 401 Acanthurus_lineatus 

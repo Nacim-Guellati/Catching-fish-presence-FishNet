@@ -1,0 +1,5 @@
+108 160 187 233 Pygoplites_diacanthus 
+380 55 562 210 Caesio_lunaris 
+30 330 307 609 Caesio_lunaris 
+0 0 114 189 Caesio_lunaris 
+166 925 223 971 Pomacentrus_sulfureus 

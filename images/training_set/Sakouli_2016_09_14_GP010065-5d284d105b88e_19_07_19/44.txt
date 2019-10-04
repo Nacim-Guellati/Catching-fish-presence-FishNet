@@ -1,0 +1,7 @@
+810 28 860 60 Chromis_dimidiata 
+195 2 233 32 Chromis_dimidiata 
+1296 87 1322 122 Chromis_dimidiata 
+492 151 730 257 Cephalopholis_argus 
+533 122 663 195 Arothron 
+913 383 961 453 Pomacentrus_sulfureus 
+422 94 485 149 Gomphosus_caeruleus_female 

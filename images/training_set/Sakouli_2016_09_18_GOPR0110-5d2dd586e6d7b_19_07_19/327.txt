@@ -1,0 +1,16 @@
+180 136 254 184 Chromis_dimidiata 
+134 319 201 367 Chromis_dimidiata 
+600 211 651 247 Chromis_dimidiata 
+851 361 912 404 Chromis_dimidiata 
+1107 34 1160 77 Chromis_dimidiata 
+642 287 675 316 Chromis_dimidiata 
+1140 242 1208 284 Pomacentrus_sulfureus 
+957 283 1013 332 Pomacentrus_sulfureus 
+1025 478 1085 530 Pomacentrus_sulfureus 
+723 494 830 562 Pomacentrus_sulfureus 
+380 451 456 494 Pomacentrus_sulfureus 
+243 365 320 407 Pomacentrus_sulfureus 
+2 170 104 248 Pomacentrus_sulfureus 
+69 467 140 523 Chaetodon_auriga 
+741 659 855 755 Zebrasoma_rostratum 
+848 479 1031 595 Balistapus_undulatus 

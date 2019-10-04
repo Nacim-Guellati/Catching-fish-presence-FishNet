@@ -1,0 +1,8 @@
+1564 300 1771 425 Chaetodon_trifascialis 
+553 192 731 320 Acanthurus_lineatus 
+182 0 337 93 Abudefduf_sparoides 
+379 146 470 233 Ctenochaetus_striatus 
+3 206 191 343 Ctenochaetus_striatus 
+1118 198 1156 228 Chaetodon_trifasciatus 
+145 512 228 604 Pomacentrus_sulfureus 
+1206 786 1294 854 Plectroglyphidodon_lacrymatus 

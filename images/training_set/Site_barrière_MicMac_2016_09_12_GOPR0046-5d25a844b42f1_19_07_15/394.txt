@@ -1,0 +1,12 @@
+733 576 918 688 Ctenochaetus_striatus 
+935 658 1046 723 Ctenochaetus_striatus 
+1047 710 1096 794 Ctenochaetus_striatus 
+1149 882 1263 976 Zebrasoma_scopas 
+865 782 934 831 Abudefduf_vaigiensis 
+991 763 1042 828 Abudefduf_vaigiensis 
+1142 645 1213 694 Abudefduf_vaigiensis 
+928 488 1064 637 Myripristis_murdjan 
+1027 626 1065 650 Chromis_dimidiata 
+1550 732 1808 860 Monotaxis_grandoculis 
+1462 640 1605 763 Monotaxis_grandoculis 
+1720 488 1855 621 Monotaxis_grandoculis 

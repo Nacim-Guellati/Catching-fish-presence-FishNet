@@ -1,0 +1,5 @@
+1061 182 1167 254 Chromis_dimidiata 
+953 639 981 658 Chromis_dimidiata 
+1658 442 1807 490 Gomphosus_caeruleus_female 
+356 566 428 629 Chromis_ternatensis 
+1010 852 1123 911 Thalassoma_lunare 

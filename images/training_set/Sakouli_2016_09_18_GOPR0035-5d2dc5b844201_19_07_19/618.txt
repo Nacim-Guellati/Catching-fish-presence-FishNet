@@ -1,0 +1,7 @@
+992 299 1041 354 Oxymonacanthus_longirostris 
+1102 309 1191 397 Oxymonacanthus_longirostris 
+412 427 898 543 Gomphosus_caeruleus_male 
+317 91 408 135 Labridae 
+188 71 284 137 Ctenochaetus_striatus 
+877 122 953 166 Ctenochaetus_striatus 
+573 0 639 36 Zebrasoma_scopas 

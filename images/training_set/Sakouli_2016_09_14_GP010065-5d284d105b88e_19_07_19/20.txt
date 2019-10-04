@@ -1,0 +1,8 @@
+167 40 214 73 Chromis_dimidiata 
+936 187 967 217 Chromis_dimidiata 
+1025 245 1073 275 Chromis_dimidiata 
+1279 191 1330 228 Chromis_dimidiata 
+1016 341 1099 399 Pomacentrus_sulfureus 
+7 100 64 134 Pomacentrus_sulfureus 
+246 190 430 319 Zebrasoma_scopas 
+638 169 787 262 Arothron 

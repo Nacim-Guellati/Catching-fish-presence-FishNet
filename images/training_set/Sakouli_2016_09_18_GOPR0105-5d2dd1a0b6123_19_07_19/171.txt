@@ -1,0 +1,7 @@
+891 212 972 386 Zanclus_cornutus 
+1374 232 1511 383 Ctenochaetus_striatus 
+1823 20 1917 85 Pomacentrus_sulfureus 
+1560 491 1676 560 Pomacentrus_sulfureus 
+524 391 650 503 Macolor_niger_juv 
+441 211 479 242 Pomacentrus_sulfureus 
+710 248 768 289 Pomacentrus_sulfureus 

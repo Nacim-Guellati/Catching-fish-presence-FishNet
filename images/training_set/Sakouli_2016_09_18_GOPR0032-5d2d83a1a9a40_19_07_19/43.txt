@@ -1,0 +1,8 @@
+834 547 911 699 Pomacentrus_sulfureus 
+1325 170 1490 255 Gomphosus_caeruleus_male 
+908 273 1076 330 Gomphosus_caeruleus_female 
+939 255 984 294 Chaetodon_trifasciatus 
+1600 79 1727 143 Thalassoma_hebraicum 
+439 354 543 406 Thalassoma_hebraicum 
+1732 218 1844 280 Ctenochaetus_striatus 
+1494 225 1563 276 Scarus_sordidus_female 

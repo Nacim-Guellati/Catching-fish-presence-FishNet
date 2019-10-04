@@ -1,0 +1,4 @@
+605 877 758 974 Ctenochaetus 
+13 617 220 687 Gnathodentex 
+871 903 1030 1057 Chaetodon_trifascialis 
+1672 869 1876 974 Pomacentrus_sulfureus 

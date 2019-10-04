@@ -1,0 +1,4 @@
+1069 161 1139 250 Chromis_dimidiata 
+885 642 915 659 Chromis_dimidiata 
+1057 621 1117 682 Ctenochaetus_truncatus 
+748 746 783 778 Nemateleotris_magnifica 

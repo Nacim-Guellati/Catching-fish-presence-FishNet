@@ -1,0 +1,15 @@
+468 163 692 286 Thalassoma_hardwicke 
+1076 352 1271 548 Cephalopholis_argus 
+758 307 818 397 Ctenochaetus_striatus 
+24 347 233 466 Ctenochaetus_striatus 
+365 181 434 262 Pomacentrus_sulfureus 
+404 178 515 244 Pomacentrus_sulfureus 
+656 86 743 125 Pterocaesio_tile 
+819 35 887 77 Pterocaesio_tile 
+750 166 830 208 Pterocaesio_tile 
+882 172 972 223 Pterocaesio_tile 
+590 295 660 344 Pterocaesio_tile 
+272 110 332 161 Pterocaesio_tile 
+227 70 302 106 Pterocaesio_tile 
+435 137 510 184 Pterocaesio_tile 
+1626 799 1916 1054 Chaetodon_falcula 

@@ -1,0 +1,4 @@
+1166 304 1391 417 Acanthurus_dussumieri 
+1032 416 1271 550 Acanthurus_dussumieri 
+1177 135 1290 251 Acanthurus_dussumieri 
+1321 551 1375 662 Acanthurus_thompsoni 

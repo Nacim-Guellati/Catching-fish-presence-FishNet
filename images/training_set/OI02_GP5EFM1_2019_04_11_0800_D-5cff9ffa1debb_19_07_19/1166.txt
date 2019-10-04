@@ -1,0 +1,7 @@
+251 979 356 1053 Chromis_dimidiata 
+190 634 373 707 Pseudanthias_bicolor 
+331 734 425 773 Pseudanthias_bicolor 
+840 127 999 194 Pseudanthias_bicolor 
+1461 247 1676 323 Pseudanthias_bicolor 
+446 539 624 631 Chromis_lepidolepis 
+431 646 536 708 Chromis_lepidolepis 

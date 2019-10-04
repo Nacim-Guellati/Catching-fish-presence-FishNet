@@ -1,0 +1,6 @@
+563 665 617 704 Nemateleotris_magnifica 
+1644 662 1897 754 Balistapus_undulatus 
+1392 477 1420 500 Chromis_dimidiata 
+883 535 910 552 Chromis_dimidiata 
+389 399 459 434 Chromis_dimidiata 
+1463 364 1546 394 Chromis_ternatensis 

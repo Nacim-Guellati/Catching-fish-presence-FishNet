@@ -1,0 +1,5 @@
+2 770 246 895 Ctenochaetus_striatus 
+812 868 990 990 Ctenochaetus_striatus 
+1797 873 1875 919 Pomacentrus_sulfureus 
+1187 526 1419 687 Gnathodentex_aureolineatus 
+74 149 432 342 Caesio_lunaris 

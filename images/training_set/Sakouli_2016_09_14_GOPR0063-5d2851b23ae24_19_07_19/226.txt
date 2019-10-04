@@ -1,0 +1,9 @@
+489 79 611 241 Zebrasoma_rostratum 
+561 274 701 421 Zebrasoma_rostratum 
+20 262 299 392 Naso_elegans 
+1430 839 1551 938 Plectroglyphidodon_dickii 
+275 415 384 485 Thalassoma_hardwicke 
+102 403 191 463 Thalassoma_hardwicke 
+48 412 128 445 Thalassoma_hardwicke 
+192 463 273 503 Pomacentrus_sulfureus 
+21 434 63 491 Pomacentrus_sulfureus 

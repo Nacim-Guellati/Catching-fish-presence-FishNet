@@ -1,0 +1,7 @@
+1491 772 1611 841 Gnathodentex_aureolineatus 
+1802 837 1867 949 Pomacentrus_sulfureus 
+1667 788 1791 863 Gomphosus_caeruleus_female 
+891 859 1051 962 Ctenochaetus_striatus 
+926 452 1201 627 Aphareus_furca 
+124 779 175 807 Chromis 
+1288 634 1343 685 Scaridae 

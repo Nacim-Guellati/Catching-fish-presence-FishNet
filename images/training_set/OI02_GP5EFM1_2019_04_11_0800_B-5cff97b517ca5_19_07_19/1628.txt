@@ -1,0 +1,9 @@
+1144 666 1187 711 Chromis_dimidiata 
+537 697 639 766 Chromis_dimidiata 
+1371 721 1468 761 Chromis_lepidolepis 
+1048 302 1180 391 Pseudanthias_bicolor 
+914 437 1031 480 Pseudanthias_bicolor 
+1167 792 1252 837 Pseudanthias_bicolor 
+494 863 536 894 Paracirrhites_forsteri 
+1260 354 1319 385 Acanthurus_thompsoni 
+556 327 698 398 Lutjanus_bohar 

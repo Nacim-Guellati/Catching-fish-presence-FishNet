@@ -1,0 +1,17 @@
+139 15 193 48 Chromis_dimidiata 
+4 34 47 67 Chromis_dimidiata 
+213 128 248 159 Chromis_dimidiata 
+156 167 192 196 Chromis_dimidiata 
+438 136 472 159 Chromis_dimidiata 
+394 15 430 45 Chromis_dimidiata 
+530 164 554 196 Chromis_dimidiata 
+602 121 625 150 Chromis_dimidiata 
+713 103 745 131 Chromis_dimidiata 
+870 149 906 172 Chromis_dimidiata 
+1004 31 1052 64 Chromis_dimidiata 
+1450 475 1570 587 Chromis_dimidiata 
+952 315 1067 391 Chromis_ternatensis 
+1035 489 1129 573 Chromis_ternatensis 
+846 588 921 651 Chromis_ternatensis 
+1 833 371 1006 Aethaloperca_rogaa 
+1472 273 1576 325 Ctenochaetus_truncatus 

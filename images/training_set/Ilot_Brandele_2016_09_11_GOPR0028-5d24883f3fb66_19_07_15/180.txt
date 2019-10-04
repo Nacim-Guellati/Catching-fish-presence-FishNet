@@ -1,0 +1,4 @@
+423 231 483 317 Pomacentrus_sulfureus 
+1426 69 1492 117 Chaetodon_trifascialis 
+1476 116 1555 166 Chaetodon_trifascialis 
+1126 0 1350 48 Halichoeres_hortulanus 

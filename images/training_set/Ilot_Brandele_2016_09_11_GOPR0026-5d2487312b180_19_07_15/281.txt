@@ -1,0 +1,6 @@
+418 134 530 274 Hologymnosus_annulatus 
+325 198 401 307 Hologymnosus_annulatus 
+98 373 215 496 Chaetodon_meyeri 
+1021 73 1100 122 Pomacentrus_caeruleus 
+1841 139 1911 251 Zebrasoma_rostratum 
+0 838 160 962 Gomphosus_caeruleus_female 

@@ -1,0 +1,11 @@
+1180 210 1302 260 Acanthurus_thompsoni 
+1663 479 1755 568 Chromis_dimidiata 
+638 571 678 641 Chromis_dimidiata 
+759 649 803 688 Chromis_dimidiata 
+1372 892 1432 957 Pseudanthias_squamipinnis_male 
+515 649 578 691 Pseudanthias_squamipinnis_male 
+453 820 512 861 Paracirrhites_forsteri 
+1282 960 1354 1019 Ctenochaetus_striatus 
+937 426 1053 486 Pseudanthias_bicolor 
+815 624 890 672 Pseudanthias_bicolor 
+1057 297 1148 358 Pseudanthias_bicolor 

@@ -1,0 +1,7 @@
+27 159 164 234 Chromis_dimidiata 
+895 222 923 250 Chromis_dimidiata 
+1317 124 1349 165 Chromis_dimidiata 
+965 363 1020 416 Pomacentrus_sulfureus 
+278 112 440 212 Arothron 
+131 313 240 364 Gomphosus_caeruleus_female 
+1176 170 1258 233 Ctenochaetus_striatus 

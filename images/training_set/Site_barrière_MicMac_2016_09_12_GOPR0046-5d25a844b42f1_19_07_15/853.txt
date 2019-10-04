@@ -1,0 +1,4 @@
+1355 570 1483 650 Zanclus_cornutus 
+779 685 920 769 Gomphosus_caeruleus_male 
+1563 898 1628 948 Abudefduf_vaigiensis 
+1033 896 1182 1030 Myripristis_murdjan 

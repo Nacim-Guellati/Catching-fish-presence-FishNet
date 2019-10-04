@@ -1,0 +1,15 @@
+740 158 794 229 Chromis_dimidiata 
+630 336 674 398 Chromis_dimidiata 
+495 573 568 637 Chromis_dimidiata 
+1225 151 1293 212 Chromis_dimidiata 
+1321 202 1456 277 Chromis_dimidiata 
+1261 363 1321 414 Chromis_dimidiata 
+1375 306 1493 362 Chromis_dimidiata 
+1764 104 1849 164 Chromis_dimidiata 
+778 601 976 679 Gomphosus_caeruleus_male 
+694 696 746 734 Chromis_dimidiata 
+848 334 965 416 Acanthurus_lineatus 
+1590 354 1721 437 Acanthurus_lineatus 
+1556 486 1674 521 Chromis_ternatensis 
+1624 448 1715 483 Chromis_ternatensis 
+1711 876 1816 932 Thalassoma_amblycephalum 

@@ -1,0 +1,5 @@
+1702 890 1761 929 Chromis_dimidiata 
+1505 535 1573 631 Chromis_dimidiata 
+497 674 562 718 Chromis_dimidiata 
+791 692 828 715 Chromis_dimidiata 
+847 583 875 604 Chromis_dimidiata 

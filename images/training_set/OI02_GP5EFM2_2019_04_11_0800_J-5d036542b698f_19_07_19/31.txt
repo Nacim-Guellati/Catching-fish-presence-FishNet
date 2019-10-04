@@ -1,0 +1,9 @@
+1402 250 1439 287 Chromis_dimidiata 
+920 91 966 132 Chromis_dimidiata 
+544 58 578 93 Chromis_dimidiata 
+181 58 252 96 Chromis_dimidiata 
+551 107 579 135 Chromis_dimidiata 
+297 157 335 180 Chromis_dimidiata 
+1342 107 1433 170 Acanthurus_thompsoni 
+741 174 809 233 Lutjanus_gibbus 
+1206 576 1241 604 Chromis_dimidiata 

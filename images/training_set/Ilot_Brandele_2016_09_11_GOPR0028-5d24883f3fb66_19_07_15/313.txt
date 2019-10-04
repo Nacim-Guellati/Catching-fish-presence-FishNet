@@ -1,0 +1,3 @@
+1085 316 1270 428 Scarus_sordidus_female 
+1292 79 1346 119 Pomacentrus_sulfureus 
+1223 309 1367 434 Pomacentrus_sulfureus 

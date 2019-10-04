@@ -1,0 +1,11 @@
+1081 300 1169 353 Oxymonacanthus_longirostris 
+968 314 1037 406 Oxymonacanthus_longirostris 
+1252 170 1308 218 Gomphosus_caeruleus_female 
+1271 500 1767 734 Gomphosus_caeruleus_male 
+635 4 690 42 Pomacentrus_sulfureus 
+1403 105 1459 140 Pomacentrus_sulfureus 
+612 338 699 421 Labrichthys_unilineatus 
+759 410 823 462 Plectroglyphidodon_lacrymatus 
+779 464 868 599 Aethaloperca_rogaa 
+587 151 679 192 Labridae 
+444 32 507 71 Ctenochaetus_striatus 

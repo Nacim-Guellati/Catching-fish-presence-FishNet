@@ -1,0 +1,10 @@
+1599 439 1710 637 Chaetodon_falcula 
+1680 280 1848 386 Ctenochaetus_striatus 
+1806 151 1907 337 Ctenochaetus_striatus 
+282 311 429 379 Thalassoma_hardwicke 
+723 373 813 421 Thalassoma_hardwicke 
+1145 287 1241 329 Thalassoma_hardwicke 
+488 398 528 446 Pomacentrus_sulfureus 
+597 568 671 641 Pomacentrus_sulfureus 
+0 767 146 895 Pomacentrus_sulfureus 
+1827 574 1917 671 Plectroglyphidodon_dickii 

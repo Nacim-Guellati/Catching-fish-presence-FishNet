@@ -1,0 +1,5 @@
+542 169 599 209 Pomacentrus_sulfureus 
+0 237 155 309 Pomacentrus_sulfureus 
+593 244 649 286 Chaetodon_trifasciatus 
+685 255 741 302 Chaetodon_trifasciatus 
+1292 233 1378 283 Balistapus_undulatus 

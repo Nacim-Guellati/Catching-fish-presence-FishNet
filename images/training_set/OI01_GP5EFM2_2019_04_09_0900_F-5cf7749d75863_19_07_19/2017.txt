@@ -1,0 +1,10 @@
+769 424 832 461 Chromis_ternatensis 
+658 367 722 394 Chromis_ternatensis 
+572 429 629 458 Chromis_ternatensis 
+78 398 202 439 Chromis_ternatensis 
+1123 382 1183 408 Chromis_ternatensis 
+1264 448 1309 474 Chromis_ternatensis 
+1128 434 1172 461 Chromis_ternatensis 
+1703 991 1863 1071 unknown_fish 
+1544 634 1689 717 Acanthurus_lineatus 
+612 517 656 547 Chromis_dimidiata 

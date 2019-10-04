@@ -1,0 +1,16 @@
+1680 248 1915 371 Acanthurus_lineatus 
+1481 229 1598 302 Acanthurus_lineatus 
+805 284 925 351 Acanthurus_lineatus 
+1431 313 1500 372 Acanthurus_lineatus 
+1692 202 1831 258 Acanthurus_lineatus 
+1133 398 1288 472 Ctenochaetus_striatus 
+1317 494 1403 566 Ctenochaetus_striatus 
+1303 549 1511 644 Ctenochaetus_striatus 
+523 554 690 628 Pomacentrus_sulfureus 
+357 643 477 779 Pomacentrus_sulfureus 
+430 406 476 433 Pomacentrus_sulfureus 
+500 363 547 397 Pomacentrus_sulfureus 
+1210 289 1270 326 Ctenochaetus_striatus 
+1593 204 1622 258 Abudefduf_sparoides 
+1822 403 1883 442 Abudefduf_sparoides 
+1875 342 1917 383 Abudefduf_sparoides 

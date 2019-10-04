@@ -1,0 +1,8 @@
+577 272 644 303 Chromis_ternatensis 
+688 313 777 357 Chromis_ternatensis 
+1088 64 1147 106 Chromis_ternatensis 
+1042 249 1084 278 Chromis_ternatensis 
+1 202 97 253 Chromis_ternatensis 
+811 397 836 431 Chromis_dimidiata 
+786 31 893 111 Scarus 
+251 734 281 762 Chromis_dimidiata 

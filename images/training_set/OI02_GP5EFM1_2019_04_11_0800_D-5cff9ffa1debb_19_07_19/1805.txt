@@ -1,0 +1,9 @@
+1706 823 1764 869 Chromis_dimidiata 
+1044 514 1099 558 Chromis_dimidiata 
+43 548 97 621 Chromis_dimidiata 
+590 268 630 322 Acanthurus_thompsoni 
+815 181 852 238 Acanthurus_thompsoni 
+430 887 608 997 Gomphosus_caeruleus_male 
+944 78 996 165 Pseudanthias_squamipinnis_female 
+1830 352 1907 442 Pseudanthias_squamipinnis_female 
+1354 539 1417 579 Chromis_lepidolepis 

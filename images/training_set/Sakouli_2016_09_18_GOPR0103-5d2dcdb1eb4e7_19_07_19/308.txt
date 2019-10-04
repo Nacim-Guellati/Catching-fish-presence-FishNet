@@ -1,0 +1,6 @@
+1198 214 1378 355 Pygoplites_diacanthus 
+1509 678 1626 730 Pomacentrus_sulfureus 
+1827 824 1916 876 Pomacentrus_sulfureus 
+1389 313 1461 355 Pomacentrus_sulfureus 
+1097 673 1136 712 Pomacentrus_sulfureus 
+1419 671 1470 713 Pomacentrus_sulfureus 

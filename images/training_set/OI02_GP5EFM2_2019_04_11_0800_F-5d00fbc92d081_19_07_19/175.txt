@@ -1,0 +1,3 @@
+369 178 568 267 Hemigymnus_fasciatus 
+778 58 801 84 Chromis_dimidiata 
+2 129 118 218 Ctenochaetus_striatus 

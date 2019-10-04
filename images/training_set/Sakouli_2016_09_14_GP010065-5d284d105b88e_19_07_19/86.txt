@@ -1,0 +1,9 @@
+1233 104 1300 145 Chromis_dimidiata 
+227 223 277 285 Chromis_dimidiata 
+898 374 975 430 Pomacentrus_sulfureus 
+174 94 333 195 Thalassoma_hardwicke 
+275 96 414 193 Arothron 
+348 282 419 328 Gomphosus_caeruleus_female 
+808 231 840 257 Chromis_dimidiata 
+1241 180 1300 241 Ctenochaetus_striatus 
+355 651 452 763 Centropyge_multispinis 

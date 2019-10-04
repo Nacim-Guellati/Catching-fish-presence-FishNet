@@ -1,0 +1,7 @@
+272 627 634 766 Gomphosus_caeruleus_male 
+1037 427 1278 536 Acanthurus_lineatus 
+1286 498 1409 579 Acanthurus_lineatus 
+1377 589 1624 677 Acanthurus_lineatus 
+937 566 1061 617 Thalassoma_hardwicke 
+488 761 653 913 Ctenochaetus_striatus 
+819 783 1094 957 Ctenochaetus_striatus 

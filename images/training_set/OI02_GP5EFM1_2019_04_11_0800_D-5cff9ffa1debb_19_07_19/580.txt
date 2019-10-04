@@ -1,0 +1,17 @@
+328 419 418 477 Chromis_dimidiata 
+364 721 399 741 Chromis_dimidiata 
+1527 711 1596 772 Chromis_dimidiata 
+809 164 892 228 Carangidae 
+908 224 987 299 Carangidae 
+1251 420 1330 488 Pseudanthias_squamipinnis_female 
+897 359 966 401 Pseudanthias_squamipinnis_female 
+889 655 966 695 Pseudanthias_bicolor 
+1219 516 1319 630 Pseudanthias_bicolor 
+66 616 204 674 Pseudanthias_bicolor 
+555 786 655 836 Ctenochaetus_striatus 
+398 319 489 377 Acanthurus_thompsoni 
+349 547 415 584 Chromis_lepidolepis 
+137 467 212 506 Chromis_lepidolepis 
+746 687 787 709 Chromis_lepidolepis 
+1087 684 1126 714 Chromis_lepidolepis 
+668 589 720 620 Pseudanthias_squamipinnis_male 

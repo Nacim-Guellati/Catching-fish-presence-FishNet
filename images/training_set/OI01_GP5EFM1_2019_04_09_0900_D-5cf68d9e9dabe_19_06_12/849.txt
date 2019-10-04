@@ -1,0 +1,6 @@
+587 622 619 659 Chromis_dimidiata 
+565 934 607 965 Chromis_dimidiata 
+665 526 818 596 Ctenochaetus_striatus 
+1682 550 1764 630 Plectropomus_punctatus 
+60 431 197 490 Acanthurus_lineatus 
+1078 711 1348 904 Chaetodon_trifasciatus 

@@ -1,0 +1,5 @@
+1600 786 1705 861 Gnathodentex_aureolineatus 
+862 893 1037 973 Ctenochaetus_striatus 
+347 751 400 791 Pomacentrus_sulfureus 
+1198 449 1416 631 Aphareus_furca 
+1393 637 1461 687 Scaridae 

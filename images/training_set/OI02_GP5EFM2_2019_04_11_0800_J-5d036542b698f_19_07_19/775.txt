@@ -1,0 +1,14 @@
+71 394 148 468 Chromis_dimidiata 
+861 516 933 588 Chromis_dimidiata 
+1129 382 1311 477 Chromis_dimidiata 
+1231 578 1291 611 Chromis_dimidiata 
+1434 282 1470 333 Chromis_dimidiata 
+1509 211 1575 248 Chromis_dimidiata 
+1553 4 1593 38 Chromis_dimidiata 
+888 4 945 53 Chromis_dimidiata 
+1046 152 1085 197 Chromis_dimidiata 
+395 13 435 46 Chromis_dimidiata 
+518 48 576 86 Chromis_dimidiata 
+689 31 766 94 Chromis_ternatensis 
+1290 49 1363 116 Chromis_ternatensis 
+794 34 841 67 Acanthurus_thompsoni 

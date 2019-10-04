@@ -1,0 +1,4 @@
+731 619 786 668 Nemateleotris_magnifica 
+473 523 774 646 Acanthurus_lineatus 
+431 658 463 678 Chromis_dimidiata 
+1831 736 1913 787 Chaetodon_guttatissimus 

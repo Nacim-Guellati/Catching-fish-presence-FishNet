@@ -1,0 +1,16 @@
+914 494 1026 560 Pomacentrus_sulfureus 
+1773 479 1888 539 Pomacentrus_sulfureus 
+1067 477 1176 573 Zebrasoma_scopas 
+1152 312 1225 378 Chromis_viridis 
+1136 404 1245 470 Chromis_viridis 
+1296 371 1360 432 Chromis_viridis 
+1286 308 1383 359 Chromis_viridis 
+1344 250 1457 315 Chromis_viridis 
+1511 202 1645 262 Chromis_viridis 
+1577 252 1700 310 Chromis_viridis 
+1523 145 1621 193 Chromis_viridis 
+1285 238 1366 299 Chromis_viridis 
+1438 319 1564 376 Chromis_ternatensis 
+1371 402 1446 450 Chromis_ternatensis 
+1656 465 1805 542 Chromis_ternatensis 
+1378 365 1466 408 Labroides_dimidiatus 

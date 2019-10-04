@@ -1,0 +1,16 @@
+467 154 561 241 Ctenochaetus_striatus 
+1064 256 1188 362 Ctenochaetus_striatus 
+1053 118 1140 158 Pomacentrus_sulfureus 
+545 83 594 179 Pomacentrus_sulfureus 
+1334 415 1445 490 Pomacentrus_sulfureus 
+1232 188 1304 262 Gomphosus_caeruleus_female 
+1292 412 1370 499 Chaetodon_auriga 
+338 176 405 278 Chaetodon_trifasciatus 
+726 308 855 407 Chaetodon_trifasciatus 
+462 526 600 604 Stegastes_pelicieri 
+1782 170 1895 232 Arothron 
+824 137 899 179 Chaetodon_auriga 
+243 220 354 274 Thalassoma_hardwicke 
+894 164 984 218 Hemigymnus_fasciatus 
+375 1 467 49 Arothron 
+245 0 332 63 Heniochus 

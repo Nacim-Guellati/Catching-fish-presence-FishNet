@@ -1,0 +1,4 @@
+1156 298 1360 402 Acanthurus_dussumieri 
+1010 406 1251 529 Acanthurus_dussumieri 
+1182 155 1264 261 Acanthurus_dussumieri 
+1308 743 1354 833 Acanthurus_thompsoni 

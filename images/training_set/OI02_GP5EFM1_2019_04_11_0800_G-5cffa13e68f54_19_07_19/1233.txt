@@ -1,0 +1,5 @@
+1059 431 1204 492 Acanthurus_thompsoni 
+1320 518 1462 582 Acanthurus_thompsoni 
+1063 918 1099 965 Chaetodon_guttatissimus 
+488 855 543 896 Paracirrhites_forsteri 
+1129 756 1230 807 Naso_elegans 

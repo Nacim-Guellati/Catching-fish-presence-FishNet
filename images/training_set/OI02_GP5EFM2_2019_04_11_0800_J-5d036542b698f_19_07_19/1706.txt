@@ -1,0 +1,10 @@
+1386 322 1630 401 Chromis_dimidiata 
+1593 238 1666 276 Chromis_dimidiata 
+1468 246 1519 276 Chromis_dimidiata 
+1388 208 1431 243 Chromis_dimidiata 
+735 117 774 143 Chromis_dimidiata 
+621 42 661 91 Chromis_dimidiata 
+411 123 454 144 Chromis_dimidiata 
+385 108 424 139 Chromis_dimidiata 
+673 179 793 266 Zanclus_cornutus 
+1324 142 1379 186 Acanthurus_thompsoni 

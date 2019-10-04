@@ -1,0 +1,4 @@
+1489 433 1570 574 Pomacentrus_sulfureus 
+807 413 950 683 Amanses_scopas 
+1544 9 1598 58 Ctenochaetus_striatus 
+1003 61 1068 107 Thalassoma_hardwicke 

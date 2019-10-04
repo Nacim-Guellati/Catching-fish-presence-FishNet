@@ -1,0 +1,9 @@
+1352 719 1614 856 Acanthurus_lineatus 
+1764 858 1918 964 Bodianus_diana 
+1670 341 1716 371 Chromis_dimidiata 
+1379 185 1417 216 Chromis_dimidiata 
+1078 279 1111 305 Chromis_dimidiata 
+904 240 942 261 Chromis_dimidiata 
+884 321 909 347 Chromis_dimidiata 
+963 267 999 290 Chromis_dimidiata 
+50 276 88 304 Chromis_dimidiata 

@@ -1,0 +1,5 @@
+108 143 180 243 Pygoplites_diacanthus 
+197 121 459 374 Caesio_lunaris 
+371 51 647 374 Caesio_lunaris 
+434 295 588 453 Caesio_lunaris 
+129 658 205 729 Ctenochaetus_striatus 

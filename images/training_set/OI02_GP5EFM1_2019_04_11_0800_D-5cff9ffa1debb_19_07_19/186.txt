@@ -1,0 +1,7 @@
+1036 246 1136 304 Acanthurus_thompsoni 
+790 620 834 655 Chromis_dimidiata 
+1387 889 1459 933 Pseudanthias_squamipinnis_male 
+483 821 541 885 Chaetodon_guttatissimus 
+1778 430 1918 486 Pseudanthias_bicolor 
+1643 340 1800 403 Pseudanthias_bicolor 
+1439 754 1566 800 Pseudanthias_bicolor 

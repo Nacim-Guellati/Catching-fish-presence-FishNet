@@ -1,0 +1,14 @@
+1284 601 1347 640 Chromis_dimidiata 
+1172 527 1215 553 Chromis_dimidiata 
+1088 158 1193 248 Chromis_dimidiata 
+1403 270 1451 304 Chromis_dimidiata 
+1615 202 1654 250 Chromis_dimidiata 
+1767 373 1797 402 Chromis_dimidiata 
+979 28 1012 58 Chromis_dimidiata 
+713 56 760 88 Chromis_dimidiata 
+610 79 642 101 Chromis_dimidiata 
+718 231 752 252 Chromis_dimidiata 
+265 112 317 144 Chromis_dimidiata 
+937 784 1119 966 Chaetodon_guttatissimus 
+589 7 661 56 Lutjanus_gibbus 
+200 52 404 153 Cetoscarus_ocellatus 

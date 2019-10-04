@@ -1,0 +1,17 @@
+583 486 698 542 Stegastes_pelicieri 
+597 262 636 286 Chromis_dimidiata 
+581 301 615 328 Chromis_dimidiata 
+730 302 780 327 Chromis_dimidiata 
+786 299 806 318 Chromis_dimidiata 
+848 303 898 328 Chromis_dimidiata 
+292 513 406 603 Thalassoma_hardwicke 
+732 216 787 266 Zebrasoma_rostratum 
+1101 263 1181 313 Chromis_viridis 
+1325 266 1388 312 Chromis_viridis 
+1491 343 1567 379 Chromis_viridis 
+583 154 627 189 Chromis_viridis 
+642 158 687 201 Chromis_viridis 
+770 189 816 221 Chromis_viridis 
+1166 0 1300 41 Thalassoma_amblycephalum 
+1416 612 1488 681 Plectroglyphidodon_dickii 
+1208 732 1452 883 Pomacentrus_sulfureus 

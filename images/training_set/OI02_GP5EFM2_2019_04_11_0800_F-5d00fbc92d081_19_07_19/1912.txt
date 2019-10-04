@@ -1,0 +1,2 @@
+708 0 861 50 Chromis_dimidiata 
+616 514 751 611 Ctenochaetus_truncatus 

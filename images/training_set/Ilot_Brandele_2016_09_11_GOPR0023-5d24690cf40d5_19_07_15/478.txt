@@ -1,0 +1,9 @@
+236 427 341 477 Pomacentrus_sulfureus 
+1413 408 1467 443 Pomacentrus_sulfureus 
+1566 405 1710 452 Balistapus_undulatus 
+1103 58 1184 102 Chromis_viridis 
+1018 1 1107 38 Chromis_viridis 
+1215 0 1279 37 Chromis_viridis 
+1170 59 1227 103 Chromis_viridis 
+842 402 1127 525 Scaridae 
+901 490 983 540 Labroides_dimidiatus 

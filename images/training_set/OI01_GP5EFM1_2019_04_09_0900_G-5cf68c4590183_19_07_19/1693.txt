@@ -1,0 +1,3 @@
+447 361 537 400 Acanthurus_lineatus 
+1546 283 1644 337 Acanthurus_lineatus 
+1487 847 1876 1031 Chaetodon_striatus 

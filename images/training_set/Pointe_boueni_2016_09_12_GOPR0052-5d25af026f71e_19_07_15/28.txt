@@ -1,0 +1,16 @@
+433 467 527 554 Pomacentrus_sulfureus 
+767 286 819 312 Pomacentrus_sulfureus 
+550 302 587 328 Chromis_dimidiata 
+598 292 627 315 Chromis_dimidiata 
+841 266 887 296 Chromis_dimidiata 
+778 264 810 288 Chromis_dimidiata 
+997 386 1056 424 Chromis_dimidiata 
+789 137 867 169 Chromis_viridis 
+1133 143 1237 195 Chromis_viridis 
+1206 18 1362 104 Chromis_viridis 
+1430 132 1573 204 Chromis_viridis 
+1329 242 1510 335 Chromis_viridis 
+1377 341 1472 405 Chromis_viridis 
+1693 291 1841 383 Chromis_viridis 
+1761 174 1905 247 Chromis_viridis 
+1582 66 1694 152 Chromis_viridis 

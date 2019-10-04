@@ -1,0 +1,11 @@
+1040 892 1151 1062 Zanclus_cornutus 
+693 791 767 842 Chromis_dimidiata 
+110 763 220 824 Chromis_dimidiata 
+679 564 710 588 Chromis_dimidiata 
+1107 749 1154 792 Chromis_dimidiata 
+1336 852 1390 889 Chromis_dimidiata 
+1216 779 1273 829 Chromis_ternatensis 
+1484 917 1572 977 Pseudanthias_squamipinnis_female 
+212 364 362 448 Pseudanthias_bicolor 
+50 3 250 78 Pseudanthias_bicolor 
+272 526 393 617 unknown_fish 

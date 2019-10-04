@@ -1,0 +1,10 @@
+1251 124 1426 215 Acanthurus_lineatus 
+166 150 309 253 Abudefduf_sparoides 
+1290 0 1451 83 Abudefduf_sparoides 
+969 204 1187 329 Ctenochaetus_striatus 
+1679 170 1739 278 Ctenochaetus_striatus 
+1674 259 1838 372 Ctenochaetus_striatus 
+230 28 354 120 Ctenochaetus_striatus 
+1688 336 1826 437 Ctenochaetus_striatus 
+586 286 641 335 Pomacentrus_sulfureus 
+1238 776 1313 840 Plectroglyphidodon_lacrymatus 

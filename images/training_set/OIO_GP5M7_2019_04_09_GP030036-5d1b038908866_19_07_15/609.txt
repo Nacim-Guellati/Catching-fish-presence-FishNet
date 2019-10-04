@@ -1,0 +1,7 @@
+677 617 975 736 Variola_louti 
+1058 620 1157 714 Acanthurus_lineatus 
+1050 703 1183 751 Acanthurus_lineatus 
+1404 388 1470 446 Ctenochaetus_striatus 
+1505 358 1610 401 Serranidae 
+973 759 1036 794 Chromis_dimidiata 
+1015 413 1041 435 Chromis_dimidiata 

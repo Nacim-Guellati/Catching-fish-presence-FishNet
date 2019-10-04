@@ -1,0 +1,6 @@
+170 233 431 400 Acanthurus_leucosternon 
+1026 635 1221 757 Pygoplites_diacanthus 
+800 740 864 805 Pomacentrus_sulfureus 
+1395 704 1470 748 Pomacentrus_sulfureus 
+975 220 1056 268 Amphiprion_sandaracinos 
+683 0 834 65 Ctenochaetus_striatus 

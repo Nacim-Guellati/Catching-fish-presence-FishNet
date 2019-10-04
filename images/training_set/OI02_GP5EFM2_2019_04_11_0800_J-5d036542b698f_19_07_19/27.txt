@@ -1,0 +1,11 @@
+63 774 233 894 Balistapus_undulatus 
+500 3 597 63 Chromis_dimidiata 
+463 30 488 67 Chromis_dimidiata 
+463 104 508 131 Chromis_dimidiata 
+562 167 596 201 Chromis_dimidiata 
+883 233 912 260 Chromis_dimidiata 
+985 0 1026 28 Chromis_dimidiata 
+1273 49 1316 79 Chromis_dimidiata 
+1450 64 1485 100 Chromis_dimidiata 
+1388 249 1444 316 Acanthurus_thompsoni 
+721 161 788 215 Lutjanus_gibbus 

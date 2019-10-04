@@ -1,0 +1,8 @@
+895 61 1041 134 Gomphosus_caeruleus_male 
+163 442 315 511 Chromis_dimidiata 
+799 1 939 57 Chromis_dimidiata 
+674 26 710 59 Chromis_dimidiata 
+631 81 664 117 Chromis_dimidiata 
+243 54 280 86 Chromis_dimidiata 
+193 41 225 71 Chromis_dimidiata 
+323 92 349 124 Chromis_dimidiata 

@@ -1,0 +1,7 @@
+257 401 382 477 Chromis_dimidiata 
+1317 660 1411 734 Chromis_dimidiata 
+792 695 829 722 Chromis_dimidiata 
+827 214 875 275 Carangidae 
+841 305 918 341 Carangidae 
+875 456 972 511 Pseudanthias_squamipinnis_female 
+420 687 478 790 Pseudanthias_squamipinnis_male 

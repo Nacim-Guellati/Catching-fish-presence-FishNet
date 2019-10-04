@@ -1,0 +1,4 @@
+1593 242 1713 398 Bodianus_axillaris_juv 
+1775 400 1914 466 Chromis_dimidiata 
+458 508 551 565 Ctenochaetus_striatus 
+177 602 231 661 Pomacentrus_sulfureus 

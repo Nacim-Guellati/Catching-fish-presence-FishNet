@@ -1,0 +1,5 @@
+1035 817 1083 874 Chromis_dimidiata 
+923 904 971 968 Chromis_dimidiata 
+908 837 1008 932 Gomphosus_caeruleus_female 
+456 821 521 869 Paracirrhites_forsteri 
+809 668 859 698 Pseudanthias_squamipinnis_male 

@@ -1,0 +1,11 @@
+1514 482 1679 620 Pomacentrus_sulfureus 
+1668 408 1749 459 Pomacentrus_sulfureus 
+1027 54 1133 142 Acanthurus_leucosternon 
+504 256 547 286 Chromis_dimidiata 
+761 298 806 327 Chromis_dimidiata 
+1020 260 1099 310 Chromis_dimidiata 
+445 556 548 620 Chromis_dimidiata 
+599 304 632 330 Chromis_dimidiata 
+682 203 752 250 Zebrasoma_scopas 
+842 179 920 236 Ctenochaetus_striatus 
+1398 210 1536 287 Kyphosus_cinerascens 

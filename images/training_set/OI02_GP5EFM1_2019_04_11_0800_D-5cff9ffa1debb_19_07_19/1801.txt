@@ -1,0 +1,8 @@
+99 518 217 579 Chromis_dimidiata 
+806 692 836 726 Chromis_dimidiata 
+1812 699 1881 738 Chromis_dimidiata 
+1670 344 1736 427 Chromis_dimidiata 
+642 341 685 377 Acanthurus_thompsoni 
+344 817 401 857 Pseudanthias_squamipinnis_male 
+1302 84 1449 144 Pseudanthias_squamipinnis_female 
+1477 62 1587 140 Chromis_ternatensis 

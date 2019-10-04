@@ -1,0 +1,4 @@
+1793 348 1863 420 Ctenochaetus_striatus 
+31 107 1280 551 Plectorhinchus_obscurus 
+718 510 1436 875 Plectorhinchus_obscurus 
+1050 863 1106 899 Chromis_dimidiata 

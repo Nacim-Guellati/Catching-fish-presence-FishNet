@@ -1,0 +1,3 @@
+1138 356 1373 472 Arothron_nigropunctatus 
+1516 317 1641 373 Pomacentrus_sulfureus 
+1103 1 1195 22 Hemigymnus_fasciatus 

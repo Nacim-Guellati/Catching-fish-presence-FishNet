@@ -1,0 +1,7 @@
+1190 933 1268 979 Chromis_dimidiata 
+186 804 320 1014 Pseudanthias_squamipinnis_female 
+1005 634 1078 779 Pseudanthias_squamipinnis_female 
+1076 593 1148 678 Pseudanthias_squamipinnis_female 
+420 343 542 403 Pseudanthias 
+121 326 222 371 Pseudanthias 
+101 286 187 328 Pseudanthias 

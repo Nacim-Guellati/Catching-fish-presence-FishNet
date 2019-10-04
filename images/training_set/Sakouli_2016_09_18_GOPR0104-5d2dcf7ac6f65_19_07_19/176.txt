@@ -1,0 +1,6 @@
+596 328 776 437 Zanclus_cornutus 
+479 278 636 416 Zanclus_cornutus 
+233 16 401 149 Zanclus_cornutus 
+561 716 764 1057 Pygoplites_diacanthus 
+516 41 689 152 Cephalopholis_argus 
+249 811 536 1057 Scarus 

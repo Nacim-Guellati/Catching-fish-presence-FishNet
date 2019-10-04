@@ -1,0 +1,12 @@
+406 311 437 339 Chromis_dimidiata 
+929 102 992 186 Pomacentrus_sulfureus 
+757 220 797 261 Pomacentrus_sulfureus 
+1566 195 1642 242 Pomacentrus_sulfureus 
+1770 6 1906 85 Pomacentrus_sulfureus 
+357 393 401 428 Pomacentrus_sulfureus 
+433 277 471 308 Pomacentrus_sulfureus 
+1599 574 1646 630 Chaetodon_meyeri 
+1177 402 1251 439 Ctenochaetus_striatus 
+428 799 524 881 Ctenochaetus_striatus 
+296 615 382 660 Ctenochaetus_striatus 
+522 501 604 539 Thalassoma_hardwicke 

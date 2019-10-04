@@ -1,0 +1,10 @@
+862 118 916 161 Ctenochaetus_striatus 
+965 72 1058 204 Ctenochaetus_striatus 
+1031 608 1070 646 Abudefduf_vaigiensis 
+1016 631 1103 703 Myripristis_kuntee 
+785 749 882 814 Myripristis_kuntee 
+1203 483 1400 521 Fistularia_commersonii 
+881 716 917 746 Pseudanthias 
+917 718 1056 806 Aethaloperca_rogaa 
+1682 46 1915 152 Monotaxis_grandoculis 
+1883 631 1917 651 Ctenochaetus_striatus 

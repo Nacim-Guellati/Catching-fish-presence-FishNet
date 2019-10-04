@@ -1,0 +1,6 @@
+1548 716 1665 809 Zanclus_cornutus 
+1133 645 1222 693 Abudefduf_vaigiensis 
+233 379 524 591 Gomphosus_caeruleus_male 
+1229 578 1262 615 Plectroglyphidodon_dickii 
+1257 1009 1336 1076 Pygoplites_diacanthus 
+1757 927 1851 981 Abudefduf_vaigiensis 

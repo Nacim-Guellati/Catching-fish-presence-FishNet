@@ -1,0 +1,12 @@
+1542 79 1605 121 Ctenochaetus_striatus 
+1796 121 1868 164 Ctenochaetus_striatus 
+204 77 287 119 Ctenochaetus_striatus 
+203 113 272 140 Ctenochaetus_striatus 
+684 170 764 205 Labridae 
+260 176 341 250 Gomphosus_caeruleus_female 
+456 161 507 200 Gomphosus_caeruleus_female 
+240 266 303 334 Plectroglyphidodon_lacrymatus 
+809 53 872 103 Chaetodon 
+1482 43 1610 83 Gomphosus_caeruleus_male 
+1338 307 1403 341 Pomacentrus_sulfureus 
+1872 295 1914 350 Pomacentrus_sulfureus 

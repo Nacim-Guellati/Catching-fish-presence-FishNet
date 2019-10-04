@@ -1,0 +1,8 @@
+106 448 183 508 Pomacentrus_sulfureus 
+821 367 970 444 Hemigymnus_fasciatus 
+585 477 765 568 Ctenochaetus_striatus 
+1011 419 1118 464 Ctenochaetus_striatus 
+232 661 433 833 Plectroglyphidodon_dickii 
+132 601 350 656 Thalassoma_hardwicke 
+1017 381 1116 427 Chromis_viridis 
+1327 361 1407 423 Chromis_viridis 

@@ -1,0 +1,5 @@
+1742 143 1817 186 Pomacentrus_sulfureus 
+1249 129 1306 164 Pomacentrus_sulfureus 
+481 233 554 273 Pomacentrus_sulfureus 
+281 637 413 789 Pomacentrus_sulfureus 
+1153 181 1214 239 Zebrasoma_scopas 

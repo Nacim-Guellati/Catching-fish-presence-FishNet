@@ -1,0 +1,11 @@
+1372 441 1559 536 Acanthurus_lineatus 
+444 469 659 572 Acanthurus_lineatus 
+476 632 733 724 Acanthurus_lineatus 
+9 732 249 911 Acanthurus_lineatus 
+59 647 229 699 Thalassoma_hardwicke 
+324 776 523 982 Ctenochaetus_striatus 
+164 912 324 996 Ctenochaetus_striatus 
+534 766 732 932 Ctenochaetus_striatus 
+968 616 1221 743 Ctenochaetus_striatus 
+842 574 868 602 Chromis_dimidiata 
+1748 801 1901 859 Chromis_ternatensis 

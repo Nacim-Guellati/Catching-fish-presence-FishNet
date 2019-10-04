@@ -1,0 +1,4 @@
+1205 594 1372 686 Ctenochaetus_striatus 
+1671 746 1916 922 Ctenochaetus_striatus 
+1250 312 1358 356 Plectropomus_punctatus 
+1581 386 1693 440 Plectropomus_punctatus 

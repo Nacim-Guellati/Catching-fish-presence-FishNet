@@ -1,0 +1,10 @@
+866 142 938 188 Chromis_ternatensis 
+188 284 299 323 Chromis_ternatensis 
+1266 147 1321 184 Chromis_ternatensis 
+1386 222 1462 263 Chromis_ternatensis 
+1711 244 1809 304 Chromis_ternatensis 
+674 236 732 296 Chromis_ternatensis 
+686 636 734 667 Nemateleotris_magnifica 
+896 497 939 551 Chromis_dimidiata 
+133 848 229 891 unknown_fish 
+619 769 684 808 unknown_fish 

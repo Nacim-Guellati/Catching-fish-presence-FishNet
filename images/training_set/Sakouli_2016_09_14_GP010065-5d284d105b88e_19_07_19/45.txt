@@ -1,0 +1,7 @@
+855 52 888 79 Chromis_dimidiata 
+4 10 66 64 Chromis_dimidiata 
+1299 81 1324 115 Chromis_dimidiata 
+530 158 751 276 Cephalopholis_argus 
+534 123 674 205 Arothron 
+381 69 454 112 Gomphosus_caeruleus_female 
+659 492 786 569 Centropyge_multispinis 

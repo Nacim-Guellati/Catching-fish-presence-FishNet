@@ -1,0 +1,17 @@
+536 163 567 184 Chromis_dimidiata 
+447 91 477 112 Chromis_dimidiata 
+7 97 56 126 Chromis_dimidiata 
+162 82 192 107 Chromis_dimidiata 
+1533 76 1591 102 Chromis_dimidiata 
+1538 116 1587 158 Chromis_dimidiata 
+1779 327 1858 384 Chromis_dimidiata 
+1347 521 1499 594 Chromis_dimidiata 
+1342 634 1399 672 Chromis_dimidiata 
+204 11 233 37 Chromis_dimidiata 
+179 129 216 149 Chromis_dimidiata 
+611 178 641 204 Chromis_dimidiata 
+126 52 152 78 Chromis_dimidiata 
+1179 602 1214 626 Chromis_dimidiata 
+313 162 374 239 Acanthurus_thompsoni 
+659 98 838 203 Lutjanus_gibbus 
+1648 542 1759 609 Centropyge_multispinis 

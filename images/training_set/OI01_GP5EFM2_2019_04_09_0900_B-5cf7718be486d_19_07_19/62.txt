@@ -1,0 +1,8 @@
+660 483 719 531 Chromis_dimidiata 
+362 732 423 811 Chromis_ternatensis 
+584 512 654 552 Chromis_ternatensis 
+913 641 993 682 Chromis_ternatensis 
+1084 535 1144 576 Chromis_ternatensis 
+1202 579 1298 626 Chromis_ternatensis 
+1643 518 1753 567 Chromis_ternatensis 
+1628 628 1725 656 Chromis_ternatensis 

@@ -1,0 +1,3 @@
+888 805 1112 948 Ctenochaetus_striatus 
+1593 301 1738 358 Plectropomus_punctatus 
+531 488 1117 734 Caranx_melampygus 

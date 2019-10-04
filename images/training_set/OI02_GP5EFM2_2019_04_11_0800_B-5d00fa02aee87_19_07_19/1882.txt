@@ -1,0 +1,11 @@
+1076 496 1250 577 Pseudanthias_squamipinnis_female 
+983 117 1093 174 Chromis_ternatensis 
+354 50 460 125 Chromis_ternatensis 
+724 243 814 293 Chromis_ternatensis 
+911 422 1006 489 Chromis_ternatensis 
+1757 797 1907 885 Chromis_dimidiata 
+1337 654 1401 701 Chromis_dimidiata 
+1327 558 1382 608 Chromis_dimidiata 
+819 119 856 151 Chromis_dimidiata 
+497 71 532 96 Chromis_dimidiata 
+566 160 586 178 Chromis_dimidiata 

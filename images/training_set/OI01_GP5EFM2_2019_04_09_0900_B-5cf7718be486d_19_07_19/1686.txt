@@ -1,0 +1,17 @@
+46 860 199 931 Chromis_ternatensis 
+6 792 123 853 Chromis_ternatensis 
+244 862 361 928 Chromis_ternatensis 
+510 818 607 855 Chromis_ternatensis 
+258 625 335 660 Chromis_ternatensis 
+466 605 533 638 Chromis_ternatensis 
+606 648 667 673 Chromis_ternatensis 
+719 635 786 661 Chromis_ternatensis 
+829 562 882 581 Chromis_ternatensis 
+895 545 938 572 Chromis_ternatensis 
+935 1010 1005 1052 Chromis_ternatensis 
+1712 693 1808 735 Chromis_ternatensis 
+437 857 558 939 Chaetodon_guttatissimus 
+1071 608 1150 663 Ctenochaetus_striatus 
+884 614 950 637 Thalassoma_amblycephalum_juv 
+542 576 617 604 Thalassoma_amblycephalum_juv 
+1352 557 1405 576 Thalassoma_amblycephalum_juv 

@@ -1,0 +1,9 @@
+1263 154 1308 193 Pomacentrus_sulfureus 
+614 164 654 205 Pomacentrus_sulfureus 
+444 501 700 617 Pomacentrus_sulfureus 
+601 276 654 327 Chaetodon_trifasciatus 
+1044 267 1074 330 Chaetodon_trifasciatus 
+655 397 811 492 Ctenochaetus_striatus 
+396 436 525 500 Ctenochaetus_striatus 
+1263 165 1356 213 Ctenochaetus_striatus 
+789 575 842 606 Amphiprion_sandaracinos 

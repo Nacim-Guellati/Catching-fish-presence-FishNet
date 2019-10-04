@@ -1,0 +1,13 @@
+1079 355 1209 434 Chaetodon_trifasciatus 
+1008 295 1089 404 Chaetodon_trifasciatus 
+789 263 887 352 Zebrasoma_rostratum 
+648 46 774 124 Zebrasoma_rostratum 
+375 28 491 116 Zebrasoma_rostratum 
+1214 716 1358 863 Chaetodon_trifascialis 
+644 250 747 296 Pomacentrus_sulfureus 
+987 218 1049 307 Ctenochaetus_striatus 
+918 164 968 200 Chromis_dimidiata 
+89 53 153 101 Chromis_dimidiata 
+1397 122 1428 160 Chromis_dimidiata 
+0 52 37 98 Chromis_dimidiata 
+366 89 524 187 Arothron 

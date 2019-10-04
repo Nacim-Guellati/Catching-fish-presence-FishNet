@@ -1,0 +1,3 @@
+532 369 615 488 Pomacentrus_sulfureus 
+1125 0 1225 37 Chaetodon_auriga 
+818 21 1033 98 Thalassoma_hardwicke 

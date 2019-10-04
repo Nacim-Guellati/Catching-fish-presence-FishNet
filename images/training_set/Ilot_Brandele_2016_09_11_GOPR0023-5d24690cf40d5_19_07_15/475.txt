@@ -1,0 +1,10 @@
+48 374 122 432 Pomacentrus_sulfureus 
+533 455 569 483 Pomacentrus_sulfureus 
+1540 410 1607 450 Pomacentrus_sulfureus 
+1095 61 1138 99 Chromis_viridis 
+1113 3 1157 42 Chromis_viridis 
+1218 127 1287 182 Chromis_viridis 
+1273 88 1364 158 Chromis_viridis 
+1336 66 1407 126 Chromis_viridis 
+991 422 1205 556 Scaridae 
+973 539 1051 611 Zebrasoma_scopas 

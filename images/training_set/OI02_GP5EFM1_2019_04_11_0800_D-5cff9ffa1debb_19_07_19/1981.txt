@@ -1,0 +1,4 @@
+540 219 640 281 Acanthurus_thompsoni 
+545 384 596 427 Acanthurus_thompsoni 
+644 372 709 421 Acanthurus_thompsoni 
+894 822 941 854 Pseudanthias_squamipinnis_male 

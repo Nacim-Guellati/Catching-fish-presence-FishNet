@@ -1,0 +1,4 @@
+1013 841 1180 964 Ctenochaetus_truncatus 
+519 1028 662 1074 Ctenochaetus_truncatus 
+1590 352 1709 408 Chromis_dimidiata 
+915 506 944 528 Chromis_dimidiata 

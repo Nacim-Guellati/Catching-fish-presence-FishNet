@@ -1,0 +1,10 @@
+1106 553 1188 657 Chromis_ternatensis 
+811 384 869 411 Chromis_ternatensis 
+634 287 723 326 Chromis_ternatensis 
+596 214 637 273 Chromis_ternatensis 
+549 412 597 449 Chromis_ternatensis 
+638 453 676 474 Chromis_ternatensis 
+483 668 646 739 Plectropomus_punctatus 
+522 703 566 736 Nemateleotris_magnifica 
+854 599 902 632 Chromis_dimidiata 
+687 641 764 692 Ctenochaetus_striatus 

@@ -1,0 +1,12 @@
+188 182 221 233 Chromis_dimidiata 
+83 218 144 243 Chromis_dimidiata 
+316 97 364 133 Chromis_dimidiata 
+664 91 725 141 Chromis_dimidiata 
+866 177 928 209 Chromis_dimidiata 
+1604 264 1695 366 Chromis_dimidiata 
+1600 218 1684 258 Chromis_dimidiata 
+485 2 616 71 Chromis_ternatensis 
+1343 249 1470 347 Aethaloperca_rogaa 
+508 152 616 232 Zanclus_cornutus 
+1190 538 1224 579 Chromis_dimidiata 
+1435 107 1509 146 Acanthurus_thompsoni 

@@ -1,0 +1,8 @@
+1548 129 1806 210 Pseudanthias_squamipinnis_male 
+1538 334 1611 389 Acanthurus_thompsoni 
+1019 677 1059 707 Chromis_dimidiata 
+1596 609 1664 665 Chromis_dimidiata 
+1346 937 1379 964 Chromis_dimidiata 
+1286 972 1324 1005 Chromis_dimidiata 
+978 584 1035 618 Ptereleotris_evides 
+1221 607 1279 659 Ptereleotris_evides 

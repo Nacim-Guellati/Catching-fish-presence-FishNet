@@ -1,0 +1,6 @@
+98 934 178 993 Chromis_ternatensis 
+317 981 392 1022 Chromis_ternatensis 
+1420 443 1495 481 Chromis_ternatensis 
+1470 390 1533 427 Chromis_ternatensis 
+548 708 835 808 Acanthurus_lineatus 
+1434 492 1463 536 Chromis_dimidiata 

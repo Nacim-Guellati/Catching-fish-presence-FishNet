@@ -1,0 +1,11 @@
+669 210 768 264 Pomacentrus_sulfureus 
+1344 270 1470 348 Balistapus_undulatus 
+1198 83 1291 175 Zebrasoma_scopas 
+1433 277 1580 379 Zebrasoma_scopas 
+1732 159 1839 254 Zebrasoma_scopas 
+1690 64 1757 118 Zebrasoma_scopas 
+397 189 461 256 Ctenochaetus_striatus 
+813 285 917 342 Ctenochaetus_striatus 
+886 274 936 315 Ctenochaetus_striatus 
+153 208 227 241 Thalassoma_hardwicke 
+1741 37 1803 100 Zebrasoma_scopas 

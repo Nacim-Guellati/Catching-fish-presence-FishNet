@@ -1,0 +1,8 @@
+1063 407 1210 500 Chromis_dimidiata 
+1404 159 1449 226 Chromis_dimidiata 
+1128 55 1177 100 Chromis_dimidiata 
+520 137 559 167 Chromis_dimidiata 
+186 147 243 180 Chromis_dimidiata 
+322 46 353 76 Chromis_dimidiata 
+377 337 478 522 Naso_elegans 
+932 785 1168 940 Chaetodon_guttatissimus 

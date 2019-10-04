@@ -1,0 +1,8 @@
+1341 718 1603 840 Acanthurus_lineatus 
+1396 607 1610 687 Acanthurus_lineatus 
+1350 494 1406 537 Chromis_dimidiata 
+1210 247 1276 307 Chromis_ternatensis 
+1303 62 1395 148 Chromis_ternatensis 
+859 652 908 689 Nemateleotris_magnifica 
+1561 199 1620 229 Thalassoma_amblycephalum_juv 
+1564 173 1623 198 Thalassoma_amblycephalum_juv 

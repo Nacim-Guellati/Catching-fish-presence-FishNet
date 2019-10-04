@@ -1,0 +1,8 @@
+820 454 962 521 Bodianus_anthioides 
+696 20 729 50 Chromis_dimidiata 
+686 125 717 159 Chromis_dimidiata 
+728 233 751 254 Chromis_dimidiata 
+885 133 915 158 Chromis_dimidiata 
+1334 197 1362 231 Chromis_dimidiata 
+1605 147 1631 173 Chromis_dimidiata 
+282 29 336 59 Labroides_dimidiatus 

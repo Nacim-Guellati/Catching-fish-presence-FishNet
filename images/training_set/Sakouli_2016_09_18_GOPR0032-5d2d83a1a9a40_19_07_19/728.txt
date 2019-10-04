@@ -1,0 +1,6 @@
+1178 190 1269 234 Pomacentrus_sulfureus 
+767 167 843 214 Pomacentrus_sulfureus 
+378 718 653 843 Pomacentrus_sulfureus 
+545 101 677 180 Zebrasoma_scopas 
+19 786 263 975 Ctenochaetus_striatus 
+206 723 311 872 Ctenochaetus_striatus 

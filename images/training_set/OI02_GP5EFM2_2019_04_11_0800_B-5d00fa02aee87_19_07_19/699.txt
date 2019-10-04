@@ -1,0 +1,15 @@
+723 356 868 447 Aethaloperca_rogaa 
+861 653 1018 734 Chromis_ternatensis 
+706 879 836 1022 Chromis_ternatensis 
+600 371 754 452 Chromis_dimidiata 
+164 348 278 447 Chromis_dimidiata 
+455 672 514 754 Chromis_dimidiata 
+588 71 623 102 Chromis_dimidiata 
+601 124 638 158 Chromis_dimidiata 
+179 153 221 178 Chromis_dimidiata 
+888 207 928 239 Chromis_dimidiata 
+941 194 995 236 Chromis_dimidiata 
+1381 97 1460 142 Chromis_dimidiata 
+1633 6 1705 57 Chromis_dimidiata 
+1654 143 1713 198 Chromis_dimidiata 
+1830 6 1914 52 Chromis_dimidiata 

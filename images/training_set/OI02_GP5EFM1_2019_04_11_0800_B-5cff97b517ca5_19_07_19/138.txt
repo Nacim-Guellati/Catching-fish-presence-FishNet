@@ -1,0 +1,15 @@
+405 589 481 673 Chromis_dimidiata 
+73 764 128 791 Chromis_dimidiata 
+209 727 254 754 Chromis_dimidiata 
+606 674 643 703 Chromis_dimidiata 
+675 686 711 716 Chromis_dimidiata 
+1008 604 1040 633 Chromis_dimidiata 
+1471 678 1506 703 Chromis_dimidiata 
+641 701 669 719 Chromis_dimidiata 
+798 544 825 564 Chromis_dimidiata 
+1059 790 1121 830 Pseudanthias_squamipinnis_female 
+74 850 195 912 Pseudanthias_squamipinnis_female 
+1401 710 1459 773 Zanclus_cornutus 
+810 582 856 609 Pseudanthias_squamipinnis_male 
+1348 850 1403 889 Pseudanthias_squamipinnis_male 
+439 1014 580 1054 Gomphosus_caeruleus_female 

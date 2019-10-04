@@ -1,0 +1,9 @@
+678 285 841 343 Thalassoma_hardwicke 
+503 763 677 832 Thalassoma_hardwicke 
+958 262 1059 323 Ctenochaetus_striatus 
+889 154 945 192 Ctenochaetus_striatus 
+1013 206 1060 247 Ctenochaetus_striatus 
+1379 185 1455 236 Ctenochaetus_striatus 
+1220 188 1266 218 Thalassoma 
+1422 262 1467 300 Chaetodon_trifasciatus 
+1180 301 1297 354 Scaridae 

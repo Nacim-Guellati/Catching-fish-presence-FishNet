@@ -1,0 +1,5 @@
+237 191 293 318 Chaetodon_meyeri 
+1752 253 1911 349 Ctenochaetus_striatus 
+1092 73 1156 136 Pomacentrus_caeruleus 
+1238 147 1285 187 Thalassoma_hardwicke 
+1420 6 1485 63 Zebrasoma_rostratum 

@@ -1,0 +1,10 @@
+1251 15 1458 103 Chromis_dimidiata 
+316 231 406 307 Chromis_dimidiata 
+554 518 600 573 Chromis_dimidiata 
+1066 532 1113 609 Chromis_dimidiata 
+1083 104 1112 133 Chromis_dimidiata 
+1155 103 1184 122 Chromis_dimidiata 
+1227 162 1257 185 Chromis_dimidiata 
+1503 228 1538 252 Chromis_dimidiata 
+1245 588 1275 612 Chromis_dimidiata 
+4 969 103 1059 Chaetodon_guttatissimus 

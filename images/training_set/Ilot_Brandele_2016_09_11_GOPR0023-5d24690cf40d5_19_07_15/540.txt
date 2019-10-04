@@ -1,0 +1,11 @@
+194 426 269 480 Pomacentrus_sulfureus 
+201 192 297 254 Chromis_viridis 
+113 209 220 272 Chromis_viridis 
+32 53 162 134 Chromis_viridis 
+142 98 281 164 Chromis_viridis 
+379 134 485 202 Chromis_viridis 
+703 67 792 128 Chromis_viridis 
+159 71 244 110 Chromis_viridis 
+768 0 830 38 Chromis_viridis 
+82 133 164 186 Chromis_viridis 
+925 4 977 52 Chromis_viridis 

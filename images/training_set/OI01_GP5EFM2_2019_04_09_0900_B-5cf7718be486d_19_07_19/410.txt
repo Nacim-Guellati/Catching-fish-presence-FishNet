@@ -1,0 +1,17 @@
+484 805 548 855 Paracirrhites_forsteri 
+1169 324 1245 374 Chromis_dimidiata 
+300 642 379 689 Chromis_dimidiata 
+926 563 1066 652 Acanthurus_lineatus 
+1454 657 1536 715 Chaetodon_guttatissimus 
+1249 627 1355 665 Balistapus_undulatus 
+260 184 335 229 Chromis_ternatensis 
+535 184 576 215 Chromis_ternatensis 
+343 288 409 327 Chromis_ternatensis 
+929 295 990 327 Chromis_ternatensis 
+780 254 834 294 Chromis_ternatensis 
+888 464 944 489 Chromis_ternatensis 
+1020 128 1051 159 Chromis_ternatensis 
+1509 148 1569 170 Chromis_ternatensis 
+1149 269 1189 303 Chromis_ternatensis 
+783 669 823 708 Nemateleotris_magnifica 
+1335 582 1421 632 Aethaloperca_rogaa 

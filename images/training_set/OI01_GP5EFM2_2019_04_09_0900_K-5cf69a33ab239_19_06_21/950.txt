@@ -1,0 +1,3 @@
+1015 188 1082 249 Chromis_dimidiata 
+1509 457 1617 504 Gomphosus_caeruleus_female 
+207 723 276 791 Chromis_ternatensis 

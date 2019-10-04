@@ -1,0 +1,13 @@
+1422 433 1642 541 Acanthurus_lineatus 
+954 488 1091 593 Acanthurus_lineatus 
+444 507 751 638 Acanthurus_lineatus 
+22 713 362 891 Acanthurus_lineatus 
+1051 638 1239 748 Acanthurus_lineatus 
+473 648 603 797 Gomphosus_caeruleus_male 
+628 599 742 641 Thalassoma_hardwicke 
+478 811 701 938 Ctenochaetus_striatus 
+789 699 984 888 Ctenochaetus_striatus 
+198 952 576 1068 Chaetodontidae 
+891 597 926 621 Chromis_dimidiata 
+901 632 919 653 Chromis_dimidiata 
+289 673 323 696 Chromis_dimidiata 

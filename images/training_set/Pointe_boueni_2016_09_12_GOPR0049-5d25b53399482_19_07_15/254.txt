@@ -1,0 +1,8 @@
+1374 331 1581 447 Chaetodon_trifascialis 
+451 273 608 372 Acanthurus_lineatus 
+211 195 475 340 Ctenochaetus_striatus 
+443 194 539 283 Ctenochaetus_striatus 
+1695 232 1765 302 Ctenochaetus_striatus 
+1162 169 1196 207 Chaetodon_trifasciatus 
+192 554 276 633 Pomacentrus_sulfureus 
+1207 812 1299 891 Plectroglyphidodon_lacrymatus 

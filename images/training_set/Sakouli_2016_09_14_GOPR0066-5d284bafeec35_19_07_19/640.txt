@@ -1,0 +1,3 @@
+840 335 877 400 Chaetodon_kleinii 
+1441 845 1491 896 Pomacentrus_sulfureus 
+1552 19 1601 64 Chaetodon_striatus 

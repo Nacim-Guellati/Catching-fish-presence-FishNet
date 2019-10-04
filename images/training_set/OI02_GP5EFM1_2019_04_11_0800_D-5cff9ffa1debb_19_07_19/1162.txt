@@ -1,0 +1,7 @@
+896 612 955 656 Pseudanthias_squamipinnis_male 
+999 181 1113 256 Chromis_dimidiata 
+596 668 665 701 Pseudanthias_bicolor 
+574 718 649 753 Pseudanthias_bicolor 
+611 733 666 766 Pseudanthias_bicolor 
+779 711 830 743 Pseudanthias_bicolor 
+743 689 801 718 Pseudanthias_bicolor 

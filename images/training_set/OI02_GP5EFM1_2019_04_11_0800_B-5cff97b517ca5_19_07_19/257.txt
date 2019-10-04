@@ -1,0 +1,4 @@
+602 656 656 709 Chromis_dimidiata 
+758 660 801 689 Chromis_dimidiata 
+756 635 784 657 Chromis_dimidiata 
+437 870 490 917 Chromis_dimidiata 

@@ -1,0 +1,17 @@
+139 770 231 828 Pseudanthias_squamipinnis_female 
+602 666 664 704 Pseudanthias_squamipinnis_female 
+788 498 912 574 Pseudanthias_squamipinnis_female 
+1192 653 1281 692 Pseudanthias_squamipinnis_female 
+1746 542 1915 602 Pseudanthias_squamipinnis_female 
+664 541 742 617 Chromis_dimidiata 
+1002 646 1058 714 Chromis_dimidiata 
+1142 809 1190 869 Chromis_dimidiata 
+1323 920 1367 956 Chromis_dimidiata 
+654 747 679 777 Chromis_dimidiata 
+566 747 593 774 Chromis_dimidiata 
+1504 884 1771 971 Thalassoma_lunare 
+390 341 468 382 Pseudanthias_bicolor 
+1527 266 1659 304 Pseudanthias_bicolor 
+1237 397 1302 430 Pseudanthias_bicolor 
+1256 501 1298 521 Pseudanthias_bicolor 
+1353 311 1427 348 Chromis_ternatensis 

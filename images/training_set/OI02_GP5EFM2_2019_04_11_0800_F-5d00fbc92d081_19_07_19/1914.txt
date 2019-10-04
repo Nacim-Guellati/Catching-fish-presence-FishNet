@@ -1,0 +1,8 @@
+941 247 968 272 Chromis_dimidiata 
+737 18 769 54 Chromis_dimidiata 
+437 0 477 27 Chromis_dimidiata 
+708 208 734 227 Chromis_dimidiata 
+1356 257 1383 281 Chromis_dimidiata 
+6 863 114 982 Parupeneus_trifasciatus 
+4 2 222 104 Naso_elegans 
+811 387 899 508 Ctenochaetus_truncatus 

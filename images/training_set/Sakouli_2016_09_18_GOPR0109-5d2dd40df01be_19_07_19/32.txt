@@ -1,0 +1,5 @@
+72 292 249 393 Pomacentrus_sulfureus 
+435 190 654 280 Thalassoma_hardwicke 
+695 265 759 329 Chaetodon_trifasciatus 
+164 207 226 252 Plectroglyphidodon_lacrymatus 
+1405 470 1490 552 Plectroglyphidodon_lacrymatus 

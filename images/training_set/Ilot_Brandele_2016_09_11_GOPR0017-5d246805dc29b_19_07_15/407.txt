@@ -1,0 +1,6 @@
+750 891 917 1011 Ctenochaetus 
+1808 722 1910 776 Ctenochaetus 
+1153 694 1255 757 Gnathodentex 
+536 692 691 803 Gnathodentex 
+1422 738 1506 781 Gomphosus_caeruleus_male 
+1130 793 1190 841 Pomacentrus_sulfureus 

@@ -1,0 +1,5 @@
+448 99 620 224 Epinephelus_tukula 
+936 626 976 660 Chromis_dimidiata 
+57 957 148 1016 Chromis_dimidiata 
+221 704 255 727 Chromis_dimidiata 
+1642 877 1762 995 Acanthurus_fowleri 

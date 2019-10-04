@@ -1,0 +1,12 @@
+180 484 217 510 Chromis_dimidiata 
+432 347 477 384 Chromis_dimidiata 
+680 78 723 136 Chromis_dimidiata 
+764 258 836 305 Pomacentrus_sulfureus 
+963 95 1022 157 Pomacentrus_sulfureus 
+1820 40 1918 101 Pomacentrus_sulfureus 
+1572 200 1643 243 Pomacentrus_sulfureus 
+422 274 487 311 Pomacentrus_sulfureus 
+972 208 1028 248 Amblyglyphidodon_indicus 
+1274 343 1331 392 Ctenochaetus_striatus 
+1338 323 1407 355 Ctenochaetus_striatus 
+457 789 521 877 Ctenochaetus_striatus 

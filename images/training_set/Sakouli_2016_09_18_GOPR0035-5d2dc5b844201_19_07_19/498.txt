@@ -1,0 +1,6 @@
+1172 229 1364 386 Pygoplites_diacanthus 
+426 275 503 363 Chaetodon_trifasciatus 
+1539 398 1636 494 Labrichthys_unilineatus 
+687 691 741 802 Plectroglyphidodon_lacrymatus 
+123 39 243 105 Zebrasoma_scopas 
+585 17 651 70 Labridae 

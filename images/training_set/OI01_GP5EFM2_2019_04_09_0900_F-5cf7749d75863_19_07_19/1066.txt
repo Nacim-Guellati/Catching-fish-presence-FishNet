@@ -1,0 +1,3 @@
+1165 932 1317 1072 Ctenochaetus_truncatus 
+849 490 879 517 Chromis_dimidiata 
+1285 390 1371 450 Chromis_dimidiata 

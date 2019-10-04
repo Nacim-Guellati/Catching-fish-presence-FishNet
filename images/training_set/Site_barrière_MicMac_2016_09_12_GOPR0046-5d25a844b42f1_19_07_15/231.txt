@@ -1,0 +1,12 @@
+356 536 590 652 Myripristis_kuntee 
+916 809 1060 918 Ctenochaetus_striatus 
+1338 841 1522 939 Ctenochaetus_striatus 
+1402 691 1548 759 Abudefduf_vaigiensis 
+1500 466 1581 533 Abudefduf_vaigiensis 
+1500 673 1643 741 Thalassoma_hardwicke 
+1110 243 1165 302 Ctenochaetus_striatus 
+1001 639 1071 714 Acanthurus_lineatus 
+951 708 1070 814 Acanthurus_lineatus 
+1062 779 1281 934 Acanthurus_lineatus 
+868 794 937 839 Ctenochaetus_striatus 
+1060 693 1142 767 Zebrasoma_scopas 

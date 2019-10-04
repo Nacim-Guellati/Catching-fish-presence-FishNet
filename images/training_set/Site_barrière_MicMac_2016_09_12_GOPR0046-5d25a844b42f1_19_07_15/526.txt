@@ -1,0 +1,6 @@
+861 118 911 157 Ctenochaetus_striatus 
+923 87 1045 159 Ctenochaetus_striatus 
+1016 631 1091 694 Myripristis_kuntee 
+1248 477 1446 551 Fistularia_commersonii 
+907 727 1053 797 Aethaloperca_rogaa 
+1725 37 1916 209 Abudefduf_vaigiensis 

@@ -1,0 +1,10 @@
+722 278 803 354 Acanthurus_lineatus 
+606 405 677 448 Acanthurus_lineatus 
+1034 408 1174 478 Ctenochaetus_striatus 
+877 373 961 429 Chromis_dimidiata 
+762 418 829 449 Chromis_dimidiata 
+1013 374 1057 424 Chromis_dimidiata 
+1216 403 1252 442 Chromis_dimidiata 
+914 658 971 706 Chromis_dimidiata 
+613 661 654 688 Chromis_dimidiata 
+1361 393 1458 436 Halichoeres_hortulanus_transitional 

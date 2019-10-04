@@ -1,0 +1,7 @@
+771 146 796 169 Chromis_dimidiata 
+918 259 948 286 Chromis_dimidiata 
+1354 6 1394 43 Chromis_dimidiata 
+1679 126 1727 163 Chromis_dimidiata 
+1381 707 1409 746 Chromis_dimidiata 
+1077 868 1451 1006 Parupeneus_trifasciatus 
+209 189 249 212 Chromis_dimidiata 

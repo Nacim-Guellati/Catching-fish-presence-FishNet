@@ -1,0 +1,9 @@
+1060 472 1140 555 Acanthurus_dussumieri 
+847 382 1120 505 Acanthurus_dussumieri 
+945 270 1211 402 Acanthurus_dussumieri 
+1181 517 1239 610 Naso_elegans 
+390 0 524 101 Sargocentron 
+1047 2 1295 211 Aethaloperca_rogaa 
+531 4 695 91 Aethaloperca_rogaa_juv 
+514 609 656 678 Chromis 
+245 642 292 705 Chromis_dimidiata 

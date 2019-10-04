@@ -1,0 +1,6 @@
+483 533 556 587 Pomacentrus_sulfureus 
+0 228 78 322 Pomacentrus_sulfureus 
+955 31 998 74 Chaetodon 
+637 37 680 63 Ctenochaetus_striatus 
+378 36 421 66 Ctenochaetus_striatus 
+5 523 88 641 Gomphosus_caeruleus_female 

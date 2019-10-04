@@ -1,0 +1,14 @@
+961 53 1045 129 Lutjanus_gibbus 
+1058 872 1159 947 Chromis_dimidiata 
+1653 473 1775 563 Chromis_dimidiata 
+1779 529 1911 591 Chromis_dimidiata 
+1651 202 1725 246 Chromis_dimidiata 
+1865 217 1914 254 Chromis_dimidiata 
+1634 44 1700 87 Chromis_dimidiata 
+1416 256 1450 283 Chromis_dimidiata 
+1085 96 1130 157 Chromis_dimidiata 
+754 161 786 181 Chromis_dimidiata 
+943 218 973 241 Chromis_dimidiata 
+99 7 136 39 Chromis_dimidiata 
+161 51 199 88 Chromis_dimidiata 
+271 94 311 124 Chromis_dimidiata 

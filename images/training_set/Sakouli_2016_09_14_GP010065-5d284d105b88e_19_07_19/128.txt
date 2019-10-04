@@ -1,0 +1,11 @@
+708 258 790 319 Pomacentrus_sulfureus 
+805 187 870 227 Pomacentrus_sulfureus 
+378 381 462 439 Chromis_dimidiata 
+1366 79 1401 119 Chromis_dimidiata 
+31 596 167 666 Plectroglyphidodon_dickii 
+961 222 1025 325 Chaetodon_trifasciatus 
+1215 180 1281 279 Chaetodon_trifasciatus 
+427 77 490 226 Zebrasoma_scopas 
+432 171 558 253 Arothron 
+1587 398 1646 447 Plectroglyphidodon_dickii 
+82 316 264 429 Centropyge_multispinis 

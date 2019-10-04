@@ -1,0 +1,12 @@
+981 594 1055 639 Chromis_dimidiata 
+1624 695 1712 751 Chromis_dimidiata 
+1645 897 1700 938 Chromis_dimidiata 
+1561 841 1599 877 Chromis_dimidiata 
+1089 621 1130 649 Chromis_dimidiata 
+1745 727 1877 805 Pseudanthias_squamipinnis_female 
+1821 892 1914 972 Pseudanthias_squamipinnis_female 
+98 28 266 216 Pseudanthias_bicolor 
+904 134 1077 215 Pseudanthias_bicolor 
+1617 206 1747 340 Pseudanthias_bicolor 
+176 214 295 298 unknown_fish 
+255 719 282 737 Chromis_dimidiata 

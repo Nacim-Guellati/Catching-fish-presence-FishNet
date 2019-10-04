@@ -1,0 +1,4 @@
+1488 276 1686 353 Gomphosus_caeruleus_female 
+1066 331 1207 476 Scarus_sordidus_female 
+1115 188 1236 373 Pomacentrus_sulfureus 
+1576 108 1625 139 Pomacentrus_sulfureus 

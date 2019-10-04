@@ -1,0 +1,4 @@
+203 196 330 406 Acanthurus_leucosternon 
+1676 877 1786 929 Pomacentrus_sulfureus 
+1584 681 1645 719 Pomacentrus_sulfureus 
+1378 759 1449 819 Pomacentrus_sulfureus 

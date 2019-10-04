@@ -1,0 +1,4 @@
+1273 394 1408 511 Amphiprion_latifasciatus 
+1616 272 1701 337 Amphiprion_latifasciatus 
+507 338 555 383 Ctenochaetus_striatus 
+856 247 907 281 Zebrasoma_scopas 

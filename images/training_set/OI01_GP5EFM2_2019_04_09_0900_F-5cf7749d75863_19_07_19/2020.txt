@@ -1,0 +1,17 @@
+1316 387 1368 417 Chromis_ternatensis 
+1293 426 1343 462 Chromis_ternatensis 
+893 421 976 473 Chromis_ternatensis 
+1013 383 1081 418 Chromis_ternatensis 
+1096 361 1154 391 Chromis_ternatensis 
+893 341 939 376 Chromis_ternatensis 
+791 427 836 448 Chromis_ternatensis 
+249 349 343 384 Chromis_ternatensis 
+374 362 457 388 Chromis_ternatensis 
+1813 436 1879 477 Chromis_ternatensis 
+1054 573 1149 623 Gomphosus_caeruleus_female 
+1703 987 1856 1074 unknown_fish 
+1246 558 1383 617 Acanthurus_lineatus 
+521 513 564 547 Chromis_dimidiata 
+866 591 898 624 Chromis_dimidiata 
+714 636 749 654 Chromis_dimidiata 
+793 621 818 639 Chromis_dimidiata 

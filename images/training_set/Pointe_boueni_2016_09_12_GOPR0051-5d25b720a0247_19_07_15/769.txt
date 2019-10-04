@@ -1,0 +1,17 @@
+1306 204 1433 249 Caesio_teres 
+1023 198 1112 282 Caesio_teres 
+897 279 993 311 Caesio_teres 
+712 288 827 334 Caesio_teres 
+673 209 766 257 Caesio_teres 
+593 157 726 224 Caesio_teres 
+592 124 698 173 Caesio_teres 
+456 252 541 291 Caesio_teres 
+407 282 527 318 Caesio_teres 
+327 331 456 396 Caesio_teres 
+385 391 516 433 Caesio_teres 
+628 311 730 377 Caesio_teres 
+1141 262 1185 299 Caesio_teres 
+1005 406 1047 436 Plectroglyphidodon_dickii 
+962 284 1137 369 Acanthurus_lineatus 
+1313 109 1395 146 Thalassoma_hardwicke 
+1536 283 1577 328 Acanthurus_lineatus 

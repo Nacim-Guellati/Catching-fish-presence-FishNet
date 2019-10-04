@@ -1,0 +1,4 @@
+658 907 1003 1053 Acanthurus_lineatus 
+498 774 623 851 Epinephelus_rivulatus 
+1216 976 1284 1019 Chromis_ternatensis 
+1271 768 1469 823 Gomphosus_caeruleus_male 

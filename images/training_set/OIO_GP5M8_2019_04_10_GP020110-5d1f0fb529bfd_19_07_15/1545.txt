@@ -1,0 +1,4 @@
+1191 536 1428 673 Acanthurus_dussumieri 
+1032 685 1179 790 Acanthurus_dussumieri 
+990 445 1187 571 Acanthurus_dussumieri 
+1195 350 1413 489 Acanthurus_dussumieri 

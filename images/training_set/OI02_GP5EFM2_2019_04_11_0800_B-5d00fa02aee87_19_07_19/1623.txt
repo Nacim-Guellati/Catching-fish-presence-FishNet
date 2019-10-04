@@ -1,0 +1,14 @@
+1465 203 1624 269 Chromis_ternatensis 
+445 118 592 187 Chromis_ternatensis 
+524 322 627 368 Chromis_ternatensis 
+1072 470 1228 537 Chromis_ternatensis 
+198 531 460 659 Chromis_ternatensis 
+1383 348 1470 387 Chromis_dimidiata 
+1136 105 1197 138 Chromis_dimidiata 
+807 122 845 152 Chromis_dimidiata 
+662 165 699 192 Chromis_dimidiata 
+262 228 297 250 Chromis_dimidiata 
+1 254 58 285 Chromis_dimidiata 
+1783 7 1857 40 Chromis_dimidiata 
+963 156 987 174 Chromis_dimidiata 
+8 24 330 180 Lutjanus_gibbus 

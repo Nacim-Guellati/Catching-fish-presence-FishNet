@@ -1,0 +1,8 @@
+1176 567 1370 668 Balistapus_undulatus 
+592 78 661 122 Chromis_dimidiata 
+618 238 662 270 Chromis_dimidiata 
+687 210 725 237 Chromis_dimidiata 
+1301 104 1346 162 Chromis_dimidiata 
+1354 221 1385 246 Chromis_dimidiata 
+118 536 181 571 Chromis_dimidiata 
+295 251 336 282 Chromis_dimidiata 

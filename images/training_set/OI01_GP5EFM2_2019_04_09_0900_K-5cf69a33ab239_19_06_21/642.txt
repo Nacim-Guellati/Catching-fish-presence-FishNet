@@ -1,0 +1,11 @@
+198 625 277 674 Chromis_ternatensis 
+658 456 701 493 Chromis_ternatensis 
+907 538 961 608 Chromis_ternatensis 
+1276 322 1307 355 Chromis_ternatensis 
+1631 332 1702 372 Chromis_ternatensis 
+1773 528 1896 573 Chromis_ternatensis 
+1535 1041 1619 1078 Plectroglyphidodon_johnstonianus 
+1500 715 1699 898 Acanthurus_lineatus 
+1673 552 1720 630 Ctenochaetus_truncatus 
+1596 421 1726 478 Chromis_dimidiata 
+755 690 810 722 Nemateleotris_magnifica 

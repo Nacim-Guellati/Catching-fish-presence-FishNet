@@ -1,0 +1,5 @@
+159 10 321 142 Zanclus_cornutus 
+293 197 416 325 Zanclus_cornutus 
+284 362 425 529 Zanclus_cornutus 
+708 167 902 236 Cephalopholis_argus 
+632 632 788 802 Scarus 

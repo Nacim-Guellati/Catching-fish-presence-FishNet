@@ -1,0 +1,4 @@
+248 583 595 681 Variola_louti 
+1378 387 1453 445 Ctenochaetus_striatus 
+1516 371 1619 412 Serranidae 
+1008 709 1055 757 Chromis_dimidiata 

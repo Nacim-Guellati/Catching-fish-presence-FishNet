@@ -1,0 +1,7 @@
+485 164 564 236 Chromis_dimidiata 
+170 168 196 217 Chromis_dimidiata 
+878 178 916 211 Chromis_dimidiata 
+1305 152 1345 186 Chromis_dimidiata 
+962 445 1035 511 Pomacentrus_sulfureus 
+1187 144 1254 229 Chaetodon_trifasciatus 
+415 118 523 207 Arothron 

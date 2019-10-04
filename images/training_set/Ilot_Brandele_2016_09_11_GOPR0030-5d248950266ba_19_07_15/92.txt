@@ -1,0 +1,7 @@
+922 544 1017 616 Amphiprion_latifasciatus 
+1116 403 1161 433 Chaetodon_striatus 
+932 417 988 474 Chaetodon_striatus 
+510 354 625 396 Gnathodentex_aureolineatus 
+295 351 443 394 Gnathodentex_aureolineatus 
+1282 368 1308 409 Heniochus 
+1655 423 1716 471 Ctenochaetus_striatus 

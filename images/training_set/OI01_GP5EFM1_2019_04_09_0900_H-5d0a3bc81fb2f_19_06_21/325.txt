@@ -1,0 +1,7 @@
+315 199 429 270 Chromis_dimidiata 
+797 840 949 954 Chromis_dimidiata 
+1279 485 1341 529 Chromis_dimidiata 
+960 421 1019 473 Chromis_dimidiata 
+907 296 978 356 Chromis_dimidiata 
+1083 348 1218 445 Scarus_frenatus_male 
+417 293 511 347 Acanthurus_lineatus 

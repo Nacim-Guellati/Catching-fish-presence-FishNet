@@ -1,0 +1,7 @@
+1001 394 1254 520 Acanthurus_dussumieri 
+1157 300 1342 394 Acanthurus_dussumieri 
+1172 171 1280 261 Acanthurus_dussumieri 
+1297 813 1360 914 Acanthurus_thompsoni 
+1436 277 1613 364 Ctenochaetus_striatus 
+1783 396 1912 555 Sargocentron_caudimaculatum 
+571 864 703 948 Chromis_atripectoralis_OR_Chromis_viridis 

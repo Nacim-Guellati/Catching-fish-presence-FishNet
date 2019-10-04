@@ -1,0 +1,7 @@
+1211 543 1532 672 Gomphosus_caeruleus_female 
+1573 431 1753 489 Thalassoma_hardwicke 
+775 541 925 659 Chaetodon_meyeri 
+270 149 376 271 Chaetodon_trifasciatus 
+1243 36 1360 146 Zebrasoma_rostratum 
+797 633 987 717 Ostracion_meleagris_female 
+1153 3 1202 57 Ctenochaetus_striatus 

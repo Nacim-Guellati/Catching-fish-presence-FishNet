@@ -1,0 +1,5 @@
+1216 947 1267 994 Chromis_dimidiata 
+712 689 751 720 Chromis_dimidiata 
+1088 452 1269 529 Nemanthias_carberryi_male 
+71 239 417 426 Epinephelus_flavocaeruleus 
+308 444 386 482 Pseudanthias_bicolor 

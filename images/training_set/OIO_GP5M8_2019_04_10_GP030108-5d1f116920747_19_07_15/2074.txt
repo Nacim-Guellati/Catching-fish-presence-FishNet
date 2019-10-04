@@ -1,0 +1,6 @@
+1408 592 1592 684 Cephalopholis_argus 
+799 160 942 249 Ctenochaetus_truncatus 
+1081 275 1183 333 Ctenochaetus_truncatus 
+718 265 753 287 Chromis_dimidiata 
+665 704 744 754 Chromis_dimidiata 
+1120 176 1202 228 Balistapus_undulatus 

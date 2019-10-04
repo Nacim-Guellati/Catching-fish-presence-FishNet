@@ -1,0 +1,17 @@
+1130 606 1256 667 Chromis_ternatensis 
+638 576 766 639 Chromis_ternatensis 
+463 756 688 859 Chromis_xanthura 
+1423 603 1503 652 Chromis_dimidiata 
+1524 237 1569 273 Chromis_dimidiata 
+1674 3 1740 37 Chromis_dimidiata 
+970 154 1020 194 Chromis_dimidiata 
+915 203 951 231 Chromis_dimidiata 
+701 198 739 233 Chromis_dimidiata 
+534 107 594 146 Chromis_dimidiata 
+280 163 313 194 Chromis_dimidiata 
+243 163 283 189 Chromis_dimidiata 
+195 212 254 242 Chromis_dimidiata 
+186 148 233 174 Chromis_dimidiata 
+700 251 730 269 Chromis_dimidiata 
+809 263 848 287 Chromis_dimidiata 
+615 172 651 198 Chromis_dimidiata 

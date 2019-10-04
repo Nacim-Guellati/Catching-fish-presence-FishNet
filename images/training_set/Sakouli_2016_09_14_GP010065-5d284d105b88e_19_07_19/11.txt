@@ -1,0 +1,7 @@
+633 58 671 94 Chromis_dimidiata 
+1118 170 1150 199 Chromis_dimidiata 
+1238 183 1281 217 Chromis_dimidiata 
+1257 144 1301 177 Chromis_dimidiata 
+212 170 329 308 Zebrasoma_scopas 
+0 0 99 101 Zebrasoma_scopas 
+824 156 962 254 Arothron 

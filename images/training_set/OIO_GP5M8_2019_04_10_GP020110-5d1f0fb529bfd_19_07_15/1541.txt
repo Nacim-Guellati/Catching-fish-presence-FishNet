@@ -1,0 +1,5 @@
+1035 689 1168 797 Acanthurus_dussumieri 
+964 402 1170 549 Acanthurus_dussumieri 
+1163 350 1378 475 Acanthurus_dussumieri 
+1258 513 1394 640 Acanthurus_dussumieri 
+1251 2 1366 69 Chromis 

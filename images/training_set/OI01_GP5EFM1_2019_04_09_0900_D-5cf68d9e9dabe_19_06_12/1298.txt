@@ -1,0 +1,11 @@
+541 682 642 772 Chromis_dimidiata 
+870 824 918 868 Chromis_dimidiata 
+1026 727 1070 796 Chromis_dimidiata 
+2 749 210 839 Plectropomus_punctatus 
+938 126 1010 157 Thalassoma_hebraicum 
+528 436 579 465 Ctenochaetus_striatus 
+617 429 650 458 Ctenochaetus_striatus 
+1218 385 1252 408 Thalassoma_hardwicke 
+1621 329 1692 379 Acanthurus_lineatus 
+1520 444 1678 511 Acanthurus_lineatus 
+659 378 806 456 Acanthurus_lineatus 

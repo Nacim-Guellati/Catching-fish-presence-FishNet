@@ -1,0 +1,16 @@
+735 820 1077 1077 Ctenochaetus_truncatus 
+617 294 838 487 Chromis_dimidiata 
+1096 298 1132 332 Chromis_dimidiata 
+1205 361 1241 397 Chromis_dimidiata 
+1655 229 1724 265 Chromis_dimidiata 
+1743 541 1784 592 Chromis_dimidiata 
+1723 699 1749 740 Chromis_dimidiata 
+725 508 750 534 Chromis_dimidiata 
+989 504 1016 526 Chromis_dimidiata 
+1780 319 1849 362 Pseudanthias_squamipinnis_male 
+1197 457 1239 488 Pseudanthias_squamipinnis_female 
+917 437 944 461 Chromis_dimidiata 
+0 127 43 155 Chromis_dimidiata 
+197 29 235 52 Chromis_dimidiata 
+1088 29 1116 67 Chromis_ternatensis 
+1195 131 1236 172 Chromis_ternatensis 

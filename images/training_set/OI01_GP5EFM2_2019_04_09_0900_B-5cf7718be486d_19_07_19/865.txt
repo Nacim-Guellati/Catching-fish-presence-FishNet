@@ -1,0 +1,5 @@
+998 565 1068 631 Chromis_dimidiata 
+734 376 799 424 Ctenochaetus_striatus 
+1227 538 1328 613 Ctenochaetus_striatus 
+495 443 616 482 Chromis_ternatensis 
+900 565 955 596 Thalassoma_amblycephalum_juv 

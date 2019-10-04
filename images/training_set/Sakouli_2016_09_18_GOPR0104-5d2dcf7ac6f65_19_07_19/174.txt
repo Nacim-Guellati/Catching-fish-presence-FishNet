@@ -1,0 +1,5 @@
+605 259 839 451 Zanclus_cornutus 
+606 199 797 340 Zanclus_cornutus 
+192 40 432 212 Zanclus_cornutus 
+857 241 1140 598 Pygoplites_diacanthus 
+513 5 639 104 Cephalopholis_argus 

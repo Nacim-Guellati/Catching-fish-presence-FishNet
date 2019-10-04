@@ -1,0 +1,5 @@
+1200 295 1258 346 Amphiprion_sandaracinos 
+1266 451 1326 511 Pomacentrus_sulfureus 
+1400 540 1460 574 Pomacentrus_sulfureus 
+1636 748 1736 803 Pomacentrus_sulfureus 
+495 637 554 726 Pomacentrus_sulfureus 

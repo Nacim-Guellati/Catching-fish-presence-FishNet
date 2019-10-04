@@ -1,0 +1,13 @@
+520 291 607 353 Chromis_dimidiata 
+280 316 396 363 Chromis_dimidiata 
+1374 219 1439 260 Chromis_dimidiata 
+1085 170 1134 203 Chromis_dimidiata 
+1001 250 1082 290 Pomacentrus_sulfureus 
+1136 208 1193 243 Pomacentrus_sulfureus 
+83 112 131 143 Pomacentrus_sulfureus 
+0 105 48 134 Pomacentrus_sulfureus 
+248 109 472 295 Ctenochaetus_striatus 
+1264 176 1410 256 Ctenochaetus_striatus 
+1055 155 1166 212 Ctenochaetus_striatus 
+1410 121 1509 176 Gomphosus_caeruleus_male 
+1697 275 1742 334 Chaetodon_trifasciatus 

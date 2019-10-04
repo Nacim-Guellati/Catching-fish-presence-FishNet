@@ -1,0 +1,5 @@
+635 2 756 144 Pygoplites_diacanthus 
+116 164 207 225 Pygoplites_diacanthus 
+1 92 164 259 Caesio_lunaris 
+153 971 237 1003 Pomacentrus_sulfureus 
+63 792 157 837 Ctenochaetus_striatus 

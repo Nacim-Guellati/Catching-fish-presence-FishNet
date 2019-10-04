@@ -1,0 +1,14 @@
+1631 481 1751 632 Acanthurus_lineatus 
+1285 492 1436 591 Acanthurus_lineatus 
+1721 72 1795 114 Chromis_ternatensis 
+1521 178 1571 205 Chromis_ternatensis 
+1304 238 1366 282 Chromis_ternatensis 
+1363 204 1403 234 Chromis_ternatensis 
+806 489 846 552 Chromis_ternatensis 
+1689 167 1731 194 Chromis_ternatensis 
+1613 622 1749 669 Balistapus_undulatus 
+420 675 460 708 Chromis_dimidiata 
+1135 494 1163 534 Chromis_dimidiata 
+1226 487 1263 520 Chromis_dimidiata 
+833 722 879 774 Chaetodon_guttatissimus 
+794 795 845 824 Nemateleotris_magnifica 

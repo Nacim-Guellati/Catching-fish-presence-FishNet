@@ -1,0 +1,9 @@
+522 2 616 74 Chromis_dimidiata 
+824 268 848 302 Chromis_dimidiata 
+682 222 709 244 Chromis_dimidiata 
+1402 82 1432 109 Chromis_dimidiata 
+1757 124 1806 164 Chromis_dimidiata 
+284 127 312 148 Chromis_dimidiata 
+558 149 607 184 Thalassoma_lunare 
+911 188 962 237 Lutjanus_gibbus 
+1484 169 1558 287 Chromis_xanthura 

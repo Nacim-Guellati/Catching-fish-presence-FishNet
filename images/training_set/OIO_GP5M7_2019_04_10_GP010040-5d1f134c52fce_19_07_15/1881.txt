@@ -1,0 +1,6 @@
+1245 628 1368 826 Pseudanthias_squamipinnis_male 
+517 118 558 176 Pseudanthias 
+471 194 555 227 Pseudanthias 
+917 897 1000 939 Pseudanthias 
+298 578 510 667 Pseudanthias_bicolor_female 
+628 733 691 792 Pseudanthias_bicolor_female 

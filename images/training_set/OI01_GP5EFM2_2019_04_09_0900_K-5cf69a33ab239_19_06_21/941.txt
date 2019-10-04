@@ -1,0 +1,5 @@
+599 213 752 292 Chromis_dimidiata 
+851 620 880 641 Chromis_dimidiata 
+926 646 975 694 Ctenochaetus_truncatus 
+618 665 670 717 Thalassoma_lunare 
+743 733 784 763 Nemateleotris_magnifica 

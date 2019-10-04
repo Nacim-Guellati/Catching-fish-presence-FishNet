@@ -1,0 +1,4 @@
+682 607 811 665 Nemanthias_carberryi_male 
+1697 502 1901 602 Pseudanthias_squamipinnis_female 
+568 426 799 569 Epinephelus_flavocaeruleus 
+1024 554 1124 602 Pseudanthias_bicolor 

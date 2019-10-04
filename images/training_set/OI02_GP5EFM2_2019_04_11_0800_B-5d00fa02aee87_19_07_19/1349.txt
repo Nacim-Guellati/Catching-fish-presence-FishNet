@@ -1,0 +1,16 @@
+466 101 496 122 Chromis_dimidiata 
+449 54 482 81 Chromis_dimidiata 
+331 0 361 24 Chromis_dimidiata 
+218 13 268 44 Chromis_dimidiata 
+92 3 134 33 Chromis_dimidiata 
+61 102 118 137 Chromis_dimidiata 
+227 78 264 108 Chromis_dimidiata 
+196 127 232 149 Chromis_dimidiata 
+1027 184 1057 219 Chromis_dimidiata 
+1418 137 1463 169 Chromis_dimidiata 
+1529 21 1581 51 Chromis_dimidiata 
+1777 343 1907 407 Chromis_dimidiata 
+1284 667 1353 703 Chromis_dimidiata 
+212 176 241 196 Chromis_dimidiata 
+529 121 679 256 Lutjanus_gibbus 
+1681 544 1808 612 Centropyge_multispinis 

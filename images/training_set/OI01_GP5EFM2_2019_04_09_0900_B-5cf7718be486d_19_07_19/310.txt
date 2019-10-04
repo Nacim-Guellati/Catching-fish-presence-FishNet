@@ -1,0 +1,15 @@
+1029 437 1091 489 Chromis_ternatensis 
+1254 423 1317 453 Chromis_ternatensis 
+1251 262 1297 296 Chromis_ternatensis 
+126 533 203 579 Chromis_ternatensis 
+1566 314 1621 349 Chromis_ternatensis 
+1686 237 1731 268 Chromis_ternatensis 
+1636 292 1684 314 Chromis_ternatensis 
+731 241 772 271 Chromis_ternatensis 
+858 613 907 647 Nemateleotris_magnifica 
+974 492 1003 521 Chromis_dimidiata 
+376 667 409 692 Chromis_dimidiata 
+1232 193 1261 219 Chromis_ternatensis 
+897 659 978 699 Balistapus_undulatus 
+178 733 307 792 Acanthurus_lineatus 
+488 804 556 854 Labridae 

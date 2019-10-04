@@ -1,0 +1,9 @@
+1438 398 1496 430 Chromis_dimidiata 
+1053 350 1121 427 Chromis_dimidiata 
+1067 475 1124 517 Chromis_dimidiata 
+626 407 809 497 Chromis_dimidiata 
+156 442 217 509 Chromis_dimidiata 
+409 992 470 1042 Chromis_dimidiata 
+642 709 672 740 Chromis_dimidiata 
+1624 271 1911 405 Scarus_frenatus_male 
+1347 732 1542 857 Ctenochaetus_striatus 

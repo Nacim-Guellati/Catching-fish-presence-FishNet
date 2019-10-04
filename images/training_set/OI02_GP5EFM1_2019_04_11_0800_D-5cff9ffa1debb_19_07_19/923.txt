@@ -1,0 +1,15 @@
+85 899 202 961 Chromis_dimidiata 
+409 846 479 893 Pseudanthias_squamipinnis_female 
+860 945 976 1043 Pseudanthias_squamipinnis_female 
+855 854 911 898 Pseudanthias_squamipinnis_female 
+1172 967 1223 1035 Pseudanthias_squamipinnis_female 
+1326 344 1408 425 Acanthurus_thompsoni 
+440 760 531 791 Chromis_lepidolepis 
+182 557 340 607 Pseudanthias_bicolor 
+234 599 344 685 Pseudanthias_bicolor 
+319 695 504 755 Pseudanthias_bicolor 
+194 725 310 867 Pseudanthias_bicolor 
+110 692 201 739 Pseudanthias_bicolor 
+795 909 850 960 Chaetodon_guttatissimus 
+72 834 188 877 Pseudanthias_bicolor 
+1520 729 1912 932 Carcharhinus_melanopterus 

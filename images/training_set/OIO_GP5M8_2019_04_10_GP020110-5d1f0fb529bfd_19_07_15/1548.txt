@@ -1,0 +1,4 @@
+1005 473 1202 595 Acanthurus_dussumieri 
+1139 561 1442 692 Acanthurus_dussumieri 
+1034 689 1203 782 Acanthurus_dussumieri 
+1206 348 1434 495 Acanthurus_dussumieri 

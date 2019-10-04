@@ -1,0 +1,9 @@
+1168 328 1321 399 Chromis_ternatensis 
+1725 319 1859 438 Chromis_ternatensis 
+921 43 1054 132 Chromis_ternatensis 
+1103 109 1147 136 Chromis_dimidiata 
+1359 301 1391 323 Chromis_dimidiata 
+1688 117 1750 153 Chromis_dimidiata 
+1771 0 1843 35 Chromis_dimidiata 
+21 317 191 402 Chromis_dimidiata 
+1680 954 1766 1057 Gomphosus_caeruleus_female 

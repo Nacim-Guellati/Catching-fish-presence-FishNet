@@ -1,0 +1,11 @@
+83 68 139 118 Chromis_dimidiata 
+535 31 580 61 Chromis_dimidiata 
+748 84 810 126 Chromis_dimidiata 
+1014 63 1075 114 Chromis_dimidiata 
+1636 71 1706 113 Chromis_dimidiata 
+1526 101 1566 149 Chromis_dimidiata 
+1279 139 1308 176 Chromis_dimidiata 
+1143 544 1273 616 Chromis_dimidiata 
+1664 691 1785 761 Chromis_dimidiata 
+1841 199 1898 238 Chromis_dimidiata 
+4 793 354 967 Parupeneus_macronemus 

@@ -1,0 +1,10 @@
+1286 824 1458 996 Chaetodon_guttatissimus 
+306 648 376 747 Chromis_dimidiata 
+827 496 849 550 Chromis_dimidiata 
+1210 624 1245 660 Chromis_dimidiata 
+561 205 707 342 Pseudanthias_squamipinnis_female 
+104 166 325 265 Chromis_lepidolepis 
+0 280 201 360 Chromis_lepidolepis 
+607 611 661 666 Chromis_lepidolepis 
+688 734 724 756 Chromis_dimidiata 
+496 860 546 894 Paracirrhites_forsteri 

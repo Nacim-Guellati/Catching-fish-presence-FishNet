@@ -1,0 +1,5 @@
+781 227 870 277 Acanthurus_lineatus 
+1242 258 1335 312 Acanthurus_lineatus 
+275 340 373 389 Acanthurus_lineatus 
+776 621 1419 918 Gomphosus_caeruleus_male 
+1357 885 1629 1016 Chaetodon_striatus 

@@ -1,0 +1,14 @@
+1586 529 1736 606 Chromis_ternatensis 
+884 228 967 304 Chromis_ternatensis 
+789 434 893 485 Chromis_ternatensis 
+329 331 420 461 Pseudanthias_squamipinnis_male 
+836 190 918 234 Gomphosus_caeruleus_male 
+356 9 584 157 Pseudanthias_bicolor 
+182 158 229 184 Chromis_dimidiata 
+384 89 407 111 Chromis_dimidiata 
+713 262 738 284 Chromis_dimidiata 
+1515 134 1537 160 Chromis_dimidiata 
+1639 120 1691 157 Chromis_dimidiata 
+1697 111 1741 150 Chromis_dimidiata 
+1385 691 1463 746 Chromis_dimidiata 
+1021 484 1292 657 Ctenochaetus_truncatus 

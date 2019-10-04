@@ -1,0 +1,15 @@
+1105 464 1186 534 Pomacentrus_sulfureus 
+618 679 688 744 Pomacentrus_sulfureus 
+1077 174 1122 201 Pomacentrus_sulfureus 
+1761 459 1791 506 Pomacentrus_sulfureus 
+1395 481 1481 547 Plectroglyphidodon_dickii 
+771 51 861 139 Abudefduf_sparoides 
+1782 579 1855 676 Plectroglyphidodon_dickii 
+576 238 627 321 Ctenochaetus_striatus 
+855 319 945 391 Ctenochaetus_striatus 
+1193 629 1315 696 Ctenochaetus_striatus 
+611 383 673 429 Ctenochaetus_striatus 
+1618 531 1692 603 Thalassoma_hardwicke 
+582 738 675 787 Thalassoma_hardwicke 
+1803 403 1847 432 Abudefduf_sparoides 
+1845 464 1886 498 Abudefduf_sparoides 

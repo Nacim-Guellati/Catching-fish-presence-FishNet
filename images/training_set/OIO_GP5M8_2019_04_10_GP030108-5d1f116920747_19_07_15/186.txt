@@ -1,0 +1,4 @@
+792 439 887 516 Chaetodon_guttatissimus 
+1230 274 1353 352 Acanthurus_lineatus 
+767 268 859 330 Ctenochaetus_striatus 
+104 23 267 86 Naso_elegans 

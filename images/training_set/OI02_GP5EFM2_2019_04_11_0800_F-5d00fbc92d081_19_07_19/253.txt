@@ -1,0 +1,4 @@
+1199 601 1349 748 Chromis_dimidiata 
+955 249 991 274 Chromis_dimidiata 
+550 63 585 93 Chromis_dimidiata 
+245 148 281 182 Chromis_dimidiata 

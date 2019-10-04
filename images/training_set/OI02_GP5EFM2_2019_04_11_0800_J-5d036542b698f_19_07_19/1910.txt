@@ -1,0 +1,14 @@
+1783 28 1821 76 Chromis_dimidiata 
+1761 186 1870 286 Chromis_dimidiata 
+1415 156 1453 193 Chromis_dimidiata 
+1151 119 1186 160 Chromis_dimidiata 
+972 61 1003 89 Chromis_dimidiata 
+765 110 804 136 Chromis_dimidiata 
+153 34 195 62 Chromis_dimidiata 
+1468 439 1542 519 Chromis_dimidiata 
+909 609 968 658 Chromis_dimidiata 
+586 36 611 63 Chromis_dimidiata 
+1191 571 1223 610 Chromis_dimidiata 
+1373 280 1436 352 Ctenochaetus_truncatus 
+1036 281 1174 420 Pseudanthias_squamipinnis_male 
+1679 751 1915 926 Halichoeres_hortulanus 

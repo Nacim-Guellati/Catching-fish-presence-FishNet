@@ -1,0 +1,4 @@
+1188 333 1301 400 Chromis_dimidiata 
+1659 218 1771 293 Chromis_dimidiata 
+996 389 1089 451 Chromis_dimidiata 
+902 558 952 598 Chromis_dimidiata 

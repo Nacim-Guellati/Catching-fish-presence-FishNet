@@ -1,0 +1,11 @@
+7 949 145 1041 Balistapus_undulatus 
+1421 267 1461 304 Chromis_dimidiata 
+1198 17 1235 49 Chromis_dimidiata 
+1004 118 1030 147 Chromis_dimidiata 
+604 89 652 124 Chromis_dimidiata 
+454 28 486 57 Chromis_dimidiata 
+300 138 354 182 Chromis_dimidiata 
+911 248 946 272 Chromis_dimidiata 
+1384 76 1487 129 Acanthurus_thompsoni 
+751 186 821 241 Lutjanus_gibbus 
+1202 572 1237 606 Chromis_dimidiata 

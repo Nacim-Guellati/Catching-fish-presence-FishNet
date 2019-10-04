@@ -1,0 +1,7 @@
+928 524 1012 596 Plectroglyphidodon_dickii 
+1063 591 1191 634 Thalassoma_hardwicke 
+1401 352 1523 423 Pomacentrus_caeruleus 
+1036 336 1130 407 Amblyglyphidodon_indicus 
+673 409 721 440 Labroides_dimidiatus 
+551 462 611 504 Labroides_dimidiatus 
+522 413 621 478 Hemigymnus_fasciatus 

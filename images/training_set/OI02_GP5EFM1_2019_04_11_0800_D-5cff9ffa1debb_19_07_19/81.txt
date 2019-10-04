@@ -1,0 +1,6 @@
+953 757 996 804 Chromis_dimidiata 
+819 668 859 699 Chromis_dimidiata 
+1261 963 1314 1006 Chromis_dimidiata 
+369 1019 501 1054 Chromis_dimidiata 
+453 822 531 863 Paracirrhites_forsteri 
+864 686 928 714 Pseudanthias_squamipinnis_male 

@@ -1,0 +1,8 @@
+1300 542 1443 614 Acanthurus_lineatus 
+824 472 888 511 Chromis_dimidiata 
+1531 528 1577 560 Chromis_ternatensis 
+989 707 1059 762 Chromis_ternatensis 
+986 639 1063 676 Chromis_ternatensis 
+1037 540 1095 573 Chromis_ternatensis 
+1417 614 1517 674 Aethaloperca_rogaa 
+1539 951 1671 1030 Plectroglyphidodon_johnstonianus 

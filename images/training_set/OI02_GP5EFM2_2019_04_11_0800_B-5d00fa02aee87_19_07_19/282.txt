@@ -1,0 +1,17 @@
+336 211 399 256 Chromis_dimidiata 
+485 98 524 132 Chromis_dimidiata 
+648 168 685 202 Chromis_dimidiata 
+684 216 739 253 Chromis_dimidiata 
+949 213 975 242 Chromis_dimidiata 
+919 239 955 272 Chromis_dimidiata 
+990 254 1020 279 Chromis_dimidiata 
+1388 253 1446 284 Chromis_dimidiata 
+1703 259 1793 313 Chromis_dimidiata 
+9 113 53 158 Chromis_dimidiata 
+161 189 204 219 Chromis_dimidiata 
+1213 648 1293 701 Chromis_dimidiata 
+1320 94 1474 213 Gomphosus_caeruleus_male 
+733 701 964 861 Halichoeres_hortulanus_transitional 
+1076 733 1209 864 Halichoeres_hortulanus_transitional 
+864 288 975 416 Zebrasoma_rostratum 
+1600 872 1914 1029 Labroides_dimidiatus 

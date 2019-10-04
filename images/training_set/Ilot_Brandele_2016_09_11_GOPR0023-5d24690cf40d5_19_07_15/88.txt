@@ -1,0 +1,6 @@
+187 469 227 527 Pomacentrus_sulfureus 
+787 363 931 436 Hemigymnus_fasciatus 
+958 408 1058 456 Ctenochaetus_striatus 
+503 627 605 753 Plectroglyphidodon_dickii 
+972 349 1070 411 Chromis_viridis 
+1245 363 1338 422 Chromis_viridis 

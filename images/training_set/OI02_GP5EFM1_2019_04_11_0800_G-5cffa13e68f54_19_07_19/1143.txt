@@ -1,0 +1,8 @@
+1330 486 1449 556 Aethaloperca_rogaa 
+158 844 234 879 Pseudanthias_bicolor 
+491 715 555 742 Pseudanthias_bicolor 
+502 742 565 770 Pseudanthias_bicolor 
+751 732 799 761 Pseudanthias_bicolor 
+784 701 857 730 Pseudanthias_bicolor 
+795 786 843 815 Pseudanthias_bicolor 
+612 699 663 728 Pseudanthias_bicolor 

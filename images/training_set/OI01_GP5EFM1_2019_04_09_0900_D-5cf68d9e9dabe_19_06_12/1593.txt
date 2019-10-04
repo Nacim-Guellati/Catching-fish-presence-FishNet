@@ -1,0 +1,12 @@
+554 890 627 957 Chromis_dimidiata 
+650 877 700 910 Chromis_dimidiata 
+836 550 930 611 Chromis_dimidiata 
+1141 583 1293 652 Chromis_dimidiata 
+1279 516 1325 563 Chromis_dimidiata 
+1243 842 1304 893 Chromis_dimidiata 
+1728 472 1787 504 Chromis_dimidiata 
+742 298 809 364 Acanthurus_lineatus 
+525 403 590 447 Acanthurus_lineatus 
+1669 320 1747 377 Chaetodon_ulietensis 
+1500 402 1589 460 Chaetodon_ulietensis 
+1312 595 1354 635 Chromis_dimidiata 

@@ -1,0 +1,11 @@
+1203 104 1223 127 Chromis_dimidiata 
+1146 90 1173 118 Chromis_dimidiata 
+958 355 1075 428 Chromis_dimidiata 
+1680 165 1731 201 Chromis_dimidiata 
+1623 212 1649 241 Chromis_dimidiata 
+896 160 923 189 Chromis_dimidiata 
+1228 545 1256 573 Chromis_dimidiata 
+1356 293 1432 382 Ctenochaetus_truncatus 
+1098 678 1320 753 Halichoeres_hortulanus 
+1708 519 1782 607 Gomphosus_caeruleus_female 
+578 9 602 29 Chromis_dimidiata 

@@ -1,0 +1,5 @@
+334 197 441 284 Chaetodon_guttatissimus 
+398 272 519 348 Chaetodon_guttatissimus 
+977 523 1089 586 Ctenochaetus_striatus 
+947 346 1000 399 Ctenochaetus_striatus 
+560 247 631 278 Gomphosus_caeruleus_female 

@@ -1,0 +1,4 @@
+365 179 418 302 Pomacentrus_sulfureus 
+1395 62 1465 113 Chaetodon_trifascialis 
+1401 116 1476 162 Chaetodon_trifascialis 
+1777 118 1827 169 Ctenochaetus_striatus 

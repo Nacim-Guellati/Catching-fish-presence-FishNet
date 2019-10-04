@@ -1,0 +1,5 @@
+436 344 547 416 Pomacentrus_sulfureus 
+1071 339 1137 385 Pomacentrus_sulfureus 
+433 429 488 480 Plectroglyphidodon_dickii 
+1094 411 1160 473 Plectroglyphidodon_dickii 
+1314 425 1499 534 Scarus 

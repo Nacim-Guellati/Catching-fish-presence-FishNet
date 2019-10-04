@@ -1,0 +1,15 @@
+1309 828 1779 1052 Gomphosus_caeruleus_female 
+960 47 1039 126 Lutjanus_gibbus 
+944 827 1060 901 Chromis_dimidiata 
+1606 609 1798 688 Chromis_dimidiata 
+1605 197 1679 253 Chromis_dimidiata 
+1614 52 1653 102 Chromis_dimidiata 
+1040 57 1096 101 Chromis_dimidiata 
+736 169 789 209 Chromis_dimidiata 
+925 202 959 236 Chromis_dimidiata 
+756 69 800 104 Chromis_dimidiata 
+655 61 708 94 Chromis_dimidiata 
+263 121 319 151 Chromis_dimidiata 
+170 72 205 104 Chromis_dimidiata 
+231 72 263 99 Chromis_dimidiata 
+351 67 386 99 Chromis_dimidiata 

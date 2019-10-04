@@ -1,0 +1,10 @@
+1017 333 1108 404 Pomacentrus_sulfureus 
+668 628 738 677 Chromis_viridis 
+1720 804 1862 953 Oxymonacanthus_longirostris 
+1840 635 1916 715 Oxymonacanthus_longirostris 
+246 391 325 438 Acanthurus 
+483 273 519 301 Acanthurus 
+715 227 776 268 Acanthurus 
+1027 172 1062 206 Acanthurus 
+1021 110 1066 150 Abudefduf_sexfasciatus 
+1107 139 1152 178 Abudefduf_sparoides 

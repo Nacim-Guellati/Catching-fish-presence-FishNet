@@ -1,0 +1,17 @@
+987 218 1110 262 Caesio_teres 
+978 281 1100 324 Caesio_teres 
+768 332 878 387 Caesio_teres 
+616 346 735 407 Caesio_teres 
+482 401 597 438 Caesio_teres 
+366 319 500 363 Caesio_teres 
+133 227 253 282 Caesio_teres 
+200 358 317 423 Caesio_teres 
+233 393 340 457 Caesio_teres 
+71 391 235 468 Caesio_teres 
+87 492 222 582 Caesio_teres 
+442 456 650 537 Acanthurus_lineatus 
+422 317 513 393 Acanthurus_lineatus 
+1418 229 1472 334 Thalassoma_hardwicke 
+1872 221 1916 257 Ctenochaetus_striatus 
+1015 356 1071 386 Pomacentrus_sulfureus 
+338 428 385 464 Pomacentrus_sulfureus 

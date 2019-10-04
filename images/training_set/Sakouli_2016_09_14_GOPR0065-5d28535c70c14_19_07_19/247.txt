@@ -1,0 +1,16 @@
+899 298 962 406 Zebrasoma_rostratum 
+1065 341 1208 500 Zebrasoma_rostratum 
+422 494 500 619 Zebrasoma_rostratum 
+606 388 789 556 Ctenochaetus_striatus 
+816 346 975 506 Ctenochaetus_striatus 
+1122 184 1268 296 Chromis_ternatensis 
+1307 238 1355 272 Labroides_dimidiatus 
+822 557 894 598 Labroides_dimidiatus 
+752 583 809 635 Labroides_dimidiatus 
+858 134 903 187 Pomacentrus_sulfureus 
+960 299 1103 361 Gomphosus_caeruleus_female 
+1305 431 1514 566 Ctenochaetus_striatus 
+501 67 551 110 Zebrasoma_rostratum 
+731 151 783 185 Chromis_ternatensis 
+753 107 812 148 Chromis_ternatensis 
+794 184 849 224 Chromis_ternatensis 

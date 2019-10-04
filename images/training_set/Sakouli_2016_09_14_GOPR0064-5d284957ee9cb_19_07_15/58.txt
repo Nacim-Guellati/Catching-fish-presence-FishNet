@@ -1,0 +1,9 @@
+1107 710 1295 826 Pomacentrus_sulfureus 
+358 419 399 449 Pomacentrus_sulfureus 
+209 490 249 516 Chromis_dimidiata 
+245 434 275 458 Chromis_dimidiata 
+301 305 364 342 Chromis_dimidiata 
+337 220 419 264 Chromis_dimidiata 
+649 171 747 226 Amblyglyphidodon_indicus 
+1167 67 1244 137 Abudefduf_sparoides 
+765 490 835 521 Thalassoma_hardwicke 

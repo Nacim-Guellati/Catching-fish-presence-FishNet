@@ -1,0 +1,7 @@
+858 501 944 586 Ctenochaetus_striatus 
+258 437 401 510 Acanthurus_lineatus 
+3 298 384 467 Variola_louti 
+680 397 706 421 Chromis_dimidiata 
+673 341 708 363 Chromis_dimidiata 
+739 498 762 516 Chromis_dimidiata 
+414 512 442 539 Chromis_dimidiata 

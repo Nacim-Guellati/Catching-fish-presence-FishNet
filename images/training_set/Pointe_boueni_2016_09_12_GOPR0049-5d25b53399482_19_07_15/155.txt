@@ -1,0 +1,16 @@
+295 404 375 529 Chaetodon_trifasciatus 
+1464 687 1516 753 Pomacentrus_sulfureus 
+502 640 676 738 Pomacentrus_sulfureus 
+1657 164 1851 273 Acanthurus_lineatus 
+1419 319 1499 403 Ctenochaetus_striatus 
+1659 329 1852 436 Ctenochaetus_striatus 
+831 232 1037 358 Ctenochaetus_striatus 
+708 147 915 236 Ctenochaetus_striatus 
+384 137 472 287 Ctenochaetus_striatus 
+207 184 355 278 Ctenochaetus_striatus 
+96 128 259 199 Ctenochaetus_striatus 
+39 402 178 468 Ctenochaetus_striatus 
+712 260 768 307 Ctenochaetus_striatus 
+1560 176 1657 279 Zebrasoma_scopas 
+977 534 1077 603 Plectroglyphidodon_dickii 
+539 366 664 449 Centropyge_multispinis 

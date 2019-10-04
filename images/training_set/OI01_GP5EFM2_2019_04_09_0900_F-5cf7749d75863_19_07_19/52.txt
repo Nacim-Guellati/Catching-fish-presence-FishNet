@@ -1,0 +1,4 @@
+1039 846 1229 947 Acanthurus_lineatus 
+527 192 612 243 Chromis_ternatensis 
+1126 961 1199 1002 unknown_fish 
+1309 407 1346 436 Chromis_dimidiata 

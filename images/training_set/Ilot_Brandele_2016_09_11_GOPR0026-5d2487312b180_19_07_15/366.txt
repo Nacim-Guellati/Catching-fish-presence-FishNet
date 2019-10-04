@@ -1,0 +1,5 @@
+1460 461 1617 600 Pomacentrus_sulfureus 
+796 424 1117 698 Amanses_scopas 
+1420 4 1503 49 Ctenochaetus_striatus 
+1090 57 1203 99 Gomphosus_caeruleus_female 
+1049 68 1106 104 Thalassoma_hardwicke 

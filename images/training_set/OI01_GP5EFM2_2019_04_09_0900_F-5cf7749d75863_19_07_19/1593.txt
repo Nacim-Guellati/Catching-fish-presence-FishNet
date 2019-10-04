@@ -1,0 +1,11 @@
+770 602 835 630 Nemateleotris_magnifica 
+1176 773 1830 1043 Gomphosus_caeruleus_male 
+1179 614 1318 695 Balistapus_undulatus 
+639 948 803 1074 Ctenochaetus_truncatus 
+980 543 1080 599 Acanthurus_lineatus 
+531 575 583 603 Chromis_dimidiata 
+282 579 325 604 Chromis_dimidiata 
+984 460 1007 483 Chromis_dimidiata 
+1296 417 1323 440 Chromis_dimidiata 
+1052 312 1104 355 Chromis_ternatensis 
+1303 326 1349 360 Chromis_ternatensis 

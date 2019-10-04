@@ -1,0 +1,14 @@
+1252 158 1293 186 Chromis_dimidiata 
+1292 370 1399 425 Chromis_dimidiata 
+1619 238 1669 278 Chromis_dimidiata 
+1525 100 1563 136 Chromis_dimidiata 
+1091 82 1123 107 Chromis_dimidiata 
+812 44 845 69 Chromis_dimidiata 
+691 127 717 151 Chromis_dimidiata 
+667 175 695 203 Chromis_dimidiata 
+845 213 877 239 Chromis_dimidiata 
+551 58 587 92 Chromis_dimidiata 
+294 67 328 89 Chromis_dimidiata 
+99 99 144 127 Chromis_dimidiata 
+1333 350 1427 446 Ctenochaetus_truncatus 
+564 798 774 909 Halichoeres_hortulanus 

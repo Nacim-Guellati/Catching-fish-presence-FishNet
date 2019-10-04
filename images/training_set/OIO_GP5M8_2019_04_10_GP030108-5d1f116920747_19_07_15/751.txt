@@ -1,0 +1,13 @@
+792 713 972 912 Chaetodon_guttatissimus 
+656 596 749 762 Chaetodon_guttatissimus 
+544 104 625 152 Acanthurus_lineatus 
+631 235 713 314 Ctenochaetus_striatus 
+537 199 601 254 Ctenochaetus_striatus 
+1261 246 1310 313 Ctenochaetus_striatus 
+812 112 862 142 Chromis_dimidiata 
+966 299 997 324 Chromis_dimidiata 
+1373 509 1398 537 Chromis_dimidiata 
+442 0 482 20 Chromis_dimidiata 
+346 45 418 73 Labridae 
+4 58 83 91 Labridae 
+1553 282 1628 319 Labridae 

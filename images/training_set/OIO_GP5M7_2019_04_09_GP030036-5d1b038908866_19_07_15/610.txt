@@ -1,0 +1,5 @@
+556 618 841 731 Variola_louti 
+1399 373 1465 440 Ctenochaetus_striatus 
+1511 348 1611 391 Serranidae 
+1041 790 1102 832 Chromis_dimidiata 
+1075 723 1100 761 Chromis_dimidiata 

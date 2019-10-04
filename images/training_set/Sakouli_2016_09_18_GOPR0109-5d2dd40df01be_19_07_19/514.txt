@@ -1,0 +1,4 @@
+139 309 286 387 Pomacentrus_sulfureus 
+873 611 1002 730 Plectroglyphidodon_dickii 
+1018 457 1159 517 Plectroglyphidodon_lacrymatus 
+1553 240 1611 277 Pomacentrus_sulfureus 

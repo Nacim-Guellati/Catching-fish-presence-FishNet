@@ -1,0 +1,5 @@
+1022 314 1168 437 Thalassoma_hardwicke 
+276 128 332 236 Chaetodon_trifasciatus 
+125 64 207 204 Chaetodon_trifasciatus 
+1727 81 1808 124 Pomacentrus_sulfureus 
+1036 703 1226 849 Ostracion_meleagris_female 

@@ -1,0 +1,6 @@
+225 513 492 637 Gomphosus_caeruleus_female 
+667 52 827 107 Thalassoma_hardwicke 
+186 103 248 203 Chaetodon_trifasciatus 
+277 98 358 219 Chaetodon_trifasciatus 
+1530 21 1682 121 Zebrasoma_rostratum 
+992 58 1077 102 Gomphosus_caeruleus_female 

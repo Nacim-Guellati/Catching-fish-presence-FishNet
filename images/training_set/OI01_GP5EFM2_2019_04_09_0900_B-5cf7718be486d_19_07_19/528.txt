@@ -1,0 +1,7 @@
+1311 577 1552 663 Acanthurus_lineatus 
+358 853 666 1014 Chaetodon_auriga 
+1463 688 1649 868 Chaetodon_auriga 
+1056 828 1232 906 Plectropomus_punctatus 
+794 557 827 582 Chromis_dimidiata 
+898 567 921 583 Chromis_dimidiata 
+574 612 608 639 Chromis_dimidiata 

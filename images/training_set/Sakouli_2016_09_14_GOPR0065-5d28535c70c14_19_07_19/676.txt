@@ -1,0 +1,10 @@
+1072 871 1240 1044 Centropyge_multispinis 
+430 367 497 438 Chromis_dimidiata 
+952 170 976 200 Chromis_dimidiata 
+1427 213 1492 255 Chromis_dimidiata 
+958 364 1021 410 Pomacentrus_sulfureus 
+1213 185 1254 224 Pomacentrus_sulfureus 
+0 111 62 146 Pomacentrus_sulfureus 
+693 614 770 669 Plectroglyphidodon_dickii 
+994 220 1070 306 Ctenochaetus_striatus 
+1310 204 1440 309 Ctenochaetus_striatus 

@@ -1,0 +1,10 @@
+1665 469 1719 504 Chromis_dimidiata 
+1560 122 1735 204 Chromis_dimidiata 
+1841 182 1889 236 Chromis_dimidiata 
+1546 242 1606 291 Chromis_dimidiata 
+1353 299 1411 334 Chromis_dimidiata 
+1233 87 1263 124 Chromis_dimidiata 
+918 81 960 114 Chromis_dimidiata 
+853 81 898 117 Chromis_dimidiata 
+511 34 546 76 Chromis_dimidiata 
+20 67 84 101 Chromis_dimidiata 

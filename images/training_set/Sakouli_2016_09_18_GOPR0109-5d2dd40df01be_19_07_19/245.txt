@@ -1,0 +1,7 @@
+1809 251 1866 293 Pomacentrus_sulfureus 
+1515 226 1568 266 Zebrasoma_rostratum 
+1637 170 1674 215 Zebrasoma_rostratum 
+1577 160 1614 193 Zebrasoma_rostratum 
+203 569 296 662 Plectroglyphidodon_dickii 
+1557 289 1647 340 Labridae 
+845 238 915 274 Arothron 

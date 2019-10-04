@@ -1,0 +1,10 @@
+280 555 470 661 Chromis_dimidiata 
+1228 812 1281 857 Chromis_dimidiata 
+934 994 980 1076 Chromis_dimidiata 
+1488 451 1660 541 Pseudanthias_squamipinnis_female 
+1688 616 1827 684 Pseudanthias_squamipinnis_female 
+681 422 860 506 Pseudanthias_squamipinnis_female 
+604 812 687 915 Chromis_lepidolepis 
+507 746 564 825 Chromis_lepidolepis 
+1522 627 1615 689 Acanthurus_fowleri 
+490 860 544 892 Paracirrhites_forsteri 

@@ -1,0 +1,8 @@
+1461 1021 1566 1073 Plectroglyphidodon_johnstonianus 
+718 684 785 756 Ctenochaetus_striatus 
+1006 855 1087 895 Chromis_ternatensis 
+1193 578 1251 623 Chromis_ternatensis 
+1328 213 1354 283 Chromis_ternatensis 
+1423 111 1453 153 Chromis_ternatensis 
+1847 322 1915 360 Chromis_ternatensis 
+1499 234 1566 285 Chromis_dimidiata 

@@ -1,0 +1,13 @@
+591 437 731 506 Chromis_dimidiata 
+206 1 238 24 Chromis_dimidiata 
+581 132 619 164 Chromis_dimidiata 
+780 181 823 206 Chromis_dimidiata 
+1475 124 1541 167 Chromis_dimidiata 
+1364 214 1394 242 Chromis_dimidiata 
+1023 104 1049 141 Chromis_dimidiata 
+1104 57 1133 98 Chromis_dimidiata 
+1025 196 1054 219 Chromis_dimidiata 
+356 84 405 128 Chromis_dimidiata 
+1253 693 1313 777 Chromis_ternatensis 
+41 603 154 677 Chromis_ternatensis 
+1044 308 1221 412 Pseudanthias_squamipinnis_male 

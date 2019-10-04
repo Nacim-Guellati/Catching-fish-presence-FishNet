@@ -1,0 +1,5 @@
+388 652 518 773 Plectropomus_laevis 
+1282 558 1496 661 Scarus_frenatus_male 
+1011 772 1067 812 Chromis_dimidiata 
+256 761 301 787 Chromis_dimidiata 
+1709 623 1821 713 Chromis_ternatensis 

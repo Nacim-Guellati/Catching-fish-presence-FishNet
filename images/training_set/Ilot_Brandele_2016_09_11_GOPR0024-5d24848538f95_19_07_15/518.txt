@@ -1,0 +1,7 @@
+343 301 438 343 Chaetodon_striatus 
+361 349 431 396 Chaetodon_striatus 
+793 442 847 492 Chaetodon_trifasciatus 
+778 536 845 578 Chaetodon_trifasciatus 
+1107 473 1178 516 Pomacentrus_sulfureus 
+362 696 481 742 Halichoeres_hortulanus 
+946 156 985 211 Halichoeres_hortulanus 

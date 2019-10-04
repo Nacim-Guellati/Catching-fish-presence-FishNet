@@ -1,0 +1,8 @@
+779 342 838 397 Chromis_ternatensis 
+634 249 702 291 Chromis_ternatensis 
+891 389 936 436 Chromis_ternatensis 
+319 289 389 323 Chromis_ternatensis 
+769 466 802 511 Chromis_ternatensis 
+764 1041 842 1071 Chromis_ternatensis 
+544 657 679 718 Plectropomus_punctatus 
+894 629 957 673 Chromis_dimidiata 

@@ -1,0 +1,11 @@
+1517 141 1631 196 Chromis_dimidiata 
+56 575 125 653 Chromis_dimidiata 
+1419 754 1463 794 Chromis_dimidiata 
+851 852 877 881 Chromis_dimidiata 
+771 84 832 156 Acanthurus_thompsoni 
+607 765 701 827 Gomphosus_caeruleus_male 
+145 861 250 907 Pseudanthias_squamipinnis_male 
+884 119 1007 187 Pseudanthias_squamipinnis_female 
+1591 335 1816 428 Pseudanthias_squamipinnis_female 
+478 920 581 958 Thalassoma_lunare 
+1463 527 1545 579 Chromis_lepidolepis 

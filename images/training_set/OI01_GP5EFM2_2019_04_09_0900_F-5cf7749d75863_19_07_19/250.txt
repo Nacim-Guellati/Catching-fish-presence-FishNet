@@ -1,0 +1,7 @@
+1663 340 1895 451 Acanthurus_lineatus 
+1151 65 1204 117 Chromis_dimidiata 
+1755 59 1906 108 Chromis_ternatensis 
+698 511 733 581 Chromis_ternatensis 
+1281 821 1467 954 Ctenochaetus_truncatus 
+870 807 983 957 Ctenochaetus_truncatus 
+1683 990 1862 1074 unknown_fish 

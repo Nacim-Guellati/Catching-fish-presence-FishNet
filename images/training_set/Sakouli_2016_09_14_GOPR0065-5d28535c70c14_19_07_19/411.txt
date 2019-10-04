@@ -1,0 +1,16 @@
+522 116 698 226 Chromis_ternatensis 
+1316 688 1406 830 Chaetodon_guttatissimus 
+1407 632 1547 734 Chaetodon_guttatissimus 
+368 259 503 454 Ctenochaetus_striatus 
+915 334 1055 430 Ctenochaetus_striatus 
+1707 818 1911 953 Ctenochaetus_striatus 
+1127 554 1227 668 Ctenochaetus_striatus 
+93 277 314 370 Ctenochaetus_striatus 
+503 277 584 388 Zebrasoma_rostratum 
+161 104 207 140 Chromis_dimidiata 
+944 185 984 227 Chromis_dimidiata 
+795 196 884 259 Pomacentrus_sulfureus 
+1112 158 1175 203 Pomacentrus_sulfureus 
+389 88 548 178 Arothron 
+344 604 444 653 Chromis_dimidiata 
+225 602 341 673 Plectroglyphidodon_dickii 

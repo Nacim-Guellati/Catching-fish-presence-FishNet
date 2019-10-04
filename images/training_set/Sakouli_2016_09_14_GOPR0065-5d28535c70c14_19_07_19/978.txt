@@ -1,0 +1,7 @@
+1338 266 1404 304 Chromis_dimidiata 
+769 726 885 781 Chromis_dimidiata 
+348 564 434 632 Chromis_dimidiata 
+1546 173 1607 235 Chaetodon_auriga 
+321 127 553 238 Cephalopholis_argus 
+952 305 1053 365 Pomacentrus_sulfureus 
+1265 195 1399 283 Ctenochaetus_striatus 

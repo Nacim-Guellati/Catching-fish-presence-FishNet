@@ -1,0 +1,3 @@
+1068 598 1405 957 Chaetodon_trifasciatus 
+790 392 857 454 Chaetodon_kleinii 
+521 675 583 729 Pomacentrus_sulfureus 

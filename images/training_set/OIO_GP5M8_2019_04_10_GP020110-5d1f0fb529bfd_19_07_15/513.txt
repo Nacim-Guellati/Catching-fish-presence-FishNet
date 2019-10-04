@@ -1,0 +1,8 @@
+1067 489 1167 602 Acanthurus_dussumieri 
+841 397 1129 524 Acanthurus_dussumieri 
+948 288 1219 410 Acanthurus_dussumieri 
+1186 386 1309 517 Naso_elegans 
+553 130 830 298 Aethaloperca_rogaa 
+372 44 495 131 Sargocentron 
+222 711 273 771 Chromis_dimidiata 
+1329 822 1446 876 Gunnellichthys_monostigma 

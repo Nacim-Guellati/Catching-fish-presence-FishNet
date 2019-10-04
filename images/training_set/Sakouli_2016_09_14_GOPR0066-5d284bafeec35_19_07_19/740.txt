@@ -1,0 +1,5 @@
+681 278 868 423 Pygoplites_diacanthus 
+40 338 158 434 Pomacentrus_sulfureus 
+613 64 662 101 Pomacentrus_sulfureus 
+981 44 1032 95 Chaetodon_kleinii 
+836 14 931 64 Ctenochaetus_striatus 

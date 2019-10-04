@@ -1,0 +1,7 @@
+556 239 602 300 Chromis_dimidiata 
+943 433 1010 481 Chromis_dimidiata 
+1076 537 1107 572 Chromis_dimidiata 
+1762 125 1819 188 Chromis_dimidiata 
+581 690 634 720 Chromis_dimidiata 
+1279 391 1346 478 Acanthurus_lineatus 
+921 238 1023 289 Acanthurus_lineatus 

@@ -1,0 +1,6 @@
+869 276 973 328 Acanthurus_thompsoni 
+828 679 862 713 Chromis_dimidiata 
+506 638 574 690 Pseudanthias_squamipinnis_male 
+484 817 549 878 Chaetodon_guttatissimus 
+1763 410 1861 475 Chromis_lepidolepis 
+1082 689 1118 766 Acanthurus_thompsoni 

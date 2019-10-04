@@ -1,0 +1,6 @@
+1157 299 1352 396 Acanthurus_dussumieri 
+1004 402 1246 529 Acanthurus_dussumieri 
+1180 163 1278 259 Acanthurus_dussumieri 
+1307 778 1363 876 Acanthurus_thompsoni 
+1514 239 1712 342 Ctenochaetus_striatus 
+519 890 659 964 Chromis_atripectoralis_OR_Chromis_viridis 

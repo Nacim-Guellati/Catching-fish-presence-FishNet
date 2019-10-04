@@ -1,0 +1,14 @@
+681 229 783 279 Pseudanthias_bicolor_female 
+355 176 456 232 Pseudanthias_bicolor_female 
+77 689 143 776 Pseudanthias_bicolor_female 
+1393 849 1528 984 Stegastes 
+0 541 80 576 Pseudanthias_bicolor_female 
+30 499 115 543 Pseudanthias_bicolor_female 
+1327 502 1382 528 Pseudanthias 
+600 604 650 631 Pseudanthias 
+135 68 217 112 Pseudanthias 
+995 707 1035 737 Pseudanthias 
+1126 122 1180 169 Pseudanthias 
+1275 641 1303 661 Chromis_dimidiata 
+1122 331 1172 369 Pseudanthias 
+1626 241 1685 286 Pseudanthias 

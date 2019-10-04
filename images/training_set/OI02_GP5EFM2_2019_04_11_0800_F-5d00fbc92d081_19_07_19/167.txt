@@ -1,0 +1,4 @@
+953 166 1099 291 Hemigymnus_fasciatus 
+572 38 589 53 Chromis_dimidiata 
+649 93 666 117 Chromis_dimidiata 
+1233 128 1257 144 Chromis_dimidiata 

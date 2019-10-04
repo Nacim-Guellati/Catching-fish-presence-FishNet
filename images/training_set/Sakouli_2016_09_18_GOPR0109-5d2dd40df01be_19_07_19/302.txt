@@ -1,0 +1,11 @@
+1544 142 1616 181 Ctenochaetus_striatus 
+1728 46 1794 86 Ctenochaetus_striatus 
+1601 238 1664 299 Ctenochaetus_striatus 
+659 179 743 242 Ctenochaetus_striatus 
+572 172 645 206 Labridae 
+426 148 491 185 Gomphosus_caeruleus_female 
+456 122 507 164 Gomphosus_caeruleus_female 
+662 91 704 125 Chaetodon 
+1695 82 1748 118 Gomphosus_caeruleus_male 
+993 548 1092 625 Apogonidae 
+1430 283 1488 317 Pomacentrus_sulfureus 

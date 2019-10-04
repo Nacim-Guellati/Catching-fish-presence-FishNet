@@ -1,0 +1,9 @@
+145 302 351 411 Ctenochaetus_truncatus 
+789 227 853 307 Anampses_twistii 
+600 204 623 231 Chromis_dimidiata 
+633 175 665 200 Chromis_dimidiata 
+663 142 695 184 Chromis_dimidiata 
+1432 141 1477 185 Chromis_dimidiata 
+1598 255 1636 291 Chromis_dimidiata 
+1725 331 1762 363 Chromis_dimidiata 
+1721 17 1785 62 Chromis_ternatensis 

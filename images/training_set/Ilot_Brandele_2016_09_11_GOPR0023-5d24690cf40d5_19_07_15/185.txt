@@ -1,0 +1,17 @@
+736 477 817 537 Pomacentrus_sulfureus 
+1675 467 1772 520 Pomacentrus_sulfureus 
+1650 414 1702 447 Pomacentrus_sulfureus 
+960 528 1040 608 Zebrasoma_scopas 
+1189 363 1302 418 Chromis_viridis 
+1475 297 1546 364 Chromis_viridis 
+1524 269 1629 326 Chromis_viridis 
+1307 274 1413 350 Chromis_viridis 
+1257 329 1344 389 Chromis_viridis 
+1235 277 1308 318 Chromis_viridis 
+1133 315 1218 363 Chromis_viridis 
+1125 362 1227 414 Chromis_viridis 
+1385 177 1452 226 Chromis_viridis 
+1419 383 1514 436 Chromis_ternatensis 
+1316 363 1399 423 Chromis_ternatensis 
+1337 442 1437 520 Chromis_ternatensis 
+1085 508 1172 559 Plectroglyphidodon_dickii 

@@ -1,0 +1,12 @@
+1379 344 1433 381 Chromis_dimidiata 
+1199 117 1312 189 Chromis_dimidiata 
+1509 259 1617 339 Chromis_dimidiata 
+843 442 944 516 Chromis_dimidiata 
+432 822 668 916 Chromis_dimidiata 
+857 673 929 712 Chromis_dimidiata 
+872 221 1008 264 Thalassoma_hebraicum 
+663 332 756 374 Acanthurus_lineatus 
+1462 419 1563 463 Ctenochaetus_striatus 
+1691 667 1811 759 unknown_fish 
+514 971 594 1023 Chromis_dimidiata 
+411 972 458 1012 Chromis_dimidiata 

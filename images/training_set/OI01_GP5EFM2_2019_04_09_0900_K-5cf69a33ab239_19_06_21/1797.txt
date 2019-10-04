@@ -1,0 +1,9 @@
+487 426 549 463 Nemateleotris_magnifica 
+844 629 926 700 Ctenochaetus_truncatus 
+1229 393 1285 445 Chromis_dimidiata 
+755 489 787 513 Chromis_dimidiata 
+632 487 657 519 Chromis_dimidiata 
+892 468 922 492 Chromis_dimidiata 
+1161 427 1222 463 Acanthurus_lineatus 
+580 59 637 102 Chromis_ternatensis 
+1131 96 1175 128 Chromis_ternatensis 

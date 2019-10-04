@@ -1,0 +1,15 @@
+1494 501 1723 592 Pseudanthias_squamipinnis_male 
+18 851 429 1027 Gomphosus_caeruleus_female 
+953 31 1029 111 Lutjanus_gibbus 
+1226 671 1339 741 Chromis_dimidiata 
+974 789 1024 837 Chromis_dimidiata 
+1788 478 1909 603 Chromis_dimidiata 
+1511 87 1565 127 Chromis_dimidiata 
+1586 132 1643 184 Chromis_dimidiata 
+1380 303 1421 332 Chromis_dimidiata 
+781 149 823 187 Chromis_dimidiata 
+870 104 918 142 Chromis_dimidiata 
+638 134 674 172 Chromis_dimidiata 
+680 238 798 346 Chromis_dimidiata 
+870 193 904 224 Chromis_dimidiata 
+1005 227 1030 256 Chromis_dimidiata 

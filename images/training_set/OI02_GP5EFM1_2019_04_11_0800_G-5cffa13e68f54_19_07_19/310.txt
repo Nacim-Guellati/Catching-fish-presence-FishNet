@@ -1,0 +1,16 @@
+571 663 606 688 Chromis_dimidiata 
+809 695 847 727 Chromis_dimidiata 
+1190 674 1237 710 Chromis_dimidiata 
+1373 735 1408 789 Chromis_dimidiata 
+1493 943 1555 975 Chromis_dimidiata 
+1374 834 1412 866 Chromis_dimidiata 
+282 715 542 933 Pseudanthias_squamipinnis_female 
+1040 586 1117 711 Pseudanthias_squamipinnis_female 
+1824 732 1915 786 Pseudanthias_squamipinnis_female 
+1715 536 1916 657 Nemanthias_carberryi_male 
+912 813 975 885 Sufflamen_bursa 
+1655 270 1808 373 Pseudanthias_bicolor 
+1593 654 1689 716 Pseudanthias_bicolor 
+915 395 1093 473 Pseudanthias_bicolor 
+790 272 932 329 Pseudanthias_bicolor 
+375 94 502 159 Pseudanthias_bicolor 

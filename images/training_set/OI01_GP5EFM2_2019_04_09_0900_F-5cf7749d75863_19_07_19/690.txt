@@ -1,0 +1,7 @@
+10 845 465 1027 Acanthurus_lineatus 
+1103 760 1359 853 Acanthurus_lineatus 
+1711 827 1909 1030 Ctenochaetus_truncatus 
+1203 373 1235 413 Chromis_dimidiata 
+1538 337 1585 374 Chromis_dimidiata 
+1835 220 1888 252 Chromis_dimidiata 
+956 618 1003 663 Nemateleotris_magnifica 

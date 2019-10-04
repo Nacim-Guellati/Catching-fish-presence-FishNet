@@ -1,0 +1,4 @@
+911 343 1027 404 Chromis_dimidiata 
+1085 355 1165 405 Chromis_dimidiata 
+1650 225 1704 300 Chromis_dimidiata 
+1084 950 1146 1002 Chromis_dimidiata 

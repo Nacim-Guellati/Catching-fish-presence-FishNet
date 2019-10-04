@@ -1,0 +1,6 @@
+1450 835 1679 950 Pomacentrus_sulfureus 
+777 769 844 809 Pomacentrus_sulfureus 
+177 797 309 914 Ctenochaetus_striatus 
+657 875 762 938 Gnathodentex_aureolineatus 
+297 516 340 548 Abudefduf 
+1296 537 1352 580 Zebrasoma 

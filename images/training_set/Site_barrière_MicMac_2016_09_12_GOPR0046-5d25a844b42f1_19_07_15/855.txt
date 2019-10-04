@@ -1,0 +1,5 @@
+1265 506 1394 583 Zanclus_cornutus 
+958 752 1067 818 Gomphosus_caeruleus_male 
+828 672 942 771 Amanses_scopas 
+1231 572 1289 611 Plectroglyphidodon_dickii 
+442 499 587 607 Myripristis_murdjan 

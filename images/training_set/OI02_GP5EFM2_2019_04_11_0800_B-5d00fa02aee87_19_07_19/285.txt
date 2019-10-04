@@ -1,0 +1,16 @@
+946 803 1040 877 Chromis_ternatensis 
+801 927 895 1041 Chromis_ternatensis 
+1275 598 1363 638 Chromis_dimidiata 
+1591 241 1670 284 Chromis_dimidiata 
+1353 216 1405 256 Chromis_dimidiata 
+1509 284 1570 332 Chromis_dimidiata 
+923 249 955 291 Chromis_dimidiata 
+529 144 565 181 Chromis_dimidiata 
+345 263 399 302 Chromis_dimidiata 
+119 148 164 204 Chromis_dimidiata 
+39 177 75 214 Chromis_dimidiata 
+104 198 149 236 Chromis_dimidiata 
+313 797 556 946 Halichoeres_hortulanus_transitional 
+716 666 919 834 Ctenochaetus_truncatus 
+804 221 876 328 Zebrasoma_rostratum 
+939 883 1115 963 Labroides_dimidiatus 

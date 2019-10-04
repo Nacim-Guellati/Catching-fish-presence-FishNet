@@ -1,0 +1,13 @@
+591 534 655 580 Chromis_dimidiata 
+1020 618 1062 647 Chromis_dimidiata 
+510 671 597 700 Chromis_ternatensis 
+746 611 828 650 Chromis_ternatensis 
+856 559 895 588 Chromis_ternatensis 
+957 554 1011 581 Chromis_ternatensis 
+1173 636 1221 665 Chromis_ternatensis 
+1235 576 1292 620 Chromis_ternatensis 
+1271 592 1330 621 Chromis_ternatensis 
+979 656 1015 678 Chromis_ternatensis 
+363 989 423 1026 Chromis_ternatensis 
+1744 924 1814 959 Plectroglyphidodon_johnstonianus 
+1739 638 1837 725 Aethaloperca_rogaa 

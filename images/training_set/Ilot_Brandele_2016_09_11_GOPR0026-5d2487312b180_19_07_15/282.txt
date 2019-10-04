@@ -1,0 +1,5 @@
+320 77 522 208 Hologymnosus_annulatus 
+1596 109 1805 227 Zebrasoma_rostratum 
+68 358 187 493 Chaetodon_meyeri 
+1035 74 1100 116 Pomacentrus_caeruleus 
+1253 179 1302 206 Thalassoma_hardwicke 

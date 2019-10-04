@@ -1,0 +1,7 @@
+665 639 818 751 Pseudanthias_bicolor 
+841 563 991 619 Pseudanthias_bicolor 
+566 543 748 651 Pseudanthias_bicolor 
+395 743 495 792 Pseudanthias_bicolor 
+643 453 745 519 Acanthurus_thompsoni 
+1721 536 1909 582 Chromis_lepidolepis 
+925 797 955 837 Chromis_dimidiata 

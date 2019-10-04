@@ -1,0 +1,5 @@
+1224 470 1418 598 Pomacentrus_sulfureus 
+899 293 969 384 Chromis_viridis 
+1526 329 1579 432 Chromis_viridis 
+1447 242 1503 273 Balistidae 
+505 279 572 322 Scaridae 

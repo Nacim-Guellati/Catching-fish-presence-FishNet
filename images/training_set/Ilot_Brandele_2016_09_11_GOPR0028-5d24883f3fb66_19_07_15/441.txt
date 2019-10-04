@@ -1,0 +1,4 @@
+1020 328 1182 416 Arothron_nigropunctatus 
+1768 704 1917 859 Pomacentrus_sulfureus 
+1200 57 1252 86 Epinephelus_fasciatus 
+1528 131 1595 181 Ctenochaetus_striatus 

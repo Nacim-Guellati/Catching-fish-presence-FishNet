@@ -1,0 +1,13 @@
+115 509 261 649 Chromis_ternatensis 
+647 399 710 462 Chromis_ternatensis 
+687 382 749 410 Chromis_ternatensis 
+607 268 680 299 Chromis_ternatensis 
+795 168 873 219 Chromis_ternatensis 
+916 11 991 44 Chromis_ternatensis 
+1395 60 1441 88 Chromis_ternatensis 
+1655 146 1700 176 Chromis_ternatensis 
+1161 237 1196 269 Chromis_ternatensis 
+706 687 768 724 Nemateleotris_magnifica 
+739 603 774 640 Chromis_dimidiata 
+1864 408 1905 438 Chromis_dimidiata 
+794 577 864 654 Ctenochaetus_truncatus 

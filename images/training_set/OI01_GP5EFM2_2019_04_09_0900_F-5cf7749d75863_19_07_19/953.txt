@@ -1,0 +1,10 @@
+582 525 622 557 Chromis_dimidiata 
+901 472 929 499 Chromis_dimidiata 
+929 554 954 583 Chromis_dimidiata 
+952 553 978 575 Chromis_dimidiata 
+1673 497 1713 531 Chromis_dimidiata 
+1521 460 1665 556 Acanthurus_lineatus 
+1311 468 1390 511 Acanthurus_lineatus 
+253 971 320 1031 Chromis_ternatensis 
+834 886 876 908 Nemateleotris_magnifica 
+1372 739 1615 885 unknown_fish 

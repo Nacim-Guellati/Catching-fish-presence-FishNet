@@ -1,0 +1,9 @@
+854 112 886 132 Chromis_dimidiata 
+792 136 813 166 Chromis_dimidiata 
+917 264 951 294 Chromis_dimidiata 
+1167 121 1201 156 Chromis_dimidiata 
+1684 104 1739 152 Chromis_dimidiata 
+243 213 278 237 Chromis_dimidiata 
+1389 413 1418 432 Chromis_dimidiata 
+1273 902 1709 1071 Parupeneus_trifasciatus 
+1308 196 1444 242 Thalassoma_lunare 

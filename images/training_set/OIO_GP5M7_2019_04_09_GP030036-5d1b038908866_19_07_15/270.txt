@@ -1,0 +1,6 @@
+161 175 368 291 Chromis_dimidiata 
+183 72 229 111 Chromis_dimidiata 
+93 206 139 241 Chromis_dimidiata 
+569 531 622 569 Chromis_dimidiata 
+630 515 682 548 Chromis_dimidiata 
+993 552 1030 587 Chromis_dimidiata 

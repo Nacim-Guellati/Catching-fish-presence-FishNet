@@ -1,0 +1,7 @@
+766 264 879 322 Acanthurus_thompsoni 
+829 689 859 726 Chromis_dimidiata 
+659 753 713 818 Chromis_dimidiata 
+510 655 563 717 Pseudanthias_squamipinnis_male 
+499 799 559 862 Chaetodon_guttatissimus 
+461 825 517 862 Paracirrhites_forsteri 
+1071 640 1110 721 Acanthurus_thompsoni 

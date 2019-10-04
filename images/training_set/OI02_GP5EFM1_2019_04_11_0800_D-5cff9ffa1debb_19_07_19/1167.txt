@@ -1,0 +1,10 @@
+566 1026 666 1056 Chromis_dimidiata 
+549 257 734 329 Pseudanthias_bicolor 
+141 151 404 224 Pseudanthias_bicolor 
+528 694 586 739 Pseudanthias_bicolor 
+1041 776 1305 894 Pseudanthias_squamipinnis_female 
+1434 742 1539 799 Pseudanthias_bicolor 
+1486 684 1580 741 Pseudanthias_bicolor 
+33 682 220 784 Chromis_lepidolepis 
+45 794 191 877 Chromis_lepidolepis 
+350 803 486 891 Gomphosus_caeruleus_male 

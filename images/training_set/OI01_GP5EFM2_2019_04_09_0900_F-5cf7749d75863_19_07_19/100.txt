@@ -1,0 +1,9 @@
+767 515 833 575 Chromis_ternatensis 
+1124 534 1176 573 Chromis_ternatensis 
+953 613 1000 669 Chromis_ternatensis 
+370 983 456 1030 Chromis_ternatensis 
+375 896 428 952 Chromis_ternatensis 
+1434 290 1597 371 Chromis_dimidiata 
+607 456 684 513 Chromis_dimidiata 
+857 870 944 925 Thalassoma_amblycephalum_juv 
+1172 495 1229 539 Chromis_ternatensis 

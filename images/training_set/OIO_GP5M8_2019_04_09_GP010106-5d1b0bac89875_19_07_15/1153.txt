@@ -1,0 +1,7 @@
+710 341 850 457 Pseudanthias_squamipinnis_male 
+1498 586 1611 641 Pseudanthias_squamipinnis_female 
+1301 613 1421 689 Pseudanthias_squamipinnis_female 
+745 377 832 433 Pseudanthias_squamipinnis_female 
+1199 865 1594 1075 Ctenochaetus_truncatus 
+1473 575 1517 623 Chromis_dimidiata 
+707 523 784 557 Chromis_ternatensis 

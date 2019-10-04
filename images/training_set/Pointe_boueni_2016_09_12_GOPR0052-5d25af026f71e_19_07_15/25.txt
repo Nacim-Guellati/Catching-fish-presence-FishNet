@@ -1,0 +1,16 @@
+1760 448 1912 549 Pomacentrus_sulfureus 
+373 391 492 482 Pomacentrus_sulfureus 
+701 306 754 342 Chromis_dimidiata 
+840 276 873 302 Chromis_dimidiata 
+500 325 536 347 Chromis_dimidiata 
+565 245 592 276 Chromis_dimidiata 
+474 299 494 328 Chromis_dimidiata 
+1628 233 1766 307 Chromis_viridis 
+873 198 946 252 Chromis_viridis 
+1171 157 1226 209 Chromis_viridis 
+1362 317 1413 373 Chromis_viridis 
+1220 378 1269 434 Chromis_viridis 
+977 219 1017 273 Chromis_viridis 
+1501 187 1590 257 Chromis_viridis 
+121 1 219 34 Abudefduf_sparoides 
+1490 214 1598 284 Thalassoma_hardwicke 

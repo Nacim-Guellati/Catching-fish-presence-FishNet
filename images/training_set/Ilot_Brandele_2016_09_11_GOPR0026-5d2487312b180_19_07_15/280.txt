@@ -1,0 +1,4 @@
+248 173 488 281 Hologymnosus_annulatus 
+286 259 371 392 Hologymnosus_annulatus 
+96 369 242 506 Chaetodon_meyeri 
+1032 77 1087 117 Pomacentrus_caeruleus 

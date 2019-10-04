@@ -1,0 +1,15 @@
+342 132 474 196 Chromis_dimidiata 
+461 74 492 106 Chromis_dimidiata 
+419 0 452 38 Chromis_dimidiata 
+546 87 593 124 Chromis_dimidiata 
+707 198 744 217 Chromis_dimidiata 
+816 147 852 178 Chromis_dimidiata 
+947 12 992 41 Chromis_dimidiata 
+1447 252 1504 298 Chromis_dimidiata 
+1593 87 1637 124 Chromis_dimidiata 
+1124 161 1147 184 Chromis_dimidiata 
+1352 317 1373 336 Chromis_dimidiata 
+189 87 229 118 Chromis_dimidiata 
+1378 291 1402 313 Chromis_dimidiata 
+544 356 693 489 Aethaloperca_rogaa 
+562 176 622 208 Thalassoma_lunare 

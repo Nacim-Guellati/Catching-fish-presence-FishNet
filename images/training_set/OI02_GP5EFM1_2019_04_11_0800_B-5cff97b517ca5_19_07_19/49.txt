@@ -1,0 +1,11 @@
+844 809 945 945 Zanclus_cornutus 
+1477 945 1561 1002 Chromis_dimidiata 
+617 683 677 751 Chromis_dimidiata 
+716 754 746 787 Chromis_dimidiata 
+693 597 730 626 Chromis_dimidiata 
+126 576 315 643 Pseudanthias_squamipinnis_female 
+1309 878 1381 929 Pseudanthias_squamipinnis_female 
+248 354 430 457 Pseudanthias_bicolor 
+85 481 237 550 Pseudanthias_bicolor 
+412 174 594 231 Pseudanthias_bicolor 
+500 229 621 277 Pseudanthias_bicolor 

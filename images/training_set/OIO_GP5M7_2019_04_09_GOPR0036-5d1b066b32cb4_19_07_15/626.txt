@@ -1,0 +1,12 @@
+706 492 840 610 Chaetodon_auriga 
+410 940 594 1075 Ctenochaetus_striatus 
+888 773 1038 927 Ctenochaetus_striatus 
+483 302 559 354 Chromis_dimidiata 
+557 453 615 493 Chromis_dimidiata 
+1236 141 1269 173 Chromis_dimidiata 
+818 96 868 131 Chromis 
+395 46 464 82 Chromis 
+510 64 557 88 Chromis 
+634 390 706 434 Chromis 
+260 317 308 341 Labridae 
+873 339 913 362 Labridae 

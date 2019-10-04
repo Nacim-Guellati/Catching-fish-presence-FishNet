@@ -1,0 +1,7 @@
+1496 524 1616 602 Pomacentrus_sulfureus 
+507 203 560 236 Pomacentrus_sulfureus 
+735 257 786 286 Pomacentrus_sulfureus 
+444 385 483 424 Pomacentrus_sulfureus 
+828 67 908 223 Zanclus_cornutus 
+938 107 1019 214 Zanclus_cornutus 
+771 286 846 419 Zanclus_cornutus 

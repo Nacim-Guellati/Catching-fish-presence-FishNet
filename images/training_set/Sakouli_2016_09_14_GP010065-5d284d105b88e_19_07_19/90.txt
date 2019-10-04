@@ -1,0 +1,5 @@
+1331 102 1373 143 Chromis_dimidiata 
+965 218 997 246 Chromis_dimidiata 
+893 334 972 380 Pomacentrus_sulfureus 
+352 127 498 223 Arothron 
+1137 154 1224 255 Ctenochaetus_striatus 

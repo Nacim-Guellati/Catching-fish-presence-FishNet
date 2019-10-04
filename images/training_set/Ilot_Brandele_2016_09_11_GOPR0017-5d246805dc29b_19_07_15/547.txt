@@ -1,0 +1,5 @@
+789 911 935 1042 Ctenochaetus_striatus 
+14 760 87 840 Chaetodon_trifasciatus 
+1115 611 1302 830 Gnathodentex_aureolineatus 
+1629 750 1915 888 Gnathodentex_aureolineatus 
+327 440 667 635 Caesio_lunaris 

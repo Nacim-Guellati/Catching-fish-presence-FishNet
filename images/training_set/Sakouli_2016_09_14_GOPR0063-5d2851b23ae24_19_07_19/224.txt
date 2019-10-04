@@ -1,0 +1,6 @@
+506 290 666 442 Zebrasoma_rostratum 
+759 115 935 275 Zebrasoma_rostratum 
+258 167 540 358 Naso_elegans 
+140 278 243 337 Thalassoma_hardwicke 
+108 409 179 457 Pomacentrus_sulfureus 
+222 401 324 466 Pomacentrus_sulfureus 

@@ -1,0 +1,4 @@
+0 113 139 314 Acanthurus_leucosternon 
+918 310 1133 586 Pygoplites_diacanthus 
+1018 0 1111 120 Pygoplites_diacanthus 
+774 575 1055 728 Cephalopholis_argus 

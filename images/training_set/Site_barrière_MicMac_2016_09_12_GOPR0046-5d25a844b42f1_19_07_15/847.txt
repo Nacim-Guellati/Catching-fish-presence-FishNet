@@ -1,0 +1,4 @@
+1646 732 1820 840 Zanclus_cornutus 
+1300 727 1402 787 Abudefduf_vaigiensis 
+884 678 973 760 Zebrasoma_scopas 
+1212 934 1300 1060 Pygoplites_diacanthus 

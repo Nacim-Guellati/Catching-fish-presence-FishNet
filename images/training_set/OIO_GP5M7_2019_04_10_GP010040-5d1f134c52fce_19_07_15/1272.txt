@@ -1,0 +1,16 @@
+150 12 271 113 Pseudanthias 
+771 79 861 152 Pseudanthias 
+185 513 368 616 Pseudanthias 
+326 424 416 462 Pseudanthias 
+25 864 117 922 Pseudanthias 
+376 681 486 798 Pseudanthias_squamipinnis_female 
+868 618 993 671 Pseudanthias_squamipinnis_female 
+846 803 926 943 Pseudanthias_squamipinnis_female 
+668 958 741 1007 Pseudanthias_squamipinnis_female 
+817 971 868 998 Pseudanthias_squamipinnis_female 
+1561 989 1631 1036 Pseudanthias_squamipinnis_female 
+196 881 356 982 Carangoides 
+1000 788 1067 843 Chromis_dimidiata 
+1428 852 1483 884 Chromis_dimidiata 
+350 802 402 888 Ecsenius_midas 
+1616 607 1653 653 Pseudanthias 

@@ -1,0 +1,12 @@
+798 125 975 410 Chaetodon_lunula 
+455 154 674 335 Zebrasoma_rostratum 
+236 320 455 494 Zebrasoma_rostratum 
+86 176 489 335 Naso_elegans 
+690 737 821 881 Plectroglyphidodon_dickii 
+1367 608 1439 686 Plectroglyphidodon_dickii 
+1001 179 1137 229 Thalassoma_hardwicke 
+722 155 842 205 Thalassoma_hardwicke 
+318 850 413 946 Pomacentrus_sulfureus 
+401 346 453 398 Pomacentrus_sulfureus 
+159 383 215 430 Pomacentrus_sulfureus 
+813 460 896 533 Centropyge_multispinis 

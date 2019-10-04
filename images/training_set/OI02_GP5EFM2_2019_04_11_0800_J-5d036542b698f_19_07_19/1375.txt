@@ -1,0 +1,14 @@
+1279 603 1359 716 Pseudanthias_squamipinnis_male 
+961 21 1024 97 Lutjanus_gibbus 
+563 94 595 129 Chromis_dimidiata 
+858 179 898 209 Chromis_dimidiata 
+944 78 976 106 Chromis_dimidiata 
+954 99 985 134 Chromis_dimidiata 
+1355 199 1414 232 Chromis_dimidiata 
+1470 93 1513 136 Chromis_dimidiata 
+1351 309 1389 337 Chromis_dimidiata 
+1770 51 1859 102 Chromis_dimidiata 
+1561 733 1749 832 Chromis_dimidiata 
+1281 744 1348 822 Chromis_dimidiata 
+556 829 665 914 Chromis_dimidiata 
+1271 874 1320 921 Chromis_dimidiata 

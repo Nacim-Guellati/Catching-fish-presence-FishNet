@@ -1,0 +1,8 @@
+519 821 812 1012 Ctenochaetus_striatus 
+1392 381 1465 425 Ctenochaetus_striatus 
+1757 580 1872 654 Acanthurus_lineatus 
+1171 324 1194 342 Chromis_dimidiata 
+696 248 725 274 Chromis_dimidiata 
+582 257 610 280 Chromis_dimidiata 
+1757 22 1823 59 Chromis_dimidiata 
+1351 335 1372 357 Chromis_dimidiata 

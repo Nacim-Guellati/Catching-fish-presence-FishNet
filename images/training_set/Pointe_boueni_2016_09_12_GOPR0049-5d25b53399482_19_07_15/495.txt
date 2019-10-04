@@ -1,0 +1,9 @@
+201 170 324 232 Pomacentrus_sulfureus 
+1636 267 1793 351 Balistapus_undulatus 
+934 98 1051 166 Zebrasoma_scopas 
+1164 196 1212 269 Zebrasoma_scopas 
+322 123 440 181 Ctenochaetus_striatus 
+790 122 889 179 Ctenochaetus_striatus 
+823 287 904 354 Ctenochaetus_striatus 
+1782 0 1892 41 Zebrasoma_scopas 
+1799 55 1854 103 Zebrasoma_scopas 

@@ -1,0 +1,9 @@
+158 663 437 805 Bodianus_anthioides 
+732 228 762 251 Chromis_dimidiata 
+943 108 982 141 Chromis_dimidiata 
+1235 45 1266 73 Chromis_dimidiata 
+1275 90 1313 121 Chromis_dimidiata 
+1396 169 1428 205 Chromis_dimidiata 
+1390 284 1422 314 Chromis_dimidiata 
+1875 274 1911 300 Chromis_dimidiata 
+1786 687 1915 793 Zebrasoma_rostratum 

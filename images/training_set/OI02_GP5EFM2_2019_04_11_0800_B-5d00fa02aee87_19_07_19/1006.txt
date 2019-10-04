@@ -1,0 +1,10 @@
+1050 782 1149 864 Chromis_dimidiata 
+570 122 605 169 Chromis_dimidiata 
+676 168 710 204 Chromis_dimidiata 
+725 259 763 289 Chromis_dimidiata 
+173 2 218 29 Chromis_dimidiata 
+1443 1 1475 21 Chromis_dimidiata 
+1614 276 1645 304 Chromis_dimidiata 
+943 377 1025 418 Chromis_ternatensis 
+1189 828 1525 933 Thalassoma_lunare 
+230 424 326 587 Pseudanthias_squamipinnis_female 

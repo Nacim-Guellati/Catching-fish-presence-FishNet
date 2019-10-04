@@ -1,0 +1,4 @@
+996 756 1127 999 Acanthurus_lineatus 
+226 231 747 439 Acanthurus_lineatus 
+1064 673 1115 716 Acanthurus_lineatus 
+164 602 309 719 Halichoeres_hortulanus 

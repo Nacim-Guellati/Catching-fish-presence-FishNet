@@ -1,0 +1,6 @@
+1570 52 1701 223 Ctenochaetus_striatus 
+309 735 392 834 Ctenochaetus_striatus 
+403 689 486 750 Ctenochaetus_striatus 
+543 444 581 500 Chromis_dimidiata 
+0 604 95 705 Chromis_dimidiata 
+1327 549 1423 611 Chromis_dimidiata 

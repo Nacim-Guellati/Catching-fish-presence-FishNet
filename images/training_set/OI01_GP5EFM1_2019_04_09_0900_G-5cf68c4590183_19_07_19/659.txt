@@ -1,0 +1,6 @@
+993 215 1084 265 Acanthurus_lineatus 
+1379 421 1460 470 Acanthurus_lineatus 
+387 347 486 391 Acanthurus_lineatus 
+1038 550 1090 594 Chromis_dimidiata 
+1005 792 1055 825 Chromis_dimidiata 
+1170 932 1285 987 Chromis_ternatensis 

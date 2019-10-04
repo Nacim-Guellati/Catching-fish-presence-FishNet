@@ -1,0 +1,8 @@
+566 648 605 691 Chromis_dimidiata 
+835 960 895 1024 Chromis_dimidiata 
+591 925 635 961 Chromis_dimidiata 
+1208 838 1250 879 Chromis_dimidiata 
+1166 850 1204 876 Chromis_dimidiata 
+725 522 877 598 Ctenochaetus_striatus 
+1069 716 1262 818 Ctenochaetus_striatus 
+1308 686 1549 860 Chaetodon_trifasciatus 

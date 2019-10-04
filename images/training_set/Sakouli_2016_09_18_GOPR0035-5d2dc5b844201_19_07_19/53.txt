@@ -1,0 +1,10 @@
+656 134 843 205 Thalassoma_hardwicke 
+1355 260 1509 325 Thalassoma_hardwicke 
+1673 437 1803 521 Ctenochaetus_striatus 
+348 262 476 332 Pomacentrus_sulfureus 
+1290 442 1419 544 Pomacentrus_sulfureus 
+1074 172 1188 266 Zebrasoma_rostratum 
+978 85 1056 125 Hemigymnus_fasciatus 
+684 77 756 142 Hemigymnus_fasciatus 
+168 167 395 299 Halichoeres 
+1749 803 1916 952 Chaetodon_kleinii 

@@ -1,0 +1,8 @@
+832 912 1017 996 Ctenochaetus_striatus 
+431 741 488 777 Pomacentrus_sulfureus 
+0 551 143 611 Gnathodentex_aureolineatus 
+1463 506 1663 651 Aphareus_furca 
+144 708 187 733 Chromis 
+158 760 193 788 Chromis 
+44 751 82 782 Chromis 
+1496 644 1554 694 Scaridae 

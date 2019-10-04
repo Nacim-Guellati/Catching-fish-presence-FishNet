@@ -1,0 +1,7 @@
+1009 676 1193 751 Acanthurus_lineatus 
+587 632 697 703 Ctenochaetus_truncatus 
+864 684 1027 735 Bodianus_diana 
+1460 281 1492 311 Chromis_dimidiata 
+1755 395 1784 434 Chromis_dimidiata 
+889 306 920 330 Chromis_dimidiata 
+207 308 270 344 Acanthurus 

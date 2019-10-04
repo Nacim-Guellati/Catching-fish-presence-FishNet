@@ -1,0 +1,6 @@
+305 611 518 779 Pygoplites_diacanthus 
+576 434 781 556 Myripristis_kuntee 
+1103 692 1292 894 Acanthurus_nigricans 
+852 702 992 782 Ctenochaetus_striatus 
+566 541 758 656 Myripristis 
+1231 589 1288 678 Zebrasoma 

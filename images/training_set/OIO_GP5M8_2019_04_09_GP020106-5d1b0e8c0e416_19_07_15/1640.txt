@@ -1,0 +1,5 @@
+917 219 957 246 Chromis_dimidiata 
+241 137 276 165 Chromis_dimidiata 
+902 554 942 577 Chromis_dimidiata 
+1801 461 1862 497 Chromis_dimidiata 
+1374 388 1405 412 Chromis_dimidiata 

@@ -1,0 +1,11 @@
+604 138 678 185 Acanthurus_lineatus 
+1325 381 1439 462 Ctenochaetus_striatus 
+487 144 542 192 Ctenochaetus_striatus 
+269 43 305 65 Chromis_dimidiata 
+779 0 824 21 Chromis_dimidiata 
+709 193 739 214 Chromis_dimidiata 
+881 245 909 265 Chromis_dimidiata 
+1221 436 1279 471 Chromis_dimidiata 
+804 348 897 387 Ctenochaetus_striatus 
+979 114 1046 145 Labridae 
+671 16 724 41 Labridae 

@@ -1,0 +1,6 @@
+1597 729 1738 824 Zanclus_cornutus 
+1219 681 1318 734 Abudefduf_vaigiensis 
+2 204 247 427 Gomphosus_caeruleus_male 
+868 658 987 748 Zebrasoma_scopas 
+1239 970 1316 1075 Pygoplites_diacanthus 
+1871 944 1916 995 Abudefduf_vaigiensis 

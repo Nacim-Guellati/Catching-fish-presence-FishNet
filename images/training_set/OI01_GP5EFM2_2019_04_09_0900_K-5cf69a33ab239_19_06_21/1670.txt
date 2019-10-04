@@ -1,0 +1,8 @@
+1833 172 1911 206 Chromis_ternatensis 
+1667 162 1733 193 Chromis_ternatensis 
+1159 189 1214 223 Chromis_ternatensis 
+1411 72 1469 111 Chromis_ternatensis 
+1612 71 1677 99 Chromis_ternatensis 
+804 389 839 424 Chromis_dimidiata 
+307 788 382 839 unknown_fish 
+739 49 812 132 Scarus 

@@ -1,0 +1,6 @@
+1160 178 1305 263 Acanthurus_dussumieri 
+1157 296 1334 400 Acanthurus_dussumieri 
+987 392 1240 510 Acanthurus_dussumieri 
+1299 937 1382 1003 Acanthurus_thompsoni 
+1191 332 1340 408 Ctenochaetus_striatus 
+1631 241 1891 546 Sargocentron_caudimaculatum 

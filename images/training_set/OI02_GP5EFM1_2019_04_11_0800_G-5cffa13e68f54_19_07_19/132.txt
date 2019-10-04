@@ -1,0 +1,11 @@
+1826 457 1913 542 Chromis_dimidiata 
+1661 949 1706 981 Chromis_dimidiata 
+1436 863 1481 913 Chromis_dimidiata 
+1190 722 1236 758 Chromis_dimidiata 
+1253 601 1280 621 Chromis_dimidiata 
+893 562 920 597 Chromis_dimidiata 
+221 792 254 817 Chromis_dimidiata 
+1148 62 1249 222 Chromis_lepidolepis 
+1235 976 1301 1054 Ctenochaetus_striatus 
+484 857 553 903 Paracirrhites_forsteri 
+1758 828 1848 874 Pseudanthias_bicolor 

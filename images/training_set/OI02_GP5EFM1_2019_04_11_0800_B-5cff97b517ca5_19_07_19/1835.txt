@@ -1,0 +1,9 @@
+133 851 297 952 Chromis_dimidiata 
+1228 622 1317 671 Chromis_dimidiata 
+1668 714 1856 815 Pseudanthias_squamipinnis_female 
+952 702 1069 769 Pseudanthias_squamipinnis_female 
+898 742 1014 790 Pseudanthias_squamipinnis_female 
+135 696 380 760 Gomphosus_caeruleus_male 
+1630 328 1726 446 Pseudanthias_bicolor 
+458 825 526 859 Paracirrhites_forsteri 
+780 966 915 1020 Thalassoma_lunare 

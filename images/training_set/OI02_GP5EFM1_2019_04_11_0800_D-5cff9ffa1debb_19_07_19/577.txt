@@ -1,0 +1,9 @@
+1277 646 1378 711 Chromis_dimidiata 
+828 691 857 711 Chromis_dimidiata 
+818 191 885 252 Carangidae 
+906 358 960 410 Carangidae 
+528 765 676 875 Pseudanthias_bicolor 
+544 590 621 644 Pseudanthias_bicolor 
+179 320 312 405 Chromis_dimidiata 
+396 505 461 540 Chromis_lepidolepis 
+340 734 376 758 Chromis_dimidiata 
