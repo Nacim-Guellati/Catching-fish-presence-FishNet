@@ -1,0 +1,8 @@
+451 441 511 484 Pomacentrus_sulfureus 
+1148 425 1254 470 Balistapus_undulatus 
+1242 192 1343 293 Chromis_viridis 
+1321 37 1409 82 Chromis_viridis 
+1353 50 1426 96 Chromis_viridis 
+1012 389 1171 508 Scaridae 
+1522 369 1611 409 Caesio_lunaris 
+1617 373 1710 419 Caesio_lunaris 

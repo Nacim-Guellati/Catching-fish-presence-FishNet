@@ -1,0 +1,17 @@
+577 428 647 492 Pomacentrus_sulfureus 
+697 366 743 414 Chaetodon_striatus 
+1241 506 1322 562 Plectroglyphidodon_dickii 
+1148 332 1255 381 Chaetodon_striatus 
+1613 333 1693 362 Labroides_dimidiatus 
+1237 271 1296 329 Chromis_viridis 
+1345 253 1435 301 Chromis_viridis 
+1481 269 1590 338 Chromis_viridis 
+1511 137 1592 206 Chromis_viridis 
+1681 178 1763 237 Chromis_viridis 
+1590 259 1667 304 Chromis_viridis 
+1617 277 1703 324 Chromis_viridis 
+1558 313 1620 362 Chromis_viridis 
+1695 234 1778 297 Chromis_viridis 
+1433 278 1507 329 Chromis_viridis 
+1330 289 1372 337 Chromis_viridis 
+452 483 542 533 Zebrasoma_scopas 

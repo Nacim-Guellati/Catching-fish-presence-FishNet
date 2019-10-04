@@ -1,0 +1,11 @@
+1029 457 1186 528 Pomacentrus_sulfureus 
+1734 460 1836 513 Pomacentrus_sulfureus 
+1195 293 1299 351 Chromis_viridis 
+1324 301 1434 358 Chromis_viridis 
+1436 277 1558 354 Chromis_viridis 
+1675 160 1755 217 Chromis_viridis 
+1326 376 1411 415 Chromis_viridis 
+1296 406 1394 450 Chromis_viridis 
+1194 355 1277 403 Chromis_viridis 
+1295 350 1363 398 Chromis_viridis 
+1293 448 1399 499 Chromis_ternatensis 

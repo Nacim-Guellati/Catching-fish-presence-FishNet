@@ -1,0 +1,6 @@
+200 483 276 537 Pomacentrus_sulfureus 
+773 357 895 417 Hemigymnus_fasciatus 
+718 513 880 589 Ctenochaetus_striatus 
+901 394 1008 438 Ctenochaetus_striatus 
+943 351 1031 404 Chromis_viridis 
+1180 356 1273 413 Chromis_viridis 

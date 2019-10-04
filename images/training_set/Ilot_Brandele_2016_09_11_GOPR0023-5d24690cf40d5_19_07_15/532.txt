@@ -1,0 +1,9 @@
+3 394 114 468 Labroides_dimidiatus 
+93 385 176 439 Pomacentrus_sulfureus 
+298 749 482 936 Plectroglyphidodon_dickii 
+0 265 109 419 Chromis_viridis 
+187 241 349 322 Chromis_viridis 
+251 373 387 440 Chromis_viridis 
+473 162 562 225 Chromis_viridis 
+836 112 925 175 Chromis_viridis 
+97 324 191 401 Chromis_viridis 

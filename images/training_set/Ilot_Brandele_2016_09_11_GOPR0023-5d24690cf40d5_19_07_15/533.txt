@@ -1,0 +1,6 @@
+86 398 161 450 Pomacentrus_sulfureus 
+334 690 552 839 Plectroglyphidodon_dickii 
+1 256 112 358 Chromis_viridis 
+372 134 429 195 Chromis_viridis 
+869 68 972 120 Chromis_viridis 
+980 0 1067 35 Chromis_viridis 
