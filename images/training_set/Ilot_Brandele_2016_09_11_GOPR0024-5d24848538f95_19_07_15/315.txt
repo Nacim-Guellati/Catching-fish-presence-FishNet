@@ -1,0 +1,8 @@
+1234 175 1425 306 Abudefduf_sexfasciatus 
+227 389 356 477 Pomacentrus_sulfureus 
+981 699 1174 833 Ctenochaetus_striatus 
+939 483 1043 598 Chromis_viridis 
+1199 596 1432 664 Gomphosus_caeruleus_male 
+640 696 839 781 Gomphosus_caeruleus_female 
+652 231 805 342 Amanses_scopas 
+1224 505 1366 586 Thalassoma 

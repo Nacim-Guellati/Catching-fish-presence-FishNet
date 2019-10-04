@@ -1,0 +1,5 @@
+1254 259 1382 337 Pomacentrus_sulfureus 
+984 419 1033 495 Chromis_viridis 
+1337 570 1911 1074 Chromis_viridis 
+1290 446 1395 504 Chromis_viridis 
+405 298 458 333 Acanthurus 

@@ -1,0 +1,6 @@
+1151 942 1286 1047 Abudefduf_sexfasciatus 
+1512 117 1691 219 Abudefduf_sexfasciatus 
+72 624 142 704 Pomacentrus_sulfureus 
+926 749 1140 870 Ctenochaetus_striatus 
+493 448 605 495 Chromis_viridis 
+279 289 401 370 Amanses_scopas 

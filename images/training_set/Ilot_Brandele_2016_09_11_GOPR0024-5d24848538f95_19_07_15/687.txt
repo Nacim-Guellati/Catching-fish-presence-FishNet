@@ -1,0 +1,12 @@
+1580 541 1629 585 Pomacentrus_sulfureus 
+1294 263 1379 349 Ctenochaetus_striatus 
+1046 186 1113 247 Chromis_viridis 
+974 274 1028 311 Chromis_viridis 
+1199 127 1250 160 Chromis_viridis 
+1238 127 1306 176 Chromis_viridis 
+1284 51 1358 102 Chromis_viridis 
+781 15 846 63 Chromis_viridis 
+774 238 828 284 Chromis_viridis 
+683 226 724 258 Chromis_viridis 
+372 182 431 219 Chromis_viridis 
+3 433 59 485 Acanthurus 
