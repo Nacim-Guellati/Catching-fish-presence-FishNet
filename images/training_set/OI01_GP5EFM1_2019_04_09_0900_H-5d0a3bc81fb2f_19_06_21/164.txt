@@ -1,0 +1,8 @@
+59 188 113 275 Chromis_dimidiata 
+709 209 770 256 Chromis_dimidiata 
+836 236 879 281 Chromis_dimidiata 
+845 355 883 393 Chromis_dimidiata 
+462 697 550 756 Chromis_dimidiata 
+1228 488 1268 515 Chromis_dimidiata 
+1705 403 1741 433 Chromis_dimidiata 
+1488 356 1586 421 Scarus_frenatus_male 

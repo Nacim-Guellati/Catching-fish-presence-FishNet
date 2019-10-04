@@ -1,0 +1,6 @@
+723 983 796 1048 Chromis_dimidiata 
+1066 879 1133 927 Chromis_dimidiata 
+964 612 1029 657 Chromis_dimidiata 
+565 658 631 697 Chromis_dimidiata 
+814 736 948 803 Halichoeres_hortulanus_transitional 
+1465 861 1675 988 Ctenochaetus_striatus 

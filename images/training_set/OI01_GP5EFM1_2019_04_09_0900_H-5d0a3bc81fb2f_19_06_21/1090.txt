@@ -1,0 +1,9 @@
+1039 508 1076 554 Chromis_dimidiata 
+4 882 49 961 Chromis_dimidiata 
+763 982 859 1031 Chromis_dimidiata 
+999 997 1166 1053 Chromis_dimidiata 
+1221 881 1311 928 Chromis_dimidiata 
+1748 346 1864 426 Chromis_dimidiata 
+474 274 600 349 Acanthurus_lineatus 
+1058 757 1186 823 Halichoeres_hortulanus_transitional 
+1379 821 1514 938 Ctenochaetus_striatus 

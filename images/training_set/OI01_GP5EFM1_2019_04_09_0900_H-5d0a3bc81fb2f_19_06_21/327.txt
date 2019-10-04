@@ -1,0 +1,9 @@
+1073 481 1118 522 Chromis_dimidiata 
+1023 338 1076 377 Chromis_dimidiata 
+929 600 1050 692 Chromis_dimidiata 
+16 170 157 286 Chromis_dimidiata 
+1557 7 1613 84 Chromis_dimidiata 
+537 813 604 877 Chromis_dimidiata 
+547 672 599 706 Chromis_dimidiata 
+1201 334 1381 444 Scarus_frenatus_male 
+507 308 555 371 Acanthurus_lineatus 
