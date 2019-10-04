@@ -1,0 +1,3 @@
+1703 0 1891 300 Amphiprion 
+549 419 644 468 Pomacentrus_sulfureus 
+214 14 346 111 Chromis_viridis 

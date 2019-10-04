@@ -1,0 +1,5 @@
+1563 447 1635 503 Pomacentrus_sulfureus 
+1338 413 1364 431 Pomacentrus_sulfureus 
+776 367 842 399 Amphiprion 
+717 786 764 863 Amphiprion 
+1453 265 1527 308 Zebrasoma_scopas 

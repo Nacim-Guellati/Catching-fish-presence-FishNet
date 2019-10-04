@@ -1,0 +1,5 @@
+1767 377 1915 454 Amphiprion_latifasciatus 
+1330 401 1491 492 Amphiprion_latifasciatus 
+1007 271 1047 306 Zebrasoma_scopas 
+348 323 398 368 Ctenochaetus_striatus 
+18 452 121 514 Chromis_viridis 

@@ -1,0 +1,3 @@
+1568 481 1627 518 Pomacentrus_sulfureus 
+650 834 767 884 Amphiprion 
+1216 511 1264 556 Chromis_viridis 

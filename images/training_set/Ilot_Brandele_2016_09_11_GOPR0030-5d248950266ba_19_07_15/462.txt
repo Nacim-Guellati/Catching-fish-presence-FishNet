@@ -1,0 +1,4 @@
+698 839 811 889 Amphiprion 
+878 670 954 790 Amphiprion 
+1154 531 1264 585 Gomphosus_caeruleus_female 
+1119 271 1159 303 Acanthurus 

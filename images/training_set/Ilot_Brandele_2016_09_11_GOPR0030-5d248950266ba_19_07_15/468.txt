@@ -1,0 +1,5 @@
+1619 438 1689 485 Pomacentrus_sulfureus 
+1483 460 1534 492 Pomacentrus_sulfureus 
+650 823 778 878 Amphiprion 
+1070 445 1180 501 Chromis_viridis 
+1467 533 1572 586 Gomphosus_caeruleus_female 
