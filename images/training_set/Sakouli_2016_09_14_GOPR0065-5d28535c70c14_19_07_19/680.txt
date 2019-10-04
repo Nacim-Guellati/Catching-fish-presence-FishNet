@@ -1,0 +1,9 @@
+457 316 501 370 Chromis_dimidiata 
+1024 216 1064 249 Chromis_dimidiata 
+1342 207 1374 251 Chromis_dimidiata 
+1040 324 1088 379 Pomacentrus_sulfureus 
+1178 201 1232 232 Pomacentrus_sulfureus 
+137 550 270 628 Plectroglyphidodon_dickii 
+1318 201 1449 304 Ctenochaetus_striatus 
+0 111 168 234 Ctenochaetus_striatus 
+1677 358 1755 413 Chaetodon_trifasciatus 

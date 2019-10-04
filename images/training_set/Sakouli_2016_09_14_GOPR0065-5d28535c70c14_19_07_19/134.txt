@@ -1,0 +1,17 @@
+372 631 495 689 Chromis_dimidiata 
+878 719 981 770 Chromis_dimidiata 
+969 253 1007 290 Chromis_dimidiata 
+89 805 254 874 Gomphosus_caeruleus_female 
+1061 289 1179 406 Ctenochaetus_striatus 
+893 371 974 529 Ctenochaetus_striatus 
+672 151 737 185 Ctenochaetus_striatus 
+1157 437 1211 539 Ctenochaetus_striatus 
+1125 206 1179 245 Pomacentrus_sulfureus 
+239 104 396 205 Arothron 
+768 661 827 706 Chromis_dimidiata 
+1511 397 1566 436 Chromis_dimidiata 
+93 586 192 671 Plectroglyphidodon_dickii 
+818 329 864 365 Pomacentrus_sulfureus 
+783 236 858 286 Ctenochaetus_striatus 
+551 130 602 161 Chromis_ternatensis 
+92 32 177 68 Gomphosus_caeruleus_female 

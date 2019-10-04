@@ -1,0 +1,13 @@
+765 587 845 635 Chromis_dimidiata 
+603 691 714 775 Chromis_dimidiata 
+995 782 1103 857 Chromis_dimidiata 
+938 401 1086 475 Ctenochaetus_striatus 
+1094 196 1155 268 Ctenochaetus_striatus 
+1280 505 1379 601 Ctenochaetus_striatus 
+980 289 1026 344 Pomacentrus_sulfureus 
+278 131 456 235 Arothron 
+1559 433 1619 466 Chromis_dimidiata 
+159 605 237 673 Plectroglyphidodon_dickii 
+744 196 819 242 Ctenochaetus_striatus 
+554 124 611 155 Chromis_ternatensis 
+758 137 810 169 Chromis_ternatensis 

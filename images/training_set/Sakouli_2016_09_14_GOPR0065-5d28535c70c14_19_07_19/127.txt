@@ -1,0 +1,14 @@
+42 82 153 217 Zebrasoma_rostratum 
+480 491 572 554 Chromis_dimidiata 
+746 677 849 728 Chromis_dimidiata 
+386 616 504 674 Chromis_dimidiata 
+975 377 1143 464 Ctenochaetus_striatus 
+1221 449 1325 532 Ctenochaetus_striatus 
+1098 191 1167 245 Pomacentrus_sulfureus 
+903 347 1002 398 Pomacentrus_sulfureus 
+350 121 528 229 Arothron 
+1430 485 1484 529 Chromis_dimidiata 
+554 119 614 161 Chromis_ternatensis 
+776 40 825 68 Chromis_ternatensis 
+807 76 851 110 Chromis_ternatensis 
+882 40 929 80 Chromis_ternatensis 

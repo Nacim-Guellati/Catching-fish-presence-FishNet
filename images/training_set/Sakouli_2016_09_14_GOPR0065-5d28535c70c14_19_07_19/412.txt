@@ -1,0 +1,15 @@
+459 131 714 292 Chromis_ternatensis 
+1352 655 1484 751 Chaetodon_guttatissimus 
+1383 763 1512 886 Chaetodon_guttatissimus 
+441 350 623 488 Ctenochaetus_striatus 
+845 362 1044 472 Ctenochaetus_striatus 
+1059 551 1280 694 Ctenochaetus_striatus 
+1640 818 1902 956 Ctenochaetus_striatus 
+62 316 219 469 Ctenochaetus_striatus 
+932 185 980 218 Chromis_dimidiata 
+1344 332 1398 374 Chromis_dimidiata 
+131 85 182 124 Chromis_dimidiata 
+818 197 878 256 Pomacentrus_sulfureus 
+1095 157 1160 209 Pomacentrus_sulfureus 
+414 110 596 205 Arothron 
+335 614 420 667 Chromis_dimidiata 
