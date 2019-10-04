@@ -1,0 +1,5 @@
+708 230 802 282 Acanthurus_lineatus 
+1156 293 1217 336 Acanthurus_lineatus 
+224 310 294 365 Acanthurus_lineatus 
+1270 875 1420 1005 Chaetodon_striatus 
+1670 829 1868 924 Chromis_dimidiata 

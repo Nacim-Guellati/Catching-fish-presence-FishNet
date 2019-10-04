@@ -1,0 +1,4 @@
+678 238 777 284 Acanthurus_lineatus 
+1138 311 1184 354 Acanthurus_lineatus 
+1257 904 1376 1040 Chaetodon_striatus 
+1764 857 1911 975 Chromis_dimidiata 

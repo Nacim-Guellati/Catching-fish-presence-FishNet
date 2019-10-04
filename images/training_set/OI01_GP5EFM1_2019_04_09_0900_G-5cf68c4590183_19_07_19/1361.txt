@@ -1,0 +1,3 @@
+1010 360 1103 403 Chromis_dimidiata 
+1104 363 1153 418 Chromis_dimidiata 
+1682 203 1760 254 Chromis_dimidiata 

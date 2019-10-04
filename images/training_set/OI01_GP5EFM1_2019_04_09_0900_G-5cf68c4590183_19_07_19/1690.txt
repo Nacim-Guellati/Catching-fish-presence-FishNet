@@ -1,0 +1,4 @@
+857 228 918 282 Acanthurus_lineatus 
+1362 258 1471 319 Acanthurus_lineatus 
+352 354 455 394 Acanthurus_lineatus 
+1478 847 1756 1042 Chaetodon_striatus 

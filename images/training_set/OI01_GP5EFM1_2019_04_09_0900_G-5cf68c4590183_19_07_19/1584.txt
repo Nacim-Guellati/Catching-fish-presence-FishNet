@@ -1,0 +1,4 @@
+990 819 1203 972 Ctenochaetus_striatus 
+1197 810 1448 1054 Acanthurus_lineatus 
+1671 284 1827 347 Plectropomus_punctatus 
+934 426 1589 722 Caranx_melampygus 

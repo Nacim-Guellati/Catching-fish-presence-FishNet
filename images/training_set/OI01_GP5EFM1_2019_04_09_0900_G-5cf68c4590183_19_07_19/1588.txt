@@ -1,0 +1,4 @@
+507 819 708 1055 Ctenochaetus_striatus 
+1545 560 1765 655 Ctenochaetus_striatus 
+1093 473 1224 531 Acanthurus_lineatus 
+1369 317 1487 363 Plectropomus_punctatus 
