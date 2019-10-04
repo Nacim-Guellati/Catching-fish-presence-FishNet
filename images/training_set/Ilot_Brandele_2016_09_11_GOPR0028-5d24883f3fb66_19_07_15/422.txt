@@ -1,0 +1,4 @@
+1110 334 1223 466 Arothron_nigropunctatus 
+1555 203 1676 269 Pomacentrus_sulfureus 
+810 18 880 52 Hemigymnus_fasciatus 
+1322 346 1435 436 Ctenochaetus_striatus 

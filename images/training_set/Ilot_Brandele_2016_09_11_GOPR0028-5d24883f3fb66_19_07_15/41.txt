@@ -1,0 +1,3 @@
+1150 372 1373 449 Gomphosus_caeruleus_male 
+1173 44 1232 87 Pomacentrus_sulfureus 
+1065 362 1242 462 Arothron_nigropunctatus 

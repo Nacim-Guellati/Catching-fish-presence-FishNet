@@ -1,0 +1,3 @@
+1337 79 1400 119 Pomacentrus_sulfureus 
+995 304 1091 378 Pomacentrus_sulfureus 
+943 41 1002 83 Chaetodon_trifascialis 

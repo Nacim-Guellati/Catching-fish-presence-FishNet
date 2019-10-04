@@ -1,0 +1,4 @@
+576 231 752 321 Ctenochaetus_striatus 
+1042 334 1181 419 Arothron_nigropunctatus 
+1196 59 1233 94 Epinephelus_fasciatus 
+1510 122 1592 182 Ctenochaetus_striatus 

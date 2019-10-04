@@ -1,0 +1,4 @@
+597 178 785 287 Pomacentrus_sulfureus 
+1143 81 1196 109 Pomacentrus_sulfureus 
+1235 49 1307 106 Chaetodon_trifascialis 
+1186 101 1250 148 Chaetodon_trifascialis 

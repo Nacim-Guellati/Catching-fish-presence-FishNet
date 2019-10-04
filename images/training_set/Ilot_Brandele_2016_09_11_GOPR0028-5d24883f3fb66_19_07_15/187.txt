@@ -1,0 +1,4 @@
+921 233 972 309 Pomacentrus_sulfureus 
+1270 88 1327 124 Pomacentrus_sulfureus 
+1055 39 1123 96 Chaetodon_trifascialis 
+1812 28 1868 64 Ctenochaetus_striatus 

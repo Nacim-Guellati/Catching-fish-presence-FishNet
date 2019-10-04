@@ -1,0 +1,4 @@
+1048 323 1218 407 Pomacentrus_sulfureus 
+1386 77 1431 113 Pomacentrus_sulfureus 
+695 0 787 182 Halichoeres_hortulanus 
+875 37 955 83 Chaetodon_trifascialis 
