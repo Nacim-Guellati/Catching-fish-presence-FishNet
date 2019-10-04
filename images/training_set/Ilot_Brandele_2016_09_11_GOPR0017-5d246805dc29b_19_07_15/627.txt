@@ -1,0 +1,6 @@
+947 882 1169 967 Gnathodentex_aureolineatus 
+1299 860 1540 946 Gnathodentex_aureolineatus 
+838 916 1006 994 Gnathodentex_aureolineatus 
+61 709 147 833 Chaetodon_trifasciatus 
+1057 905 1248 1006 Ctenochaetus_striatus 
+785 957 971 1072 Ctenochaetus_striatus 
