@@ -1,0 +1,10 @@
+1117 199 1220 359 Amanses_scopas 
+935 51 1061 122 Gomphosus_caeruleus_male 
+1550 973 1695 1046 Thalassoma_hardwicke 
+668 0 721 34 Pomacentrus_sulfureus 
+1807 571 1915 697 Pomacentrus_sulfureus 
+1341 73 1453 131 Gomphosus_caeruleus_female 
+1298 24 1343 121 Amanses_scopas 
+1098 0 1162 85 Amanses_scopas 
+360 66 417 193 Ctenochaetus 
+975 149 1106 223 Ctenochaetus_striatus 

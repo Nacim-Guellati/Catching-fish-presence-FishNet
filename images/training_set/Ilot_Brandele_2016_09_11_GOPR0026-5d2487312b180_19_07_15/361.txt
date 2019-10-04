@@ -1,0 +1,5 @@
+1654 481 1770 692 Pomacentrus_sulfureus 
+1134 138 1220 270 Gomphosus_caeruleus_male 
+1041 215 1102 313 Gomphosus_caeruleus_female 
+749 544 939 804 Amanses_scopas 
+1100 94 1149 136 Thalassoma_hardwicke 

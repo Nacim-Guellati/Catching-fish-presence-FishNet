@@ -1,0 +1,5 @@
+1768 392 1917 497 Pomacentrus_sulfureus 
+3 134 342 283 Hologymnosus_annulatus 
+252 312 472 422 Hologymnosus_annulatus 
+108 369 195 516 Chaetodon_meyeri 
+1035 82 1068 123 Pomacentrus_caeruleus 

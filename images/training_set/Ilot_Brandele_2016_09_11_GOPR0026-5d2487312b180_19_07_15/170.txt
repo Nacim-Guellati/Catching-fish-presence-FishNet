@@ -1,0 +1,4 @@
+620 466 815 569 Pomacentrus_sulfureus 
+1107 0 1185 68 Chaetodon_auriga 
+789 1 860 28 Pomacentrus_sulfureus 
+102 361 472 507 Gomphosus_caeruleus_female 

@@ -1,0 +1,5 @@
+1542 451 1740 603 Pomacentrus_sulfureus 
+1059 122 1157 183 Gomphosus_caeruleus_female 
+781 432 934 714 Amanses_scopas 
+1478 6 1581 65 Ctenochaetus_striatus 
+1034 0 1127 50 Ctenochaetus_striatus 

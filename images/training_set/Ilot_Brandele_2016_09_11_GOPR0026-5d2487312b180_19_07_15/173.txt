@@ -1,0 +1,5 @@
+577 391 662 504 Pomacentrus_sulfureus 
+1116 0 1183 71 Chaetodon_auriga 
+930 0 968 36 Pomacentrus_sulfureus 
+1479 419 1770 511 Gomphosus_caeruleus_female 
+526 26 743 101 Thalassoma_hardwicke 

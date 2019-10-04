@@ -1,0 +1,4 @@
+1717 552 1868 758 Pomacentrus_sulfureus 
+730 36 881 113 Gomphosus_caeruleus_male 
+1183 556 1330 741 Amanses_scopas 
+1303 70 1385 104 Gomphosus_caeruleus_female 

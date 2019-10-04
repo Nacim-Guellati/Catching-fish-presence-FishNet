@@ -1,0 +1,5 @@
+1833 382 1916 487 Pomacentrus_sulfureus 
+276 316 482 437 Hologymnosus_annulatus 
+316 26 455 177 Ctenochaetus_striatus 
+21 413 131 551 Chaetodon_meyeri 
+843 3 903 44 Pomacentrus_sulfureus 

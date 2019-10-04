@@ -1,0 +1,3 @@
+1586 533 1823 692 Pomacentrus_sulfureus 
+849 475 1182 761 Amanses_scopas 
+1402 28 1455 95 Ctenochaetus_striatus 
