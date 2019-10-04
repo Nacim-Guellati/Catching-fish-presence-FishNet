@@ -1,0 +1,6 @@
+929 45 996 94 Amblyglyphidodon_indicus 
+12 642 188 719 Ctenochaetus_striatus 
+610 391 655 421 Chromis_dimidiata 
+1149 433 1199 466 Pomacentrus_sulfureus 
+436 738 651 834 Lethrinus 
+932 690 1089 753 Chlorurus_sordidus 

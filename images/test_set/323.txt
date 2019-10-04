@@ -1,0 +1,13 @@
+818 707 1055 818 Scolopsis_frenata 
+1074 877 1251 977 Scolopsis_frenata 
+1565 715 1763 827 Scolopsis_frenata 
+164 656 300 734 Scolopsis_frenata 
+209 491 333 536 Scolopsis_frenata 
+522 370 584 420 Zebrasoma 
+426 859 525 961 Siganus_corallinus 
+45 628 122 676 Siganus_corallinus 
+513 352 567 384 Ctenochaetus_striatus 
+762 678 824 757 Myripristis 
+741 555 765 583 Chromis_dimidiata 
+593 499 639 529 Siganus 
+1614 99 1668 156 Pomacentrus_sulfureus 

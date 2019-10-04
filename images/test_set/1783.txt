@@ -1,0 +1,11 @@
+512 293 654 416 Pomacentrus_caeruleus 
+153 511 272 589 Pomacentrus_caeruleus 
+552 554 615 607 Pomacentrus_caeruleus 
+1037 614 1106 673 Pomacentrus_caeruleus 
+1173 553 1262 619 Pomacentrus_caeruleus 
+209 748 291 812 Pomacentrus_caeruleus 
+681 995 791 1052 Pomacentrus_caeruleus 
+1472 257 1536 407 Pomacentrus_caeruleus 
+1242 916 1412 1055 Pomacentrus_sulfureus 
+1328 733 1386 790 Pomacentrus_sulfureus 
+372 911 501 961 Labroides_dimidiatus 

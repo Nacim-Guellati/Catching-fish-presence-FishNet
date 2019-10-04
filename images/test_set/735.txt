@@ -1,0 +1,6 @@
+472 862 623 1066 Zebrasoma_scopas 
+1205 895 1264 1003 Zebrasoma_scopas 
+335 901 437 1002 Ctenochaetus_striatus 
+870 619 900 645 Chromis_dimidiata 
+979 718 1003 745 Chromis_dimidiata 
+1167 629 1214 658 Pomacentrus_sulfureus 

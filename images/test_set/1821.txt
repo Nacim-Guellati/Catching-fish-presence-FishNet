@@ -1,0 +1,4 @@
+684 601 722 633 Chromis_dimidiata 
+200 520 236 547 Chromis_dimidiata 
+1184 522 1224 553 Chromis_dimidiata 
+822 520 875 553 Pomacentrus_sulfureus 

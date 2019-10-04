@@ -1,0 +1,4 @@
+939 577 1022 647 Ctenochaetus_striatus 
+1272 376 1382 472 Ctenochaetus_striatus 
+1487 232 1656 326 Ctenochaetus_striatus 
+693 709 962 850 Acanthurus_leucosternon 

@@ -1,0 +1,7 @@
+994 70 1055 118 Amblyglyphidodon_indicus 
+946 388 975 411 Chromis_dimidiata 
+497 406 537 434 Chromis_dimidiata 
+1116 535 1160 565 Pomacentrus_sulfureus 
+1225 465 1265 503 Pomacentrus_sulfureus 
+449 730 645 839 Lethrinus 
+1137 682 1274 751 Chlorurus_sordidus 

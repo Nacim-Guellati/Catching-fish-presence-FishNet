@@ -1,0 +1,5 @@
+1048 854 1206 986 Zebrasoma_scopas 
+228 854 357 941 Ctenochaetus_striatus 
+1091 410 1147 461 Amblyglyphidodon_indicus 
+975 708 1012 739 Chromis_dimidiata 
+484 878 617 1069 Zebrasoma_scopas 

@@ -1,0 +1,9 @@
+1125 859 1430 974 Pomacentrus_caeruleus 
+318 332 515 433 Pomacentrus_caeruleus 
+248 182 387 301 Pomacentrus_caeruleus 
+3 503 377 755 Pomacentrus_caeruleus 
+296 814 419 877 Pomacentrus_caeruleus 
+0 848 93 907 Pomacentrus_caeruleus 
+1359 1016 1449 1055 Pomacentrus_caeruleus 
+1020 808 1085 844 Pomacentrus_sulfureus 
+918 917 1020 997 Plectroglyphidodon_lacrymatus 

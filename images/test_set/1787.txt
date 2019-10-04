@@ -1,0 +1,7 @@
+752 145 872 206 Pomacentrus_caeruleus 
+371 445 500 508 Pomacentrus_caeruleus 
+602 691 705 751 Pomacentrus_caeruleus 
+513 869 585 937 Pomacentrus_caeruleus 
+1149 692 1275 760 Pomacentrus_caeruleus 
+66 866 231 934 Pomacentrus_caeruleus 
+1232 827 1293 923 Pomacentrus_sulfureus 

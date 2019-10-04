@@ -1,0 +1,9 @@
+152 900 326 976 Ctenochaetus_striatus 
+447 882 558 980 Ctenochaetus_striatus 
+370 542 537 613 Tetraodontidae 
+320 324 467 399 Tetraodontidae 
+1064 759 1236 827 Scaridae 
+803 860 898 947 Scaridae 
+613 619 643 652 Chromis_dimidiata 
+264 110 358 170 Amblyglyphidodon_indicus 
+482 651 527 688 Pomacentrus_sulfureus 

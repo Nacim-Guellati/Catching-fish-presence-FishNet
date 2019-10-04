@@ -1,0 +1,5 @@
+905 604 983 670 Ctenochaetus_striatus 
+1236 353 1298 430 Ctenochaetus_striatus 
+146 641 284 695 Thalassoma_hardwicke 
+1232 556 1413 725 Acanthurus_leucosternon 
+1470 581 1595 668 Pomacentrus_sulfureus 

@@ -1,0 +1,4 @@
+906 628 1002 722 Ctenochaetus_striatus 
+1193 433 1278 485 Ctenochaetus_striatus 
+1086 661 1304 806 Acanthurus_leucosternon 
+1701 571 1800 658 Pomacentrus_sulfureus 

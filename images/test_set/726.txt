@@ -1,0 +1,4 @@
+505 797 685 925 Zebrasoma_scopas 
+327 871 496 1017 Zebrasoma_scopas 
+1333 604 1404 652 Amblyglyphidodon_indicus 
+887 716 921 754 Pomacentrus_sulfureus 

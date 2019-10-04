@@ -1,0 +1,7 @@
+774 549 804 586 Chromis_dimidiata 
+665 619 708 655 Chromis_dimidiata 
+407 408 447 441 Chromis_dimidiata 
+1076 199 1143 261 Chromis_ternatensis 
+803 522 860 552 Pomacentrus_sulfureus 
+1040 622 1086 660 Pomacentrus_sulfureus 
+1254 658 1296 697 Pomacentrus_sulfureus 

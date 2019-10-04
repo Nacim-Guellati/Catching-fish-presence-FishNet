@@ -1,0 +1,7 @@
+797 576 831 607 Chromis_dimidiata 
+629 634 672 669 Chromis_dimidiata 
+450 402 488 430 Chromis_dimidiata 
+1098 204 1169 252 Chromis_ternatensis 
+764 520 822 555 Pomacentrus_sulfureus 
+1263 666 1320 702 Pomacentrus_sulfureus 
+89 556 333 703 Lutjanidae 
