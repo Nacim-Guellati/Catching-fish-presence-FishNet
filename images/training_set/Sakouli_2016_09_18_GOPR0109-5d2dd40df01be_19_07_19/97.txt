@@ -1,0 +1,4 @@
+1127 182 1269 229 Thalassoma_hardwicke 
+578 140 737 193 Thalassoma_hardwicke 
+48 274 104 368 Pomacentrus_sulfureus 
+480 341 566 412 Pomacentrus_sulfureus 

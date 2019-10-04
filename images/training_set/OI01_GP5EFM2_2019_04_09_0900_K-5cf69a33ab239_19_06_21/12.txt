@@ -1,0 +1,8 @@
+1475 797 1858 943 Acanthurus_lineatus 
+263 527 305 563 Chromis_dimidiata 
+374 789 490 864 Chromis_dimidiata 
+89 864 165 958 Chromis_dimidiata 
+904 464 931 487 Chromis_dimidiata 
+1725 368 1780 398 Chromis_dimidiata 
+949 378 981 412 Chromis_dimidiata 
+679 626 720 659 Nemateleotris_magnifica 

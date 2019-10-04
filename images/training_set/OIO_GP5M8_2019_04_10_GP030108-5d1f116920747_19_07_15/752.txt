@@ -1,0 +1,11 @@
+667 709 861 876 Chaetodon_guttatissimus 
+779 856 941 1077 Chaetodon_guttatissimus 
+666 271 731 351 Ctenochaetus_striatus 
+513 178 569 232 Ctenochaetus_striatus 
+1281 278 1330 345 Ctenochaetus_striatus 
+633 193 665 216 Chromis_dimidiata 
+918 278 950 303 Chromis_dimidiata 
+1298 495 1361 536 Chromis_dimidiata 
+426 42 505 66 Labridae 
+61 20 140 63 Labridae 
+1414 232 1479 268 Labridae 

@@ -1,0 +1,12 @@
+968 601 1026 629 Nemateleotris_magnifica 
+381 16 517 69 Thalassoma_amblycephalum_juv 
+158 3 286 43 Thalassoma_amblycephalum_juv 
+766 389 809 423 Chromis_dimidiata 
+399 209 522 256 Chromis_ternatensis 
+458 399 528 442 Chromis_ternatensis 
+911 179 947 206 Chromis_ternatensis 
+1612 214 1657 246 Chromis_ternatensis 
+1022 484 1057 516 Chromis_ternatensis 
+481 804 549 854 Labridae 
+1069 627 1173 677 Ctenochaetus_striatus 
+598 721 874 889 Halichoeres_hortulanus 

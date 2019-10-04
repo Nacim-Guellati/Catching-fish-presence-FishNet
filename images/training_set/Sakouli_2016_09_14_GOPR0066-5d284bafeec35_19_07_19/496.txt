@@ -1,0 +1,5 @@
+282 56 325 83 Pomacentrus_sulfureus 
+0 118 57 209 Pomacentrus_sulfureus 
+608 563 688 611 Pomacentrus_sulfureus 
+615 284 697 344 Chaetodon_kleinii 
+421 33 472 67 Ctenochaetus_striatus 

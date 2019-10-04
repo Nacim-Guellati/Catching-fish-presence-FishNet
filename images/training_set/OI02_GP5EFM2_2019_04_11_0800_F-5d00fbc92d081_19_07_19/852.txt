@@ -1,0 +1,14 @@
+231 477 425 578 Chromis_dimidiata 
+1022 587 1123 646 Chromis_dimidiata 
+913 223 1040 294 Chromis_dimidiata 
+733 132 759 163 Chromis_dimidiata 
+985 44 1030 77 Chromis_dimidiata 
+862 36 900 60 Chromis_dimidiata 
+597 74 633 108 Chromis_dimidiata 
+1217 98 1256 132 Chromis_dimidiata 
+1166 132 1199 157 Chromis_dimidiata 
+1599 112 1639 154 Chromis_dimidiata 
+1383 314 1434 357 Gomphosus_caeruleus_male 
+1692 422 1838 497 Ctenochaetus_truncatus 
+961 462 1076 528 Ctenochaetus_truncatus 
+1378 6 1525 80 Chromis_ternatensis 

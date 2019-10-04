@@ -1,0 +1,10 @@
+168 831 263 934 Chromis_dimidiata 
+1005 620 1121 703 Chromis_dimidiata 
+1544 542 1713 614 Pseudanthias_squamipinnis_female 
+1190 425 1325 528 Pseudanthias_squamipinnis_female 
+598 957 754 1033 Gomphosus_caeruleus_male 
+1690 620 1850 699 Pseudanthias_bicolor 
+1423 464 1576 519 Pseudanthias_squamipinnis_male 
+455 824 520 859 Paracirrhites_forsteri 
+1360 718 1426 777 Ptereleotris_evides 
+1497 716 1565 780 Ptereleotris_evides 

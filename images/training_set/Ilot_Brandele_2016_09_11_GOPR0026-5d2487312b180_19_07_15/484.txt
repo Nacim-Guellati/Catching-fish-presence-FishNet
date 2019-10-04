@@ -1,0 +1,7 @@
+488 609 748 746 Gomphosus_caeruleus_female 
+1306 913 1456 996 Thalassoma_hardwicke 
+951 236 1073 349 Thalassoma_hardwicke 
+162 81 245 192 Chaetodon_trifasciatus 
+298 127 418 252 Chaetodon_trifasciatus 
+1537 38 1606 88 Pomacentrus_sulfureus 
+965 6 1022 53 Ctenochaetus_striatus 

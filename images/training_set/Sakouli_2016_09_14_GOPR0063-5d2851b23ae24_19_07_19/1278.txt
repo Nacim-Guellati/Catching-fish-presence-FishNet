@@ -1,0 +1,6 @@
+688 50 805 149 Pomacentrus_sulfureus 
+72 138 176 223 Pomacentrus_sulfureus 
+56 314 301 457 Pomacentrus_sulfureus 
+20 457 100 509 Pomacentrus_sulfureus 
+565 506 779 626 Ctenochaetus_striatus 
+1718 243 1834 307 Amblyglyphidodon_indicus 

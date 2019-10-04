@@ -1,0 +1,13 @@
+926 413 988 463 Chromis_ternatensis 
+1368 369 1428 391 Chromis_ternatensis 
+1349 383 1407 409 Chromis_ternatensis 
+1346 156 1388 181 Chromis_ternatensis 
+1203 281 1243 318 Chromis_ternatensis 
+549 168 593 202 Chromis_ternatensis 
+903 611 954 647 Nemateleotris_magnifica 
+793 454 846 483 Chromis_dimidiata 
+348 676 376 699 Chromis_dimidiata 
+928 657 999 702 Balistapus_undulatus 
+607 217 642 251 Chromis_ternatensis 
+489 806 549 851 Labridae 
+1752 718 1912 823 Halichoeres_hortulanus 

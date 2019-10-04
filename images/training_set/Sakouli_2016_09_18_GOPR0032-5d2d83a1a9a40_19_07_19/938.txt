@@ -1,0 +1,7 @@
+536 176 579 212 Pomacentrus_sulfureus 
+1135 556 1344 745 Pomacentrus_sulfureus 
+1173 44 1203 77 Pomacentrus_sulfureus 
+700 233 748 285 Chaetodon_trifasciatus 
+1016 247 1052 304 Chaetodon_trifasciatus 
+1052 190 1147 237 Ctenochaetus_striatus 
+1037 167 1085 201 Ctenochaetus_striatus 

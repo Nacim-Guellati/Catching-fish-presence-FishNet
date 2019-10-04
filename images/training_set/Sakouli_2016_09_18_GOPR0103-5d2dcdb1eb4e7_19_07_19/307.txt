@@ -1,0 +1,6 @@
+1141 225 1241 413 Pygoplites_diacanthus 
+1008 651 1080 722 Pomacentrus_sulfureus 
+1310 298 1383 340 Pomacentrus_sulfureus 
+1490 733 1621 797 Pomacentrus_sulfureus 
+1353 684 1410 716 Pomacentrus_sulfureus 
+1814 859 1912 899 Pomacentrus_sulfureus 

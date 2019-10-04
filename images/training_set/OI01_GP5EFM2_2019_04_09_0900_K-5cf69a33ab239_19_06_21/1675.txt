@@ -1,0 +1,9 @@
+992 99 1038 134 Chromis_ternatensis 
+394 274 468 306 Chromis_ternatensis 
+1599 131 1684 171 Chromis_ternatensis 
+1446 247 1516 281 Chromis_ternatensis 
+612 239 673 289 Chromis_ternatensis 
+833 413 864 452 Chromis_dimidiata 
+306 821 384 852 unknown_fish 
+827 822 874 867 unknown_fish 
+799 23 928 108 Scarus 

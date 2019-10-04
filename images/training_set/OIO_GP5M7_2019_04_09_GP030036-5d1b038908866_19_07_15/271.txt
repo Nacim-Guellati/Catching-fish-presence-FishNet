@@ -1,0 +1,7 @@
+1652 96 1915 281 Ctenochaetus_striatus 
+322 186 488 297 Chromis_dimidiata 
+626 216 677 273 Chromis_dimidiata 
+748 424 784 457 Chromis_dimidiata 
+1035 509 1082 543 Chromis_dimidiata 
+540 622 584 660 Chromis_dimidiata 
+821 234 853 261 Chromis_dimidiata 

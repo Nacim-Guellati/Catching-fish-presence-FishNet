@@ -1,0 +1,5 @@
+1816 737 1916 860 Zanclus_cornutus 
+1475 859 1560 922 Abudefduf_vaigiensis 
+697 543 887 650 Ctenochaetus_striatus 
+867 710 975 810 Zebrasoma_scopas 
+1144 849 1245 947 Pygoplites_diacanthus 

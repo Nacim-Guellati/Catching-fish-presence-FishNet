@@ -1,0 +1,4 @@
+1646 239 1700 281 Zebrasoma_rostratum 
+1586 172 1647 212 Zebrasoma_rostratum 
+1667 166 1724 232 Zebrasoma_rostratum 
+1502 328 1574 359 Labridae 

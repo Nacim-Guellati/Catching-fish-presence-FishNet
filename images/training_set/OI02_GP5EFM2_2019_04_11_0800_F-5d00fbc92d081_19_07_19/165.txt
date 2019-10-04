@@ -1,0 +1,4 @@
+1059 107 1226 218 Hemigymnus_fasciatus 
+1514 29 1627 99 Chromis_dimidiata 
+687 52 714 73 Chromis_dimidiata 
+1267 138 1299 161 Chromis_dimidiata 

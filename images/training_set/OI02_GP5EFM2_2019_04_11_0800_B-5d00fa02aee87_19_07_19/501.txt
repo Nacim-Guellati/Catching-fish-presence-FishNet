@@ -1,0 +1,8 @@
+941 460 1029 541 Chromis_dimidiata 
+1100 750 1241 836 Chromis_dimidiata 
+1225 955 1515 1073 Chromis_dimidiata 
+239 157 290 187 Chromis_dimidiata 
+507 83 541 119 Chromis_dimidiata 
+442 71 481 98 Chromis_dimidiata 
+1483 337 1554 386 Chromis_dimidiata 
+819 233 890 303 Naso_elegans 

@@ -1,0 +1,4 @@
+1419 259 1531 317 Acanthurus_lineatus 
+874 232 925 280 Acanthurus_lineatus 
+374 350 484 392 Acanthurus_lineatus 
+1512 833 1790 1045 Chaetodon_striatus 

@@ -1,0 +1,10 @@
+728 217 842 326 Zanclus_cornutus 
+534 782 942 1033 Pygoplites_diacanthus 
+885 643 969 683 Pomacentrus_sulfureus 
+1541 479 1670 559 Pomacentrus_sulfureus 
+1557 175 1628 289 Pomacentrus_sulfureus 
+351 583 494 679 Macolor_niger_juv 
+536 196 587 221 Pomacentrus_sulfureus 
+461 214 507 254 Pomacentrus_sulfureus 
+563 226 602 251 Pomacentrus_sulfureus 
+824 722 876 757 Labroides 

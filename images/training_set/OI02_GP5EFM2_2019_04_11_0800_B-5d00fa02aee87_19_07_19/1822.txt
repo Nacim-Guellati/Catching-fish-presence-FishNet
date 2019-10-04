@@ -1,0 +1,16 @@
+757 609 856 690 Chromis_ternatensis 
+28 664 169 763 Chromis_ternatensis 
+6 863 257 1047 Pseudanthias_squamipinnis_female 
+163 887 321 992 Pseudanthias_squamipinnis_female 
+918 103 950 131 Chromis_dimidiata 
+927 255 957 289 Chromis_dimidiata 
+796 253 828 284 Chromis_dimidiata 
+1453 125 1490 170 Chromis_dimidiata 
+1640 163 1707 219 Chromis_dimidiata 
+1308 584 1355 633 Chromis_dimidiata 
+1498 833 1597 899 Chromis_dimidiata 
+502 391 674 529 Pseudanthias_squamipinnis_male 
+1251 159 1384 236 Anampses_twistii 
+1352 289 1430 349 Chaetodon_guttatissimus 
+1487 213 1568 274 Lutjanus_gibbus 
+925 20 989 82 Acanthurus_thompsoni 

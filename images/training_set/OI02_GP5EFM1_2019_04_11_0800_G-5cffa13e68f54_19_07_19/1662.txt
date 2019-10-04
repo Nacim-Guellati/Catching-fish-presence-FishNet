@@ -1,0 +1,9 @@
+1315 94 1502 257 Pseudanthias_squamipinnis_female 
+165 34 361 179 Pseudanthias_squamipinnis_female 
+295 683 456 750 Pseudanthias_bicolor 
+317 294 538 378 Pseudanthias_bicolor 
+493 865 542 892 Paracirrhites_forsteri 
+1025 676 1049 717 Chromis_dimidiata 
+1475 902 1513 937 Chromis_dimidiata 
+1235 840 1266 864 Chromis_dimidiata 
+286 763 318 785 Chromis_dimidiata 

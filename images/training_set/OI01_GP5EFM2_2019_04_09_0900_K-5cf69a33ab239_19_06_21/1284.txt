@@ -1,0 +1,3 @@
+297 303 398 373 Chromis_ternatensis 
+514 724 561 760 Nemateleotris_magnifica 
+1173 515 1244 677 Ctenochaetus_truncatus 

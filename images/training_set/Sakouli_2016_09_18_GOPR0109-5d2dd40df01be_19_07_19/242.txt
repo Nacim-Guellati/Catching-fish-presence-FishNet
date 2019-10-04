@@ -1,0 +1,7 @@
+1710 4 1910 76 Ctenochaetus_striatus 
+1710 148 1754 218 Zebrasoma_rostratum 
+1611 173 1650 218 Zebrasoma_rostratum 
+1193 235 1242 272 Zebrasoma_rostratum 
+1709 251 1754 290 Zebrasoma_rostratum 
+263 229 312 272 Plectroglyphidodon_lacrymatus 
+1461 338 1551 374 Labridae 

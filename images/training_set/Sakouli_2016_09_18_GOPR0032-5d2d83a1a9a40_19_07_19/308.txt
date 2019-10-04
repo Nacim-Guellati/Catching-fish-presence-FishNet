@@ -1,0 +1,5 @@
+331 552 439 679 Pomacentrus_sulfureus 
+1456 194 1514 229 Pomacentrus_sulfureus 
+1122 289 1267 337 Gomphosus_caeruleus_female 
+672 232 754 291 Zebrasoma_scopas 
+15 363 176 441 Ctenochaetus_striatus 

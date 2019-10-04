@@ -1,0 +1,10 @@
+978 117 1060 257 Ctenochaetus_striatus 
+856 118 922 157 Ctenochaetus_striatus 
+1011 628 1091 696 Myripristis_kuntee 
+810 756 887 801 Myripristis_kuntee 
+1176 473 1368 512 Fistularia_commersonii 
+887 712 925 747 Pseudanthias 
+886 722 1058 797 Aethaloperca_rogaa 
+1637 3 1913 112 Monotaxis_grandoculis 
+1317 539 1423 632 Novaculichthys_taeniourus 
+1846 621 1895 646 Ctenochaetus_striatus 

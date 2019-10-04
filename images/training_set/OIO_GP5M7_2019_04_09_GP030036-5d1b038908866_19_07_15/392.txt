@@ -1,0 +1,12 @@
+784 358 889 424 Acanthurus_lineatus 
+837 537 903 575 Chromis_dimidiata 
+727 591 781 618 Chromis_dimidiata 
+769 291 806 321 Chromis_dimidiata 
+814 203 862 230 Chromis_dimidiata 
+893 350 919 374 Chromis_dimidiata 
+371 194 435 237 Chromis_dimidiata 
+380 34 425 59 Chromis_dimidiata 
+249 242 292 264 Chromis_dimidiata 
+483 157 516 182 Chromis_dimidiata 
+1323 89 1352 116 Chromis_dimidiata 
+1209 319 1350 425 Scaridae 

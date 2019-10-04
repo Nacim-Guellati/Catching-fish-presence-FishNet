@@ -1,0 +1,9 @@
+1110 525 1285 590 Acanthurus_lineatus 
+865 888 1286 1054 Acanthurus_lineatus 
+1149 844 1496 1054 Ctenochaetus_truncatus 
+1504 257 1589 294 Chromis_dimidiata 
+1144 395 1230 430 Chromis_ternatensis 
+1434 220 1491 269 Chromis_ternatensis 
+1769 189 1824 235 Chromis_ternatensis 
+386 306 443 334 Thalassoma_amblycephalum_juv 
+1043 413 1109 447 Thalassoma_amblycephalum_juv 

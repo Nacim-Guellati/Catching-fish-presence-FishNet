@@ -1,0 +1,16 @@
+411 61 464 95 Chromis_dimidiata 
+438 232 518 275 Chromis_dimidiata 
+1121 188 1154 227 Chromis_dimidiata 
+1161 209 1196 250 Chromis_dimidiata 
+954 280 1001 305 Chromis_dimidiata 
+920 305 1055 463 Centropyge 
+1077 290 1137 341 Pomacentrus_sulfureus 
+1125 277 1181 322 Pomacentrus_sulfureus 
+723 359 806 404 Pomacentrus_sulfureus 
+693 437 806 484 Pomacentrus_sulfureus 
+188 5 347 103 Pomacentrus_sulfureus 
+149 416 221 469 Pomacentrus_sulfureus 
+227 413 257 451 Pomacentrus_sulfureus 
+207 551 288 607 Chaetodon_guttatissimus 
+782 662 860 757 Zebrasoma_rostratum 
+80 472 291 563 Balistapus_undulatus 

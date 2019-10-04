@@ -1,0 +1,6 @@
+742 848 813 914 Chaetodon_guttatissimus 
+369 736 402 767 Chromis_dimidiata 
+887 858 986 939 Nemanthias_carberryi_male 
+827 994 898 1064 Nemanthias_carberryi_male 
+919 1006 993 1067 Nemanthias_carberryi_male 
+976 1002 1063 1062 Nemanthias_carberryi_male 

@@ -1,0 +1,10 @@
+1338 457 1478 676 Chaetodon_falcula 
+728 250 872 328 Ctenochaetus_striatus 
+1041 229 1238 331 Ctenochaetus_striatus 
+1301 227 1452 341 Ctenochaetus_striatus 
+1421 206 1602 301 Ctenochaetus_striatus 
+1647 235 1889 373 Ctenochaetus_striatus 
+657 523 761 589 Pomacentrus_sulfureus 
+314 391 402 445 Pomacentrus_sulfureus 
+108 658 198 794 Pomacentrus_sulfureus 
+1755 511 1917 581 Ctenochaetus_striatus 

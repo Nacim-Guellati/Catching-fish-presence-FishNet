@@ -1,0 +1,5 @@
+728 0 959 89 Acanthurus_leucosternon 
+776 387 985 501 Pygoplites_diacanthus 
+716 120 905 242 Pygoplites_diacanthus 
+243 0 412 150 Pygoplites_diacanthus 
+667 666 899 798 Cephalopholis_argus 

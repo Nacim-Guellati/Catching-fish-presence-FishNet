@@ -1,0 +1,12 @@
+1159 433 1327 527 Chromis_dimidiata 
+1723 680 1916 826 Chromis_dimidiata 
+1440 94 1503 159 Chromis_dimidiata 
+1127 74 1175 122 Chromis_dimidiata 
+535 133 577 163 Chromis_dimidiata 
+826 7 863 40 Chromis_dimidiata 
+330 53 367 79 Chromis_dimidiata 
+453 195 480 231 Chromis_dimidiata 
+205 161 243 192 Chromis_dimidiata 
+389 291 531 449 Naso_elegans 
+830 743 971 926 Chaetodon_guttatissimus 
+269 203 330 240 Gomphosus_caeruleus_female 

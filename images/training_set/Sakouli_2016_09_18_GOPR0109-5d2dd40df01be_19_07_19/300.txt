@@ -1,0 +1,9 @@
+1499 133 1548 169 Ctenochaetus_striatus 
+1580 223 1646 284 Ctenochaetus_striatus 
+1784 238 1880 269 Labridae 
+510 182 576 209 Labridae 
+566 89 633 128 Chaetodon 
+1497 269 1556 307 Pomacentrus_sulfureus 
+1781 260 1821 295 Pomacentrus_sulfureus 
+1520 355 1565 404 Plectroglyphidodon_lacrymatus 
+1712 344 1772 389 Plectroglyphidodon_lacrymatus 

@@ -1,0 +1,10 @@
+835 728 1035 927 Ctenochaetus_truncatus 
+166 47 270 133 Chromis_dimidiata 
+11 406 67 473 Chromis_dimidiata 
+315 545 354 581 Chromis_dimidiata 
+1002 404 1041 444 Chromis_dimidiata 
+1456 402 1492 433 Chromis_dimidiata 
+273 177 357 226 Chromis_ternatensis 
+913 627 1006 717 Chromis_ternatensis 
+595 617 645 664 Nemateleotris_magnifica 
+316 812 396 868 Chaetodon_guttatissimus 

@@ -1,0 +1,9 @@
+64 191 167 231 Chromis_ternatensis 
+169 276 227 303 Chromis_ternatensis 
+192 287 274 323 Chromis_ternatensis 
+612 281 673 349 Chromis_ternatensis 
+592 649 654 686 Nemateleotris_magnifica 
+793 831 872 881 Chromis_ternatensis 
+849 431 893 466 Chromis_dimidiata 
+302 804 372 837 unknown_fish 
+836 11 961 102 Scarus 

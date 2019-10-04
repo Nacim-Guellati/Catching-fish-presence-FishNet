@@ -1,0 +1,5 @@
+1433 591 1688 688 Acanthurus_lineatus 
+1729 696 1843 746 Chromis_ternatensis 
+1094 827 1244 897 Plectropomus_punctatus 
+61 889 413 1068 Chaetodon_auriga 
+903 559 926 582 Chromis_dimidiata 

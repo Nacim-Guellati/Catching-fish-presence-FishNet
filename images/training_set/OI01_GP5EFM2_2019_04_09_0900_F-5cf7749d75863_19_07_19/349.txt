@@ -1,0 +1,5 @@
+1323 792 1578 896 Acanthurus_lineatus 
+309 767 469 873 Ctenochaetus_truncatus 
+1524 891 1913 1049 Ctenochaetus_truncatus 
+675 796 858 872 Epinephelus_rivulatus 
+989 842 1090 887 Chromis_ternatensis 

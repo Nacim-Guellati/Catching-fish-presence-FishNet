@@ -1,0 +1,12 @@
+270 644 307 668 Chromis_dimidiata 
+572 594 603 623 Chromis_dimidiata 
+887 467 926 497 Chromis_dimidiata 
+921 530 948 554 Chromis_dimidiata 
+936 572 973 599 Chromis_dimidiata 
+1611 432 1649 467 Chromis_dimidiata 
+1480 497 1563 551 Acanthurus_lineatus 
+1727 757 1915 810 Chromis_ternatensis 
+820 868 872 899 Nemateleotris_magnifica 
+995 836 1152 969 Gomphosus_caeruleus_male 
+352 285 507 331 Carangidae 
+803 692 913 787 Ctenochaetus_truncatus 

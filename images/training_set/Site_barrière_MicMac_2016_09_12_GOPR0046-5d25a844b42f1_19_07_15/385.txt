@@ -1,0 +1,5 @@
+800 641 1042 784 Ctenochaetus_striatus 
+1123 766 1352 979 Ctenochaetus_striatus 
+1065 824 1177 964 Zebrasoma_scopas 
+1004 623 1124 712 Abudefduf_vaigiensis 
+897 518 1048 607 Myripristis_murdjan 

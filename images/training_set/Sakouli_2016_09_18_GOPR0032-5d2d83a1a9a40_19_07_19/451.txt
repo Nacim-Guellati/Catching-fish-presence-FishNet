@@ -1,0 +1,6 @@
+1088 421 1269 525 Pomacentrus_sulfureus 
+819 185 855 222 Pomacentrus_sulfureus 
+1055 223 1116 275 Chaetodon_trifasciatus 
+767 222 833 268 Chaetodon_trifasciatus 
+1465 242 1518 274 Oxymonacanthus_longirostris 
+1666 188 1724 258 Ctenochaetus_striatus 

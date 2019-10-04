@@ -1,0 +1,13 @@
+730 612 766 633 Chromis_dimidiata 
+548 726 585 753 Chromis_dimidiata 
+445 773 478 796 Chromis_dimidiata 
+263 799 309 826 Chromis_dimidiata 
+1547 896 1585 954 Chromis_dimidiata 
+1099 998 1137 1031 Chromis_dimidiata 
+488 855 546 906 Paracirrhites_forsteri 
+1175 854 1266 904 Pseudanthias_bicolor 
+1061 895 1131 933 Pseudanthias_bicolor 
+476 672 540 703 Pseudanthias_bicolor 
+326 724 414 766 Pseudanthias_bicolor 
+202 737 286 767 Pseudanthias_bicolor 
+837 761 912 827 Sufflamen_bursa 

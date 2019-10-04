@@ -1,0 +1,15 @@
+233 387 321 454 Chromis_ternatensis 
+413 503 544 574 Chromis_ternatensis 
+477 735 622 836 Chromis_ternatensis 
+627 829 715 901 Chromis_ternatensis 
+281 820 451 882 Pseudanthias_squamipinnis_female 
+3 784 203 916 Pseudanthias_squamipinnis_female 
+1052 685 1124 728 Chromis_dimidiata 
+1746 1 1814 54 Chromis_dimidiata 
+1558 33 1600 71 Chromis_dimidiata 
+1460 112 1492 148 Chromis_dimidiata 
+905 65 936 103 Chromis_dimidiata 
+736 228 768 253 Chromis_dimidiata 
+638 164 661 193 Chromis_dimidiata 
+542 251 719 392 Pseudanthias_squamipinnis_male 
+1669 419 1787 476 Chaetodon_guttatissimus 

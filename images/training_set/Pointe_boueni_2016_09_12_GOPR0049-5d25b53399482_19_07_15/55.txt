@@ -1,0 +1,14 @@
+1068 300 1126 337 Pomacentrus_sulfureus 
+485 313 542 363 Pomacentrus_sulfureus 
+924 333 1058 411 Thalassoma_hardwicke 
+755 167 820 213 Ctenochaetus_striatus 
+672 197 783 267 Ctenochaetus_striatus 
+433 201 552 256 Ctenochaetus_striatus 
+1741 446 1916 520 Thalassoma_hebraicum 
+115 239 238 326 Thalassoma 
+205 371 344 435 Thalassoma 
+884 220 942 255 Acanthurus 
+953 239 1025 282 Acanthurus 
+1472 601 1594 690 Acanthurus 
+859 202 893 238 Acanthurus 
+1596 439 1754 501 Scaridae 

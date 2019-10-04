@@ -1,0 +1,5 @@
+0 149 242 320 Caesio_lunaris 
+313 4 398 141 Caesio_lunaris 
+0 114 90 176 Caesio_lunaris 
+845 487 881 536 Amphiprion_sandaracinos 
+111 918 173 1003 Ctenochaetus_striatus 

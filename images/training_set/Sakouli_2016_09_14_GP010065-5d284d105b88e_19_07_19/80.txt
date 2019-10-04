@@ -1,0 +1,9 @@
+876 147 927 180 Chromis_dimidiata 
+1300 174 1344 212 Chromis_dimidiata 
+355 122 404 182 Chromis_dimidiata 
+85 247 183 309 Chromis_dimidiata 
+1 129 105 191 Chromis_dimidiata 
+927 463 1012 540 Pomacentrus_sulfureus 
+1202 142 1280 229 Chaetodon_trifasciatus 
+381 110 470 212 Arothron 
+359 653 501 762 Centropyge_multispinis 

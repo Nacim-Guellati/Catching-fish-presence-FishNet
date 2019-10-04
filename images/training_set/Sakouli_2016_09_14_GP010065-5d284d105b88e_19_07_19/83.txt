@@ -1,0 +1,9 @@
+132 14 180 70 Chromis_dimidiata 
+541 206 596 265 Chromis_dimidiata 
+1281 99 1342 140 Chromis_dimidiata 
+920 377 1013 424 Pomacentrus_sulfureus 
+1130 151 1197 236 Chaetodon_trifasciatus 
+1041 202 1118 261 Chaetodon_trifasciatus 
+160 67 352 133 Thalassoma_hardwicke 
+401 109 564 194 Arothron 
+429 632 600 744 Centropyge_multispinis 

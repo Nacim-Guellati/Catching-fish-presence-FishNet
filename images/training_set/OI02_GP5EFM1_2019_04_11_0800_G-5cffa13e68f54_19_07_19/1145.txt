@@ -1,0 +1,11 @@
+1300 488 1427 563 Aethaloperca_rogaa 
+489 864 551 899 Paracirrhites_forsteri 
+364 849 452 914 Nemanthias_carberryi_male 
+1205 934 1291 988 Nemanthias_carberryi_male 
+815 754 871 793 Ctenochaetus_striatus 
+568 756 633 797 Pseudanthias_bicolor 
+427 710 491 744 Pseudanthias_bicolor 
+397 786 451 819 Pseudanthias_bicolor 
+207 885 291 931 Pseudanthias_bicolor 
+184 844 248 883 Pseudanthias_bicolor 
+770 799 822 830 Pseudanthias_bicolor 

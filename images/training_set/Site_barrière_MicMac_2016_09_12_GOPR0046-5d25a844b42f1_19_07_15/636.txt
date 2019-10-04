@@ -1,0 +1,10 @@
+2 519 241 661 Pygoplites_diacanthus 
+1140 952 1293 1056 Pygoplites_diacanthus 
+798 526 982 637 Myripristis_kuntee 
+1157 744 1241 844 Acanthurus_nigricans 
+920 782 1061 853 Ctenochaetus_striatus 
+828 716 971 801 Ctenochaetus_striatus 
+826 642 957 741 Myripristis 
+798 64 838 122 Ctenochaetus_striatus 
+1101 644 1128 677 Ctenochaetus_striatus 
+963 673 1073 747 Myripristis 

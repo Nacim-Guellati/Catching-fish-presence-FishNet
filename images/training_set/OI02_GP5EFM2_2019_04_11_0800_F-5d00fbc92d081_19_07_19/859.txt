@@ -1,0 +1,10 @@
+275 159 349 236 Chromis_dimidiata 
+531 187 570 223 Chromis_dimidiata 
+665 221 702 247 Chromis_dimidiata 
+843 410 933 458 Chromis_dimidiata 
+1304 72 1352 115 Chromis_dimidiata 
+1419 129 1462 160 Chromis_dimidiata 
+1748 83 1811 125 Chromis_dimidiata 
+545 22 580 52 Chromis_dimidiata 
+510 683 646 743 Ctenochaetus_truncatus 
+1468 416 1646 504 Ctenochaetus_truncatus 

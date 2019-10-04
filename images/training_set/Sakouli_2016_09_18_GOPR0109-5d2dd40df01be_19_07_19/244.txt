@@ -1,0 +1,7 @@
+1583 164 1634 202 Ctenochaetus_striatus 
+1571 229 1635 274 Zebrasoma_rostratum 
+2 595 120 703 Plectroglyphidodon_dickii 
+1655 172 1698 220 Zebrasoma_rostratum 
+1518 302 1608 353 Labridae 
+338 245 410 295 Plectroglyphidodon_lacrymatus 
+866 250 938 287 Arothron 

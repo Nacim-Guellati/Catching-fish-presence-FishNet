@@ -1,0 +1,13 @@
+374 386 457 423 Chromis_ternatensis 
+456 356 542 392 Chromis_ternatensis 
+501 488 574 516 Chromis_ternatensis 
+934 462 998 496 Chromis_ternatensis 
+1136 411 1188 447 Chromis_ternatensis 
+1402 597 1442 658 Chromis_ternatensis 
+993 418 1037 441 Chromis_ternatensis 
+1526 481 1587 506 Chromis_ternatensis 
+1689 996 1854 1072 unknown_fish 
+696 501 731 524 Chromis_dimidiata 
+1784 452 1819 481 Chromis_dimidiata 
+1022 529 1053 556 Chromis_dimidiata 
+1003 499 1022 517 Chromis_dimidiata 

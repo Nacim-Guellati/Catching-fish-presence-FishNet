@@ -1,0 +1,14 @@
+931 648 973 686 Nemateleotris_magnifica 
+1332 24 1467 51 Thalassoma_amblycephalum_juv 
+1487 29 1589 59 Thalassoma_amblycephalum_juv 
+1388 63 1532 99 Thalassoma_amblycephalum_juv 
+1521 98 1663 139 Thalassoma_amblycephalum_juv 
+1391 169 1512 202 Thalassoma_amblycephalum_juv 
+1347 213 1461 234 Thalassoma_amblycephalum_juv 
+1227 242 1328 276 Thalassoma_amblycephalum_juv 
+182 466 254 508 Chromis_dimidiata 
+726 318 787 354 Chromis_dimidiata 
+353 732 389 759 Chromis_dimidiata 
+1089 237 1121 263 Chromis_ternatensis 
+478 803 554 861 Labridae 
+1314 634 1422 683 Ctenochaetus_striatus 

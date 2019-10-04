@@ -1,0 +1,7 @@
+851 386 1131 510 Acanthurus_dussumieri 
+945 271 1209 391 Acanthurus_dussumieri 
+1062 471 1135 542 Acanthurus_dussumieri 
+1176 498 1247 609 Naso_elegans 
+353 0 555 92 Sargocentron 
+453 600 600 688 Chromis 
+249 644 304 685 Chromis_dimidiata 

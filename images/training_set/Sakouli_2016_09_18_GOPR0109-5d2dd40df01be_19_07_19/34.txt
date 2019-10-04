@@ -1,0 +1,4 @@
+1476 500 1665 576 Thalassoma_hardwicke 
+745 287 812 337 Chaetodon_trifasciatus 
+1288 395 1364 483 Plectroglyphidodon_lacrymatus 
+1419 432 1476 487 Oxymonacanthus_longirostris 

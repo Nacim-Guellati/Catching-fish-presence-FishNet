@@ -1,0 +1,17 @@
+407 551 547 658 Myripristis_kuntee 
+450 472 645 586 Myripristis_kuntee 
+485 671 616 777 Myripristis_kuntee 
+782 636 910 739 Myripristis_kuntee 
+1022 634 1100 701 Myripristis_kuntee 
+1018 56 1116 152 Ctenochaetus_striatus 
+1021 737 1088 796 Ctenochaetus_striatus 
+928 719 981 778 Ctenochaetus_striatus 
+1495 452 1550 539 Abudefduf_vaigiensis 
+1775 468 1908 529 Abudefduf_vaigiensis 
+1792 516 1883 582 Abudefduf_vaigiensis 
+933 822 1003 878 Pomacentrus_sulfureus 
+1155 704 1231 788 Acanthurus_lineatus 
+1677 721 1910 854 Acanthurus_lineatus 
+683 207 1083 392 Thalassoma_hebraicum 
+1502 863 1772 1022 Zebrasoma_scopas 
+1503 683 1585 722 Halichoeres_hortulanus 

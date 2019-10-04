@@ -1,0 +1,7 @@
+487 228 630 328 Ctenochaetus_truncatus 
+631 128 660 162 Chromis_dimidiata 
+552 76 575 108 Chromis_dimidiata 
+654 78 677 106 Chromis_dimidiata 
+1422 115 1458 148 Chromis_dimidiata 
+1637 276 1672 312 Chromis_dimidiata 
+1820 8 1891 39 Chromis_ternatensis 

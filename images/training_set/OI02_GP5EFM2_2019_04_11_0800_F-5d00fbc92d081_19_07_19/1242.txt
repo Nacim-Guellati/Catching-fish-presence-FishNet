@@ -1,0 +1,9 @@
+1369 273 1499 351 Chromis_ternatensis 
+1801 214 1916 296 Chromis_ternatensis 
+529 2 658 57 Chromis_ternatensis 
+590 127 629 163 Chromis_dimidiata 
+1329 126 1381 157 Chromis_dimidiata 
+971 3 1008 49 Chromis_dimidiata 
+1636 6 1704 31 Chromis_dimidiata 
+1150 751 1215 802 Chromis_dimidiata 
+224 607 366 748 Ctenochaetus_truncatus 

@@ -1,0 +1,6 @@
+165 0 249 55 Chromis_dimidiata 
+956 56 990 84 Chromis_dimidiata 
+1334 93 1363 125 Chromis_dimidiata 
+677 210 908 342 Cephalopholis_argus 
+588 143 767 239 Arothron 
+904 246 939 300 Pomacentrus_sulfureus 

@@ -1,0 +1,9 @@
+1134 162 1228 207 Acanthurus_thompsoni 
+526 884 618 959 Chaetodon_guttatissimus 
+2 947 198 1056 Cephalopholis_juv 
+206 827 242 853 Chromis_dimidiata 
+1277 888 1409 941 Nemanthias_carberryi_male 
+1121 1034 1264 1076 Nemanthias_carberryi_male 
+937 999 1061 1074 Nemanthias_carberryi_male 
+887 864 1009 922 Nemanthias_carberryi_female 
+812 977 874 1018 Pseudanthias_squamipinnis_male 

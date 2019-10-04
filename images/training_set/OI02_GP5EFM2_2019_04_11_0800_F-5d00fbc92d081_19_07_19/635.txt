@@ -1,0 +1,13 @@
+473 62 587 152 Chromis_dimidiata 
+156 494 309 561 Chromis_dimidiata 
+1392 18 1436 62 Chromis_dimidiata 
+1146 14 1183 49 Chromis_dimidiata 
+1413 83 1451 114 Chromis_dimidiata 
+166 46 199 76 Chromis_dimidiata 
+276 7 327 42 Chromis_dimidiata 
+621 188 648 213 Chromis_dimidiata 
+323 57 346 76 Chromis_dimidiata 
+858 87 886 113 Chromis_dimidiata 
+847 221 872 243 Chromis_dimidiata 
+1533 344 1676 418 Chromis_ternatensis 
+792 39 868 84 Carangidae 

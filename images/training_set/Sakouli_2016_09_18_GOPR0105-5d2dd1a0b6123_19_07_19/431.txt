@@ -1,0 +1,6 @@
+1697 8 1791 73 Pomacentrus_sulfureus 
+1620 407 1683 490 Pomacentrus_sulfureus 
+473 347 530 397 Pomacentrus_sulfureus 
+807 697 851 736 Pomacentrus_sulfureus 
+963 188 1035 247 Chaetodon 
+837 694 893 728 Labroides 

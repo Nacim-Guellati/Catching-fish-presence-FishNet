@@ -1,0 +1,15 @@
+489 618 1073 1013 Gomphosus_caeruleus_male 
+980 113 1023 175 Thalassoma_hardwicke_male 
+1490 584 1603 646 Balistapus_undulatus 
+841 414 886 488 Zanclus_cornutus 
+441 321 475 350 Chromis_dimidiata 
+272 428 322 464 Chromis_dimidiata 
+206 215 253 267 Chromis_dimidiata 
+364 451 403 482 Chromis_dimidiata 
+1344 335 1432 387 Chaetodon_trifascialis 
+806 257 869 311 Pomacentrus_sulfureus 
+534 457 574 483 Pomacentrus_sulfureus 
+1674 203 1736 240 Chromis_ternatensis 
+1799 288 1867 323 Chromis_ternatensis 
+1485 361 1533 406 Chaetodon_meyeri 
+1611 383 1688 445 Chaetodon_meyeri 

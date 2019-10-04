@@ -1,0 +1,16 @@
+153 685 244 717 Chromis_ternatensis 
+128 649 210 680 Chromis_ternatensis 
+531 832 637 878 Chromis_ternatensis 
+656 640 726 667 Chromis_ternatensis 
+576 578 629 608 Chromis_ternatensis 
+505 561 562 586 Chromis_ternatensis 
+1114 662 1181 691 Chromis_ternatensis 
+794 601 837 623 Chromis_ternatensis 
+734 609 778 630 Chromis_ternatensis 
+938 568 978 593 Chromis_ternatensis 
+929 997 1000 1057 Chromis_ternatensis 
+714 665 768 727 Ctenochaetus_striatus 
+849 629 885 656 Chromis_dimidiata 
+990 628 1048 657 Thalassoma_amblycephalum_juv 
+290 593 383 629 Thalassoma_amblycephalum_juv 
+390 632 466 660 Thalassoma_amblycephalum_juv 

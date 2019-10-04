@@ -1,0 +1,10 @@
+1359 469 1489 548 Aethaloperca_rogaa 
+1643 316 1834 410 Acanthurus_thompsoni 
+493 856 546 896 Paracirrhites_forsteri 
+378 756 444 805 Pseudanthias_bicolor 
+161 861 254 885 Pseudanthias_bicolor 
+490 808 560 842 Pseudanthias_bicolor 
+936 719 994 752 Pseudanthias_bicolor 
+407 896 459 963 Chaetodon_guttatissimus 
+621 732 675 763 Pseudanthias_bicolor 
+587 727 628 755 Pseudanthias_bicolor 

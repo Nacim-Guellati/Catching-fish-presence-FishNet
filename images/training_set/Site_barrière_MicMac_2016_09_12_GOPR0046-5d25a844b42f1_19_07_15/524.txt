@@ -1,0 +1,10 @@
+1742 726 1917 912 Ctenochaetus_striatus 
+831 64 936 174 Ctenochaetus_striatus 
+192 29 293 101 Ctenochaetus_striatus 
+1153 318 1237 371 Abudefduf_vaigiensis 
+1017 628 1110 699 Myripristis_kuntee 
+1321 504 1593 604 Fistularia_commersonii 
+906 727 933 776 Pseudanthias 
+1151 689 1232 779 Zebrasoma_scopas 
+937 723 1078 802 Aethaloperca_rogaa 
+1391 588 1455 654 Monotaxis_grandoculis 

@@ -1,0 +1,17 @@
+624 699 962 862 Thalassoma_lunare 
+187 151 239 173 Chromis_dimidiata 
+227 176 259 201 Chromis_dimidiata 
+622 67 658 93 Chromis_dimidiata 
+541 114 559 132 Chromis_dimidiata 
+553 121 579 138 Chromis_dimidiata 
+792 121 829 146 Chromis_dimidiata 
+862 153 897 176 Chromis_dimidiata 
+891 196 937 233 Chromis_dimidiata 
+1252 141 1287 168 Chromis_dimidiata 
+1571 249 1612 279 Chromis_dimidiata 
+1674 172 1706 216 Chromis_dimidiata 
+273 156 304 179 Chromis_dimidiata 
+16 154 249 292 Chromis_xanthura 
+1454 691 1503 757 Labroides_dimidiatus 
+1462 739 1671 886 Zebrasoma_rostratum 
+1197 637 1403 727 unknown_fish 

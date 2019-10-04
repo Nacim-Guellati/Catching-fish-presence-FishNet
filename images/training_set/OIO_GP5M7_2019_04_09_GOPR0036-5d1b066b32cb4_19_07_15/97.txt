@@ -1,0 +1,6 @@
+1603 477 1794 569 Acanthurus_lineatus 
+677 421 796 482 Acanthurus_lineatus 
+745 233 1129 447 Variola_louti 
+1178 538 1217 587 Chromis_dimidiata 
+331 441 373 476 Chromis_dimidiata 
+556 398 590 424 Chromis_dimidiata 

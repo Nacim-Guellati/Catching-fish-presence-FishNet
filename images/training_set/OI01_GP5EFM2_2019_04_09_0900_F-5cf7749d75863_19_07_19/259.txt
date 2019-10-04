@@ -1,0 +1,7 @@
+592 948 816 1075 Acanthurus_lineatus 
+1586 105 1688 191 Chromis_dimidiata 
+379 138 450 166 Chromis_ternatensis 
+1121 705 1288 821 Ctenochaetus_truncatus 
+1330 809 1680 1026 Ctenochaetus_truncatus 
+1690 995 1861 1073 unknown_fish 
+527 585 593 613 Nemateleotris_magnifica 

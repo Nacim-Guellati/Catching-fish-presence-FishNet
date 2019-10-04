@@ -1,0 +1,11 @@
+297 684 422 746 Chromis_dimidiata 
+715 645 802 725 Chromis_dimidiata 
+146 636 198 673 Chromis_dimidiata 
+281 518 326 545 Chromis_dimidiata 
+1445 441 1482 472 Chromis_dimidiata 
+959 945 995 1041 Chromis_ternatensis 
+202 539 255 621 Chromis_ternatensis 
+221 142 304 180 Chromis_ternatensis 
+30 33 122 70 Chromis_ternatensis 
+1019 480 1083 532 Acanthurus_lineatus 
+1272 945 1353 1002 Plectroglyphidodon_johnstonianus 

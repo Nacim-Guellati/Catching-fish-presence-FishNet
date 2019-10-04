@@ -1,0 +1,4 @@
+653 85 861 263 Zanclus_cornutus 
+458 263 815 493 Zanclus_cornutus 
+206 80 404 266 Zanclus_cornutus 
+1025 5 1419 358 Pygoplites_diacanthus 

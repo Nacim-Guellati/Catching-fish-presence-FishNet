@@ -1,0 +1,10 @@
+1353 453 1543 656 Acanthurus_lineatus 
+541 94 605 275 Pseudanthias_squamipinnis_female 
+936 446 987 481 Pseudanthias_squamipinnis_female 
+1680 350 1733 396 Chromis_dimidiata 
+877 553 910 576 Chromis_dimidiata 
+844 659 877 695 Chromis_dimidiata 
+375 162 453 225 Chromis_ternatensis 
+405 143 466 189 Chromis_ternatensis 
+932 247 985 288 Pseudanthias_squamipinnis_male 
+465 906 660 995 Stegastes_pelicieri 

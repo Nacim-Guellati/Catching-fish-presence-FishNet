@@ -1,0 +1,4 @@
+666 734 799 829 Ctenochaetus_truncatus 
+120 708 278 766 Ctenochaetus_truncatus 
+448 359 834 517 Scarus_frenatus_male 
+1260 592 1315 642 Chaetodon_guttatissimus 

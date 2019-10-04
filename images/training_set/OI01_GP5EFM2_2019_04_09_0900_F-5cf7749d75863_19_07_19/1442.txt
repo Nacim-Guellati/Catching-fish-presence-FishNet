@@ -1,0 +1,7 @@
+28 715 203 806 Ctenochaetus_truncatus 
+579 763 723 870 Ctenochaetus_truncatus 
+342 386 732 556 Scarus_frenatus_male 
+1582 491 1910 603 Thalassoma_hebraicum 
+842 665 966 723 Acanthurus_lineatus 
+285 725 519 804 Acanthurus_lineatus 
+1247 590 1300 643 Chaetodon_guttatissimus 

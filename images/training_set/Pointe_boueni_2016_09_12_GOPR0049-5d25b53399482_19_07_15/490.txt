@@ -1,0 +1,9 @@
+0 52 102 151 Pomacentrus_sulfureus 
+1009 117 1080 201 Zebrasoma_scopas 
+1319 137 1447 224 Zebrasoma_scopas 
+436 222 533 264 Ctenochaetus_striatus 
+587 216 692 276 Ctenochaetus_striatus 
+779 259 894 355 Ctenochaetus_striatus 
+597 24 648 52 Thalassoma_hardwicke 
+1504 369 1578 435 Ctenochaetus_striatus 
+1722 451 1821 552 Plectroglyphidodon_dickii 

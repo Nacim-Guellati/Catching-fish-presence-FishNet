@@ -1,0 +1,8 @@
+68 281 230 327 Caesio_teres 
+2 396 148 442 Caesio_teres 
+690 169 803 227 Acanthurus_lineatus 
+746 222 890 268 Thalassoma_hardwicke 
+1798 219 1851 267 Ctenochaetus_striatus 
+1623 288 1673 331 Acanthurus_lineatus 
+480 384 538 423 Pomacentrus_sulfureus 
+982 382 1023 428 Pomacentrus_sulfureus 

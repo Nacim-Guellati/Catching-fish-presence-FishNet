@@ -1,0 +1,3 @@
+370 36 460 151 Canthigaster_valentini 
+210 564 290 611 Ctenochaetus_striatus 
+178 824 236 878 Pomacentrus_sulfureus 

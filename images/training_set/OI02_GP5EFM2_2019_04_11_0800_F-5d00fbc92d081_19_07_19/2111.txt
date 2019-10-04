@@ -1,0 +1,13 @@
+947 882 1006 972 Pseudocheilinus_hexataenia 
+1575 1 1715 102 Chromis_ternatensis 
+1050 249 1136 318 Chromis_ternatensis 
+49 790 110 884 Chromis_dimidiata 
+369 551 490 615 Chromis_dimidiata 
+1444 729 1502 785 Chromis_dimidiata 
+984 256 1020 290 Chromis_dimidiata 
+962 177 980 219 Chromis_dimidiata 
+985 194 1008 225 Chromis_dimidiata 
+1421 251 1452 275 Chromis_dimidiata 
+809 3 848 29 Chromis_dimidiata 
+2 502 77 612 Chromis_dimidiata 
+17 630 300 722 Pseudanthias_squamipinnis_female 

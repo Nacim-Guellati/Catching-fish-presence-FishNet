@@ -1,0 +1,12 @@
+1411 331 1447 361 Pomacentrus_sulfureus 
+1510 423 1580 469 Pomacentrus_sulfureus 
+342 779 493 877 Pomacentrus_sulfureus 
+320 418 371 454 Pomacentrus_sulfureus 
+861 737 991 873 Ctenochaetus_striatus 
+1317 297 1357 318 Ctenochaetus_striatus 
+1031 201 1072 238 Ctenochaetus_striatus 
+696 137 782 186 Ctenochaetus_striatus 
+738 419 798 483 Ctenochaetus_striatus 
+1772 596 1838 676 Plectroglyphidodon_dickii 
+1583 548 1692 589 Gomphosus_caeruleus_female 
+341 593 415 669 Thalassoma_hardwicke 

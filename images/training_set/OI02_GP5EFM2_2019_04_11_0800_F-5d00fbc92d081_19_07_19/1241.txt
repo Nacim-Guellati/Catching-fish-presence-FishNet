@@ -1,0 +1,5 @@
+1234 266 1356 354 Chromis_ternatensis 
+1623 77 1753 221 Chromis_ternatensis 
+645 114 690 149 Chromis_dimidiata 
+1253 147 1301 182 Chromis_dimidiata 
+1218 579 1260 652 Chromis_dimidiata 

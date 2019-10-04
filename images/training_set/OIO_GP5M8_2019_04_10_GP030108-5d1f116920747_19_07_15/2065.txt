@@ -1,0 +1,6 @@
+701 459 962 551 Cephalopholis_argus 
+806 242 854 292 Ctenochaetus_truncatus 
+320 115 405 194 Ctenochaetus_truncatus 
+562 277 648 328 Gomphosus_caeruleus_male 
+765 708 817 762 Chromis_dimidiata 
+1561 176 1655 217 Balistapus_undulatus 

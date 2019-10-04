@@ -1,0 +1,5 @@
+661 846 763 922 Chromis_dimidiata 
+983 744 1033 788 Chromis_dimidiata 
+1179 996 1225 1037 Chromis_dimidiata 
+706 961 816 1039 Gomphosus_caeruleus_female 
+459 824 526 868 Paracirrhites_forsteri 

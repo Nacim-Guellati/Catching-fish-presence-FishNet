@@ -1,0 +1,4 @@
+760 651 796 692 Chromis_dimidiata 
+1318 934 1376 985 Chromis_dimidiata 
+1241 339 1376 467 Nemanthias_carberryi_male 
+6 215 296 387 Epinephelus_flavocaeruleus 

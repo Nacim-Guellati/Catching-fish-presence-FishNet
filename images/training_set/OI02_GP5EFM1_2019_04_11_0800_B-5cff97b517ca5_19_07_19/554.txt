@@ -1,0 +1,8 @@
+875 529 939 600 Chromis_dimidiata 
+1095 707 1135 734 Chromis_dimidiata 
+1265 96 1468 241 Pseudanthias_squamipinnis_male 
+562 929 737 1008 Thalassoma_lunare 
+1649 475 1839 542 Pseudanthias_bicolor 
+1768 552 1908 625 Pseudanthias_bicolor 
+752 496 812 544 Pseudanthias_squamipinnis_male 
+332 731 357 752 Chromis_dimidiata 

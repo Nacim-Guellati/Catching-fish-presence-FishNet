@@ -1,0 +1,4 @@
+248 660 386 867 Pomacentrus_sulfureus 
+1745 164 1827 207 Pomacentrus_sulfureus 
+1275 128 1319 163 Pomacentrus_sulfureus 
+1260 201 1309 254 Zebrasoma_scopas 

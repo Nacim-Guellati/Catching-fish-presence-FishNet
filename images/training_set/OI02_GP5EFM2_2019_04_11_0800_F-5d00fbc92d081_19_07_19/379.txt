@@ -1,0 +1,7 @@
+838 264 892 351 Anampses_twistii 
+747 136 778 170 Chromis_dimidiata 
+687 227 711 265 Chromis_dimidiata 
+609 172 642 200 Chromis_dimidiata 
+505 64 532 98 Chromis_dimidiata 
+1481 51 1520 88 Chromis_dimidiata 
+1539 204 1578 254 Chromis_dimidiata 

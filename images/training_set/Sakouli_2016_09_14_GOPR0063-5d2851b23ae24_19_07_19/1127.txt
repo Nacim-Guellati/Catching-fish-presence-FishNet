@@ -1,0 +1,16 @@
+353 217 615 301 Thalassoma_hardwicke 
+1145 403 1440 580 Cephalopholis_argus 
+878 245 962 355 Ctenochaetus_striatus 
+0 397 173 527 Ctenochaetus_striatus 
+384 173 503 230 Pomacentrus_sulfureus 
+158 380 230 449 Pomacentrus_sulfureus 
+728 196 797 260 Pterocaesio_tile 
+824 70 890 133 Pterocaesio_tile 
+896 170 969 227 Pterocaesio_tile 
+731 10 819 55 Pterocaesio_tile 
+617 94 690 139 Pterocaesio_tile 
+255 148 323 203 Pterocaesio_tile 
+86 58 168 127 Pterocaesio_tile 
+377 281 435 332 Pterocaesio_tile 
+572 346 645 404 Pterocaesio_tile 
+702 320 770 370 Pterocaesio_tile 

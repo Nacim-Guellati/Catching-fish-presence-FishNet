@@ -1,0 +1,17 @@
+748 1 857 83 Ctenochaetus_truncatus 
+1335 178 1408 231 Caesio_teres 
+220 11 313 91 Caesio_teres 
+1293 208 1333 256 Caesio_teres 
+1357 38 1407 107 Caesio_teres 
+756 262 798 318 Pomacentrus_sulfureus 
+1468 148 1520 208 Pomacentrus_sulfureus 
+577 266 612 296 Chromis_dimidiata 
+558 309 591 336 Chromis_dimidiata 
+1532 33 1651 126 Kyphosus 
+498 331 551 371 Ctenochaetus_striatus 
+590 73 665 122 Chromis 
+532 153 597 192 Chromis 
+736 187 792 218 Chromis 
+1575 366 1631 401 Pomacentrus_sulfureus 
+83 342 191 376 Thalassoma_hardwicke 
+965 137 1033 174 Thalassoma_amblycephalum 

@@ -1,0 +1,9 @@
+534 101 782 188 Thalassoma_hardwicke 
+513 89 645 241 Zanclus_cornutus 
+291 185 416 254 Pomacentrus_sulfureus 
+177 307 305 392 Pomacentrus_sulfureus 
+1395 221 1458 254 Ctenochaetus_striatus 
+1593 262 1640 293 Ctenochaetus_striatus 
+1767 290 1847 344 Plectroglyphidodon_lacrymatus 
+1487 313 1545 349 Pomacentrus_sulfureus 
+293 559 404 637 Apogonidae 

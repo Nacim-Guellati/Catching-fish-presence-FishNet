@@ -1,0 +1,17 @@
+48 815 84 853 Chromis_dimidiata 
+254 732 285 759 Chromis_dimidiata 
+586 813 695 870 Chromis_dimidiata 
+715 678 739 704 Chromis_dimidiata 
+640 668 670 698 Chromis_dimidiata 
+553 738 579 762 Chromis_dimidiata 
+459 748 495 775 Chromis_dimidiata 
+915 899 961 932 Chromis_dimidiata 
+1373 858 1405 888 Chromis_dimidiata 
+1323 897 1375 948 Chromis_dimidiata 
+3 767 36 798 Chromis_dimidiata 
+1438 648 1465 674 Chromis_dimidiata 
+1005 918 1058 962 Pseudanthias_squamipinnis_female 
+1138 766 1198 803 Pseudanthias_squamipinnis_female 
+695 615 739 656 Pseudanthias_squamipinnis_male 
+1139 937 1356 1054 Chaetodon_guttatissimus 
+1043 17 1285 203 Acanthurus_thompsoni 

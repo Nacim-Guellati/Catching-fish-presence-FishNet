@@ -1,0 +1,10 @@
+1173 801 1324 997 Ctenochaetus_truncatus 
+1059 946 1193 1012 Gomphosus_caeruleus_female 
+451 645 511 684 Nemateleotris_magnifica 
+464 523 647 656 Chromis_ternatensis 
+985 331 1023 360 Chromis_dimidiata 
+755 364 790 395 Chromis_dimidiata 
+1778 328 1815 359 Chromis_dimidiata 
+974 444 1000 463 Chromis_dimidiata 
+1443 404 1474 426 Chromis_dimidiata 
+1018 471 1042 486 Chromis_dimidiata 

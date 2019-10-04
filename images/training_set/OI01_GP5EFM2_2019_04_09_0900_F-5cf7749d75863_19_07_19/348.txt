@@ -1,0 +1,4 @@
+1059 818 1299 996 Acanthurus_lineatus 
+330 781 436 878 Ctenochaetus_truncatus 
+1623 906 1913 1042 Ctenochaetus_truncatus 
+629 787 778 868 Epinephelus_rivulatus 

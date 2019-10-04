@@ -1,0 +1,8 @@
+1236 624 1401 777 Pseudanthias_squamipinnis_male 
+1420 993 1561 1046 Ecsenius_midas 
+527 629 672 718 Pseudanthias_bicolor_female 
+1055 384 1082 469 Pseudanthias 
+531 93 576 153 Pseudanthias 
+497 177 558 232 Pseudanthias 
+452 833 518 877 Pseudanthias 
+1270 12 1341 57 Pseudanthias 

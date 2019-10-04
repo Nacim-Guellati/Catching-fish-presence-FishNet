@@ -1,0 +1,4 @@
+957 735 1391 951 Acanthurus_lineatus 
+1381 794 1514 880 Gomphosus_caeruleus_female 
+655 542 710 575 Nemateleotris_magnifica 
+256 300 310 377 Chromis_ternatensis 

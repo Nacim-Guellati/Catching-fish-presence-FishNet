@@ -1,0 +1,8 @@
+1437 310 1748 476 Pygoplites_diacanthus 
+510 210 645 310 Chaetodon_trifasciatus 
+1214 327 1332 400 Labrichthys_unilineatus 
+1601 657 1690 753 Plectroglyphidodon_dickii 
+862 697 1067 814 Plectroglyphidodon_lacrymatus 
+490 449 596 540 Plectroglyphidodon_lacrymatus 
+1349 4 1403 39 Pomacentrus_sulfureus 
+440 68 560 133 Labridae 

@@ -1,0 +1,7 @@
+1734 604 1879 663 Pseudanthias_squamipinnis_female 
+1438 460 1491 503 Pseudanthias_squamipinnis_female 
+1447 408 1501 484 Pseudanthias_squamipinnis_female 
+1465 5 1632 87 Naso_elegans 
+1404 601 1476 689 Acanthurus_lineatus 
+1447 391 1506 432 Chromis_dimidiata 
+129 581 246 640 Chromis_ternatensis 

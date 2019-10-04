@@ -1,0 +1,4 @@
+1451 651 1570 738 Zanclus_cornutus 
+997 642 1040 674 Abudefduf_vaigiensis 
+577 610 705 667 Gomphosus_caeruleus_male 
+224 543 354 653 Ctenochaetus_striatus 

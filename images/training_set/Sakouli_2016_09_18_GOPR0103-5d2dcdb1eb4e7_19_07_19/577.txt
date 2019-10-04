@@ -1,0 +1,5 @@
+234 198 431 423 Acanthurus_leucosternon 
+1543 870 1648 925 Pomacentrus_sulfureus 
+1593 696 1637 744 Pomacentrus_sulfureus 
+1309 839 1387 894 Pomacentrus_sulfureus 
+1019 231 1074 310 Amphiprion_sandaracinos 

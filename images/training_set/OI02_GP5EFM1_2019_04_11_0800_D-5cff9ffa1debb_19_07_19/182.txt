@@ -1,0 +1,5 @@
+684 244 783 301 Acanthurus_thompsoni 
+856 723 902 764 Chromis_dimidiata 
+499 696 560 741 Pseudanthias_squamipinnis_male 
+459 823 527 865 Paracirrhites_forsteri 
+447 315 550 395 Pseudanthias_bicolor 

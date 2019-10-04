@@ -1,0 +1,10 @@
+1052 304 1137 410 Chaetodon_trifasciatus 
+1505 283 1620 401 Chaetodon_kleinii 
+936 110 1121 199 Ctenochaetus_striatus 
+1719 281 1806 347 Ctenochaetus_striatus 
+1385 160 1460 245 Hemigymnus_fasciatus 
+246 4 324 122 Hemigymnus_fasciatus 
+350 584 477 676 Pomacentrus 
+1499 493 1602 692 Plectroglyphidodon_lacrymatus 
+1332 86 1380 143 Zebrasoma_rostratum 
+504 5 666 92 Scarus 

@@ -1,0 +1,8 @@
+862 99 1001 172 Ctenochaetus_striatus 
+260 24 392 83 Ctenochaetus_striatus 
+1021 629 1096 701 Myripristis_kuntee 
+1286 493 1537 577 Fistularia_commersonii 
+1138 639 1233 722 Zebrasoma_scopas 
+937 719 1065 812 Aethaloperca_rogaa 
+1771 134 1916 267 Monotaxis_grandoculis 
+1410 603 1458 663 Monotaxis_grandoculis 

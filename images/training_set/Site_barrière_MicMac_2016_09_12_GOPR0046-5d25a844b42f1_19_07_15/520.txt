@@ -1,0 +1,10 @@
+1310 406 1485 647 Ctenochaetus_striatus 
+727 0 853 97 Ctenochaetus_striatus 
+1152 676 1248 746 Myripristis_kuntee 
+1095 709 1141 771 Myripristis_kuntee 
+1476 551 1840 742 Fistularia_commersonii 
+1213 788 1270 838 Myripristis 
+1375 713 1535 817 Zebrasoma_scopas 
+858 777 926 812 Pseudanthias 
+942 729 1056 803 Aethaloperca_rogaa 
+1255 774 1485 891 Acanthurus_lineatus 

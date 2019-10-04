@@ -1,0 +1,12 @@
+1205 172 1307 228 Chromis_ternatensis 
+982 199 1016 242 Gomphosus_caeruleus_male 
+781 217 992 358 Pseudanthias_bicolor 
+196 103 232 133 Chromis_dimidiata 
+262 117 300 154 Chromis_dimidiata 
+449 124 474 160 Chromis_dimidiata 
+482 96 507 117 Chromis_dimidiata 
+1145 122 1184 154 Chromis_dimidiata 
+1377 128 1403 162 Chromis_dimidiata 
+1580 64 1620 104 Chromis_dimidiata 
+1808 138 1844 186 Chromis_dimidiata 
+1698 481 1906 605 Ctenochaetus_truncatus 

@@ -1,0 +1,4 @@
+215 28 277 62 Pomacentrus_sulfureus 
+743 661 806 706 Pomacentrus_sulfureus 
+86 242 151 323 Chaetodon_kleinii 
+1556 919 1603 948 Pomacentrus_sulfureus 

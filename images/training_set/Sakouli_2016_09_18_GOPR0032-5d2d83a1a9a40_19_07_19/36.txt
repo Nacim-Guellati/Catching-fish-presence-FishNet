@@ -1,0 +1,13 @@
+967 439 1119 525 Pomacentrus_sulfureus 
+474 219 612 287 Gomphosus_caeruleus_male 
+73 316 186 361 Gomphosus_caeruleus_female 
+1795 248 1877 292 Pomacentrus_sulfureus 
+676 44 730 80 Pomacentrus_sulfureus 
+801 241 860 298 Chaetodon_trifasciatus 
+354 348 442 399 Thalassoma_hebraicum 
+670 275 742 306 Thalassoma_hebraicum 
+1530 139 1649 216 Ctenochaetus_striatus 
+1073 351 1213 429 Ctenochaetus_striatus 
+1211 507 1360 603 Ctenochaetus_striatus 
+1435 208 1561 273 Scarus_sordidus_female 
+1197 220 1279 266 Balistapus_undulatus 

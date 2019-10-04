@@ -1,0 +1,6 @@
+709 160 1112 338 Acanthurus_dussumieri 
+503 299 901 473 Acanthurus_dussumieri 
+496 0 615 98 Sargocentron_cornutum 
+453 154 553 212 Balistapus_undulatus 
+1359 773 1432 816 Acanthurus_dussumieri 
+1339 813 1431 856 Acanthurus_dussumieri 

@@ -1,0 +1,4 @@
+1038 689 1167 794 Acanthurus_dussumieri 
+982 419 1178 564 Acanthurus_dussumieri 
+1179 353 1398 478 Acanthurus_dussumieri 
+1230 523 1395 658 Acanthurus_dussumieri 

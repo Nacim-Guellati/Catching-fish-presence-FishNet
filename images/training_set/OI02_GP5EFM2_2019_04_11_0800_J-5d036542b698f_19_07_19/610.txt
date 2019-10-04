@@ -1,0 +1,14 @@
+183 41 235 79 Chromis_dimidiata 
+622 100 648 134 Chromis_dimidiata 
+706 78 735 100 Chromis_dimidiata 
+726 96 755 124 Chromis_dimidiata 
+743 220 769 238 Chromis_dimidiata 
+1039 86 1076 114 Chromis_dimidiata 
+969 132 1006 162 Chromis_dimidiata 
+1646 245 1692 288 Chromis_dimidiata 
+1382 31 1412 70 Chromis_dimidiata 
+1174 508 1215 548 Chromis_dimidiata 
+1242 442 1293 498 Chromis_dimidiata 
+2 151 148 257 Naso_elegans 
+1768 89 1851 145 Acanthurus_thompsoni 
+413 103 525 240 Cetoscarus_ocellatus 

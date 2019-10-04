@@ -1,0 +1,10 @@
+1554 543 1747 615 Acanthurus_lineatus 
+726 459 790 504 Chromis_dimidiata 
+1045 587 1098 622 Chromis_dimidiata 
+644 596 713 625 Chromis_ternatensis 
+832 602 909 635 Chromis_ternatensis 
+910 563 966 594 Chromis_ternatensis 
+925 508 985 543 Chromis_ternatensis 
+1337 525 1392 563 Chromis_ternatensis 
+1377 529 1462 568 Chromis_ternatensis 
+1491 610 1622 675 Aethaloperca_rogaa 

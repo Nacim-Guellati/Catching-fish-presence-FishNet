@@ -1,0 +1,11 @@
+1230 301 1303 365 Oxymonacanthus_longirostris 
+1526 225 1612 285 Gomphosus_caeruleus_female 
+713 22 770 56 Pomacentrus_sulfureus 
+248 348 378 439 Labrichthys_unilineatus 
+628 419 722 476 Plectroglyphidodon_lacrymatus 
+797 427 920 575 Aethaloperca_rogaa 
+74 587 258 706 Aethaloperca_rogaa 
+747 154 847 195 Labridae 
+336 23 430 80 Ctenochaetus_striatus 
+48 0 132 34 Pomacentrus_sulfureus 
+764 1 832 45 Zebrasoma_scopas 

@@ -1,0 +1,13 @@
+398 384 483 424 Pseudanthias_bicolor_female 
+1845 666 1912 783 Pseudanthias_bicolor_female 
+107 583 207 632 Pseudanthias_bicolor_female 
+253 456 325 596 Pseudanthias_bicolor_female 
+1078 352 1121 397 Chromis 
+1802 1006 1852 1044 Chromis_dimidiata 
+768 782 793 802 Chromis_dimidiata 
+1402 299 1462 354 Pseudanthias 
+636 624 701 674 Pseudanthias 
+1696 3 1755 78 Pseudanthias 
+1276 114 1307 153 Pseudanthias 
+1357 134 1392 179 Pseudanthias 
+1440 588 1472 627 Pseudanthias 

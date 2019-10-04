@@ -1,0 +1,10 @@
+136 447 271 501 Chromis_dimidiata 
+1328 728 1404 788 Chromis_dimidiata 
+1247 1031 1291 1069 Chromis_dimidiata 
+905 671 935 696 Chromis_dimidiata 
+385 659 525 746 Ctenochaetus_striatus 
+327 271 404 315 Acanthurus_thompsoni 
+198 660 345 719 Pterocaesio 
+104 718 166 765 Chromis_lepidolepis 
+1012 708 1058 736 Chromis_lepidolepis 
+626 602 658 630 Pseudanthias_squamipinnis_male 

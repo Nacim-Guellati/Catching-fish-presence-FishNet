@@ -1,0 +1,5 @@
+98 187 205 250 Pygoplites_diacanthus 
+33 34 342 232 Caesio_lunaris 
+442 215 699 326 Caesio_lunaris 
+868 478 914 517 Amphiprion_sandaracinos 
+179 771 262 832 Ctenochaetus_striatus 

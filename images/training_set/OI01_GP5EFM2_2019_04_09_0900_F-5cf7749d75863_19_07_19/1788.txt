@@ -1,0 +1,3 @@
+791 801 1141 988 Acanthurus_lineatus 
+1425 829 1487 892 Gomphosus_caeruleus_female 
+647 548 700 580 Nemateleotris_magnifica 

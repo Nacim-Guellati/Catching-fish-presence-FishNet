@@ -1,0 +1,12 @@
+938 218 980 289 Pomacentrus_sulfureus 
+756 244 787 279 Pomacentrus_sulfureus 
+1063 184 1133 218 Chromis_viridis 
+1057 234 1107 272 Chromis_viridis 
+560 178 591 218 Chromis_viridis 
+621 147 680 187 Chromis_viridis 
+755 178 792 212 Chromis_viridis 
+813 252 858 291 Labroides_dimidiatus 
+571 257 607 286 Labroides_dimidiatus 
+778 262 807 291 Labroides_dimidiatus 
+536 201 598 246 Zebrasoma_rostratum 
+477 212 523 261 Zebrasoma_rostratum 

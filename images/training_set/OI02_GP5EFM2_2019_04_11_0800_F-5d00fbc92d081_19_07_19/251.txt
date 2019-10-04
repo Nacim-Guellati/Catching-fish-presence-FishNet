@@ -1,0 +1,5 @@
+1485 424 1789 564 Chromis_dimidiata 
+1486 202 1544 254 Chromis_dimidiata 
+1401 2 1440 37 Chromis_dimidiata 
+604 66 649 96 Chromis_dimidiata 
+545 61 586 94 Chromis_dimidiata 

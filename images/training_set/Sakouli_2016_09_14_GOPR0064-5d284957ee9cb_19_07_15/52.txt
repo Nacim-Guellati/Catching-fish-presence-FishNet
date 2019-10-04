@@ -1,0 +1,12 @@
+669 742 801 834 Pomacentrus_sulfureus 
+557 455 606 484 Pomacentrus_sulfureus 
+658 407 702 432 Pomacentrus_sulfureus 
+97 675 153 725 Chromis_dimidiata 
+116 342 175 399 Chromis_dimidiata 
+130 431 180 464 Chromis_dimidiata 
+303 371 349 401 Chromis_dimidiata 
+488 195 577 252 Amblyglyphidodon_indicus 
+1072 0 1183 94 Abudefduf_sparoides 
+223 592 269 620 Chromis_dimidiata 
+1629 705 1819 802 Ctenochaetus_striatus 
+541 515 611 550 Ctenochaetus_striatus 

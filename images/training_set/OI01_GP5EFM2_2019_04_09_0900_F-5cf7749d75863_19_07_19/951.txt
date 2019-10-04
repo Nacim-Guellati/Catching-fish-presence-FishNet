@@ -1,0 +1,7 @@
+554 523 594 552 Chromis_dimidiata 
+881 486 916 507 Chromis_dimidiata 
+861 563 894 592 Chromis_dimidiata 
+1788 876 1858 932 Chromis_dimidiata 
+1303 528 1377 606 Acanthurus_lineatus 
+1168 465 1256 505 Acanthurus_lineatus 
+1135 708 1325 841 unknown_fish 

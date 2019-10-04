@@ -1,0 +1,7 @@
+125 197 314 262 Thalassoma_hardwicke 
+1713 433 1869 497 Ctenochaetus_striatus 
+825 134 905 206 Ctenochaetus_striatus 
+1116 100 1200 143 Pomacentrus_sulfureus 
+1301 448 1391 497 Pomacentrus_sulfureus 
+675 89 758 139 Pomacentrus_sulfureus 
+1502 347 1712 469 Halichoeres 

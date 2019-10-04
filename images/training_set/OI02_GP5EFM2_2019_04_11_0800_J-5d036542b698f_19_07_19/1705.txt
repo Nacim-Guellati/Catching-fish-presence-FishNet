@@ -1,0 +1,10 @@
+1670 298 1901 422 Chromis_dimidiata 
+1406 272 1549 352 Chromis_dimidiata 
+1600 236 1674 273 Chromis_dimidiata 
+1483 247 1534 274 Chromis_dimidiata 
+744 84 774 131 Chromis_dimidiata 
+593 3 634 34 Chromis_dimidiata 
+333 84 370 119 Chromis_dimidiata 
+345 117 389 151 Chromis_dimidiata 
+1283 722 1328 799 Chromis_dimidiata 
+731 182 845 262 Zanclus_cornutus 

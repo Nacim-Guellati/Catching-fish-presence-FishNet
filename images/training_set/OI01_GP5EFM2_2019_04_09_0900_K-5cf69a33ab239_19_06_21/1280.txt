@@ -1,0 +1,7 @@
+1 537 101 593 Chromis_ternatensis 
+131 669 227 750 Chromis_ternatensis 
+4 405 106 465 Chromis_ternatensis 
+287 291 383 359 Chromis_ternatensis 
+672 45 713 89 Chromis_ternatensis 
+1124 228 1170 267 Chromis_ternatensis 
+1094 264 1247 384 Ctenochaetus_truncatus 

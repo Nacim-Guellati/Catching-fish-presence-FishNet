@@ -1,0 +1,8 @@
+1590 89 1871 182 Pseudanthias_squamipinnis_male 
+1509 625 1559 688 Chromis_dimidiata 
+1004 665 1046 695 Chromis_dimidiata 
+1239 975 1266 999 Chromis_dimidiata 
+1257 990 1277 1008 Chromis_dimidiata 
+1351 938 1377 961 Chromis_dimidiata 
+1159 626 1227 671 Ptereleotris_evides 
+967 607 1040 641 Ptereleotris_evides 

@@ -1,0 +1,4 @@
+1127 233 1216 288 Chromis_dimidiata 
+964 642 996 661 Chromis_dimidiata 
+475 541 539 581 Chromis_ternatensis 
+738 752 783 778 Nemateleotris_magnifica 

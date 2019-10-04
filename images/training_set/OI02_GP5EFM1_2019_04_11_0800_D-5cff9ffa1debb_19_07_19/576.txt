@@ -1,0 +1,6 @@
+219 349 360 442 Chromis_dimidiata 
+806 689 847 722 Chromis_dimidiata 
+1292 661 1387 717 Chromis_dimidiata 
+871 332 938 399 Carangidae 
+1380 410 1502 489 Pseudanthias_squamipinnis_female 
+378 597 504 649 Pseudanthias_bicolor 

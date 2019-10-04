@@ -1,0 +1,11 @@
+342 121 420 183 Pseudanthias_squamipinnis_male 
+107 141 176 227 Pseudanthias_squamipinnis_male 
+1120 370 1180 406 Pseudanthias_squamipinnis_female 
+1430 391 1485 424 Pseudanthias_squamipinnis_female 
+1574 436 1631 470 Pseudanthias_squamipinnis_female 
+1070 671 1272 772 Acanthurus_lineatus 
+803 476 850 505 Chromis_dimidiata 
+954 463 982 486 Chromis_dimidiata 
+1503 382 1539 415 Chromis_dimidiata 
+997 541 1024 564 Chromis_dimidiata 
+859 604 892 623 Chromis_dimidiata 

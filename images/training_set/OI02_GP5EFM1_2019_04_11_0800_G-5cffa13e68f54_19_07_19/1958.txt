@@ -1,0 +1,5 @@
+929 379 1070 448 Nemanthias_carberryi_male 
+507 713 544 756 Chromis_dimidiata 
+648 723 683 745 Chromis_dimidiata 
+1418 817 1452 849 Chromis_dimidiata 
+1786 826 1846 866 Chromis_dimidiata 

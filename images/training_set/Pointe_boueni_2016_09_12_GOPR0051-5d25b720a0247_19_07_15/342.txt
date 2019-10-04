@@ -1,0 +1,16 @@
+1115 181 1161 208 Pomacentrus_sulfureus 
+1187 424 1230 483 Pomacentrus_sulfureus 
+1757 481 1810 522 Pomacentrus_sulfureus 
+661 568 755 652 Pomacentrus_sulfureus 
+1221 389 1276 462 Plectroglyphidodon_dickii 
+1018 199 1083 263 Abudefduf_sparoides 
+1797 587 1850 672 Plectroglyphidodon_dickii 
+685 447 826 512 Ctenochaetus_striatus 
+1005 311 1115 402 Ctenochaetus_striatus 
+542 267 588 348 Ctenochaetus_striatus 
+1610 526 1661 597 Thalassoma_hardwicke 
+1377 218 1428 251 Chromis_lepidolepis 
+552 556 607 607 Thalassoma_hardwicke 
+1827 377 1883 417 Abudefduf_sparoides 
+1886 411 1916 453 Abudefduf_sparoides 
+1777 327 1842 366 Abudefduf_sparoides 

@@ -1,0 +1,6 @@
+1142 148 1185 176 Chromis_dimidiata 
+1239 188 1286 222 Chromis_dimidiata 
+1277 151 1328 181 Chromis_dimidiata 
+0 1 165 126 Zebrasoma_scopas 
+144 182 274 280 Zebrasoma_scopas 
+818 156 949 266 Arothron 

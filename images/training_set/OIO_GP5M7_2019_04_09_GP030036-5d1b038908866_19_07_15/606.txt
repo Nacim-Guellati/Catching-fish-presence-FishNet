@@ -1,0 +1,8 @@
+959 690 1047 748 Acanthurus_lineatus 
+1468 425 1512 484 Ctenochaetus_striatus 
+1512 374 1613 423 Serranidae 
+880 630 941 675 Chromis_dimidiata 
+1318 363 1347 386 Chromis_dimidiata 
+1289 408 1313 432 Chromis_dimidiata 
+1191 660 1228 729 Chromis_dimidiata 
+498 512 542 578 Chromis_ternatensis 

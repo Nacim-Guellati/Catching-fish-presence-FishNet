@@ -1,0 +1,13 @@
+571 58 602 83 Chromis_dimidiata 
+992 1 1023 23 Chromis_dimidiata 
+1083 146 1123 177 Chromis_dimidiata 
+1257 91 1302 131 Chromis_dimidiata 
+1432 19 1467 58 Chromis_dimidiata 
+974 247 1002 271 Chromis_dimidiata 
+878 254 906 274 Chromis_dimidiata 
+368 42 391 67 Chromis_dimidiata 
+266 51 287 71 Chromis_dimidiata 
+168 49 197 76 Chromis_dimidiata 
+297 69 322 92 Chromis_dimidiata 
+324 64 348 92 Chromis_dimidiata 
+1199 419 1232 452 Chromis_dimidiata 

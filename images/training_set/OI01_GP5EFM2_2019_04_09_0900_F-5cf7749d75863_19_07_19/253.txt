@@ -1,0 +1,9 @@
+1334 2 1433 53 Chromis_dimidiata 
+22 131 137 210 Chromis_ternatensis 
+580 333 615 394 Chromis_ternatensis 
+394 562 432 613 Chromis_ternatensis 
+872 98 926 133 Chromis_ternatensis 
+1017 918 1123 1045 Ctenochaetus_truncatus 
+1233 826 1457 1050 Ctenochaetus_truncatus 
+264 669 368 780 Ctenochaetus_truncatus 
+1696 987 1859 1076 unknown_fish 

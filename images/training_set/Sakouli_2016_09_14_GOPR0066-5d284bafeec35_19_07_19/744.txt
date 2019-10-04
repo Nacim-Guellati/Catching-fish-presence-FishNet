@@ -1,0 +1,8 @@
+1107 330 1324 430 Pygoplites_diacanthus 
+133 219 299 293 Pomacentrus_sulfureus 
+961 20 1013 71 Chaetodon_kleinii 
+1525 25 1569 58 Pomacentrus_sulfureus 
+1725 713 1750 774 Pomacentrus_sulfureus 
+632 83 713 135 Ctenochaetus_striatus 
+202 28 279 66 Ctenochaetus_striatus 
+318 51 380 94 Ctenochaetus_striatus 

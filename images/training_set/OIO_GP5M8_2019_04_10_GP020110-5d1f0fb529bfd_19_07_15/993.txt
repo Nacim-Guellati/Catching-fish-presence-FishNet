@@ -1,0 +1,7 @@
+513 292 911 464 Acanthurus_dussumieri 
+827 182 1175 344 Acanthurus_dussumieri 
+633 24 761 106 Sargocentron_cornutum 
+12 64 115 111 Chromis_dimidiata 
+1343 801 1390 856 Acanthurus_dussumieri 
+1402 765 1486 808 Acanthurus_dussumieri 
+1449 679 1543 731 Gunnellichthys_monostigma 

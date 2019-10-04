@@ -1,0 +1,5 @@
+1399 189 1452 232 Acanthurus_thompsoni 
+826 841 908 911 Chaetodon_guttatissimus 
+444 742 474 767 Chromis_dimidiata 
+917 974 1019 1046 Nemanthias_carberryi_male 
+277 919 438 986 Nemanthias_carberryi_female 

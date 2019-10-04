@@ -1,0 +1,13 @@
+1371 466 1506 545 Aethaloperca_rogaa 
+1690 354 1814 493 Acanthurus_thompsoni 
+890 990 959 1044 Chromis_dimidiata 
+494 860 545 903 Paracirrhites_forsteri 
+615 931 685 988 Nemanthias_carberryi_male 
+336 873 425 922 Pseudanthias_bicolor 
+354 847 423 874 Pseudanthias_bicolor 
+413 830 478 865 Pseudanthias_bicolor 
+250 827 315 862 Pseudanthias_bicolor 
+1276 870 1334 903 Pseudanthias_bicolor 
+1356 836 1412 858 Pseudanthias_bicolor 
+1041 985 1097 1044 Pseudanthias_squamipinnis_male 
+1122 917 1181 991 Thalassoma_lunare 

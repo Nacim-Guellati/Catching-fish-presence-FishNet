@@ -1,0 +1,8 @@
+1459 422 1509 479 Ctenochaetus_striatus 
+1503 363 1605 411 Serranidae 
+1159 562 1218 605 Chromis_dimidiata 
+892 566 918 609 Chromis_dimidiata 
+1300 384 1324 405 Chromis_dimidiata 
+1317 340 1338 361 Chromis_dimidiata 
+427 614 509 658 Chromis_ternatensis 
+171 605 241 649 Chromis_dimidiata 

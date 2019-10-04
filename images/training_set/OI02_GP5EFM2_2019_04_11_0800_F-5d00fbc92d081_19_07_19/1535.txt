@@ -1,0 +1,12 @@
+707 242 791 305 Chromis_dimidiata 
+1324 121 1424 189 Chromis_dimidiata 
+1744 67 1776 114 Chromis_dimidiata 
+1405 247 1448 279 Chromis_dimidiata 
+1803 264 1820 289 Chromis_dimidiata 
+1134 73 1165 93 Chromis_dimidiata 
+725 174 748 202 Chromis_dimidiata 
+752 194 775 214 Chromis_dimidiata 
+973 94 998 123 Chromis_dimidiata 
+1064 923 1165 974 Gomphosus_caeruleus_female 
+6 878 158 1006 Zebrasoma_rostratum 
+1742 698 1914 784 Zebrasoma_rostratum 

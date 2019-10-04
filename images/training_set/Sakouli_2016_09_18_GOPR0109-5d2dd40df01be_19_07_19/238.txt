@@ -1,0 +1,5 @@
+1773 83 1838 137 Ctenochaetus_striatus 
+669 133 909 248 Ctenochaetus_striatus 
+1560 290 1620 323 Pomacentrus_sulfureus 
+1190 191 1244 226 Zebrasoma_rostratum 
+1530 241 1589 286 Zebrasoma_rostratum 

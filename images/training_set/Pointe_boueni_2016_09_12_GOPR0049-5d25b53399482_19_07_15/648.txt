@@ -1,0 +1,5 @@
+603 168 680 223 Pomacentrus_sulfureus 
+674 286 772 354 Pomacentrus_sulfureus 
+452 450 533 506 Plectroglyphidodon_dickii 
+1094 392 1129 429 Plectroglyphidodon_dickii 
+1155 438 1245 493 Plectroglyphidodon_dickii 

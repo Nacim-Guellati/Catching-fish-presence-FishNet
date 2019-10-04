@@ -1,0 +1,7 @@
+838 713 979 818 Ctenochaetus_truncatus 
+225 728 354 798 Ctenochaetus_truncatus 
+624 320 986 463 Scarus_frenatus_male 
+1265 599 1339 663 Chaetodon_guttatissimus 
+206 646 255 686 Chromis_dimidiata 
+676 782 732 829 Nemateleotris_magnifica 
+1426 541 1507 588 Acanthurus_lineatus 

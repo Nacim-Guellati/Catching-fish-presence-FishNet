@@ -1,0 +1,7 @@
+109 143 178 215 Pomacentrus_sulfureus 
+2 400 46 463 Pomacentrus_sulfureus 
+13 247 282 409 Pomacentrus_sulfureus 
+475 0 622 34 Pomacentrus_sulfureus 
+525 524 753 651 Ctenochaetus_striatus 
+1722 394 1874 449 Gomphosus_caeruleus_female 
+1667 304 1757 366 Amblyglyphidodon_indicus 

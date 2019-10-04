@@ -1,0 +1,7 @@
+1043 596 1224 700 Balistapus_undulatus 
+1266 575 1387 665 Acanthurus_lineatus 
+533 205 581 238 Chromis_dimidiata 
+537 90 573 145 Chromis_dimidiata 
+211 228 253 263 Chromis_dimidiata 
+31 490 79 523 Chromis_dimidiata 
+1239 150 1325 204 Chromis_dimidiata 

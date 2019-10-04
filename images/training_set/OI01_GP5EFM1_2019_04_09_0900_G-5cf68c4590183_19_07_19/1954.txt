@@ -1,0 +1,10 @@
+975 518 1152 593 Acanthurus_lineatus 
+229 744 378 861 Ctenochaetus_striatus 
+1109 259 1197 318 Chromis_dimidiata 
+365 48 536 138 Chromis_dimidiata 
+874 484 971 526 Chromis_dimidiata 
+615 791 651 826 Chromis_dimidiata 
+740 899 805 947 Chromis_dimidiata 
+1306 615 1337 663 Chromis_dimidiata 
+1143 731 1182 766 Chromis_dimidiata 
+1441 814 1556 878 Centropyge_multispinis 

@@ -1,0 +1,6 @@
+1236 232 1293 295 Pomacentrus_sulfureus 
+1403 593 1458 668 Pomacentrus_sulfureus 
+899 650 975 692 Pomacentrus_sulfureus 
+1008 406 1113 517 Pygoplites_diacanthus 
+402 439 453 490 Pomacentrus_sulfureus 
+948 182 1005 233 Chaetodon 

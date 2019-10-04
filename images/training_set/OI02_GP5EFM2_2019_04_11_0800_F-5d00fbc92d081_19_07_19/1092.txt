@@ -1,0 +1,6 @@
+1372 188 1539 254 Thalassoma_lunare 
+813 143 847 166 Chromis_dimidiata 
+1171 113 1198 141 Chromis_dimidiata 
+1707 61 1768 109 Chromis_dimidiata 
+919 268 949 289 Chromis_dimidiata 
+1496 979 1859 1076 Parupeneus_trifasciatus 

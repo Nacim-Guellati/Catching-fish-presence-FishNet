@@ -1,0 +1,9 @@
+1250 295 1334 376 Chromis_dimidiata 
+1207 163 1253 195 Chromis_dimidiata 
+1498 89 1537 120 Chromis_dimidiata 
+822 222 854 246 Chromis_dimidiata 
+670 193 691 215 Chromis_dimidiata 
+550 78 588 102 Chromis_dimidiata 
+141 67 176 98 Chromis_dimidiata 
+67 205 108 224 Chromis_dimidiata 
+425 853 668 922 Halichoeres_hortulanus 

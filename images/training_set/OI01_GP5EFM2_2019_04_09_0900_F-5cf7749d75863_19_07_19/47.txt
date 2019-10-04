@@ -1,0 +1,5 @@
+794 816 1054 949 Acanthurus_lineatus 
+744 521 804 556 Nemateleotris_magnifica 
+646 473 699 512 Chromis_ternatensis 
+1119 958 1206 1003 unknown_fish 
+1403 353 1442 377 Chromis_dimidiata 

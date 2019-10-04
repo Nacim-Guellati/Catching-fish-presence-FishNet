@@ -1,0 +1,13 @@
+1349 220 1378 250 Chromis_dimidiata 
+1411 80 1455 104 Chromis_dimidiata 
+1007 22 1065 66 Chromis_dimidiata 
+839 45 870 73 Chromis_dimidiata 
+685 216 717 235 Chromis_dimidiata 
+1193 388 1352 467 Chromis_dimidiata 
+1711 180 1894 281 Chromis_dimidiata 
+1736 66 1780 106 Chromis_dimidiata 
+1531 280 1566 310 Chromis_dimidiata 
+1300 832 1425 904 Chromis_dimidiata 
+1403 422 1435 452 Chromis_dimidiata 
+1457 534 1485 569 Chromis_dimidiata 
+546 389 615 445 Chromis_xanthura 

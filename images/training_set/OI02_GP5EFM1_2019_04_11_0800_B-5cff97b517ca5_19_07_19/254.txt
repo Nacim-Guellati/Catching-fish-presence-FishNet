@@ -1,0 +1,5 @@
+270 0 436 131 Epinephelus_tukula 
+782 666 840 715 Chromis_dimidiata 
+828 634 866 664 Chromis_dimidiata 
+447 869 512 927 Chromis_dimidiata 
+1721 871 1851 951 Acanthurus_fowleri 

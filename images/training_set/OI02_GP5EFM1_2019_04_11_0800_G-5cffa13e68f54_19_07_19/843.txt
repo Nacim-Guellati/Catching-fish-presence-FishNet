@@ -1,0 +1,14 @@
+720 551 811 616 Chromis_dimidiata 
+879 566 951 613 Chromis_dimidiata 
+6 552 133 638 Chromis_dimidiata 
+1579 624 1656 701 Chromis_dimidiata 
+1574 394 1679 452 Chromis_dimidiata 
+1409 34 1571 152 Chromis_dimidiata 
+901 842 978 911 Chromis_lepidolepis 
+876 443 939 506 Chromis_lepidolepis 
+406 466 576 539 Pseudanthias_bicolor 
+5 172 273 346 Pseudanthias_bicolor 
+1228 159 1355 272 Pseudanthias_bicolor 
+1009 713 1084 744 Pseudanthias_bicolor 
+221 663 375 716 Pseudanthias_bicolor 
+159 836 270 948 Ctenochaetus_striatus 

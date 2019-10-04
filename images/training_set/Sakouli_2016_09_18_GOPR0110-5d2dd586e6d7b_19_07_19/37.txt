@@ -1,0 +1,15 @@
+272 461 348 562 Ctenochaetus_striatus 
+1302 68 1409 130 Ctenochaetus_striatus 
+594 352 761 449 Pomacentrus_sulfureus 
+555 356 612 412 Pomacentrus_sulfureus 
+222 352 378 433 Pomacentrus_sulfureus 
+23 458 83 512 Pomacentrus_sulfureus 
+920 595 998 659 Pomacentrus_sulfureus 
+735 512 810 550 Pomacentrus_sulfureus 
+1101 7 1149 55 Chromis_dimidiata 
+1301 164 1329 200 Chromis_dimidiata 
+306 253 339 277 Chromis_dimidiata 
+375 296 410 329 Chromis_dimidiata 
+248 208 287 239 Chromis_dimidiata 
+1086 440 1196 571 Amanses_scopas 
+381 703 522 823 Zebrasoma_rostratum 

@@ -1,0 +1,4 @@
+6 342 147 437 Pomacentrus_sulfureus 
+631 253 680 298 Chaetodon_trifasciatus 
+587 263 640 312 Chaetodon_trifasciatus 
+708 245 771 282 Oxymonacanthus_longirostris 

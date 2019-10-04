@@ -1,0 +1,7 @@
+1296 593 1376 657 Chaetodon_guttatissimus 
+754 418 848 475 Chaetodon_guttatissimus 
+1088 315 1217 384 Ctenochaetus_striatus 
+647 251 744 307 Ctenochaetus_striatus 
+335 55 446 125 Naso_elegans 
+598 263 630 284 Chromis_dimidiata 
+589 307 623 329 Chromis_dimidiata 

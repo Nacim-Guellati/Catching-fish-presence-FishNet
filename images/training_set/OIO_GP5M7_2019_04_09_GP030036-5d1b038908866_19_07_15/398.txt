@@ -1,0 +1,10 @@
+1379 243 1473 300 Chromis_dimidiata 
+1002 85 1034 119 Chromis_dimidiata 
+715 458 761 489 Chromis_dimidiata 
+514 382 552 422 Chromis_dimidiata 
+962 177 996 203 Chromis_dimidiata 
+89 104 149 138 Chromis_dimidiata 
+27 260 78 297 Chromis_dimidiata 
+629 252 652 280 Chromis_dimidiata 
+875 105 907 124 Chromis_dimidiata 
+1366 207 1631 344 Scaridae 

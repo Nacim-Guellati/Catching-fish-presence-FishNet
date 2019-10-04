@@ -1,0 +1,12 @@
+963 173 1027 223 Chromis_ternatensis 
+1328 18 1392 52 Chromis_ternatensis 
+1519 77 1577 119 Chromis_ternatensis 
+1721 172 1798 221 Chromis_ternatensis 
+1578 189 1643 219 Chromis_ternatensis 
+1051 172 1104 193 Chromis_ternatensis 
+1179 202 1224 228 Chromis_ternatensis 
+209 443 274 487 Chromis_ternatensis 
+602 687 641 727 Nemateleotris_magnifica 
+354 678 391 703 Chromis_dimidiata 
+19 662 59 692 Chromis_dimidiata 
+331 739 363 764 Chromis_dimidiata 

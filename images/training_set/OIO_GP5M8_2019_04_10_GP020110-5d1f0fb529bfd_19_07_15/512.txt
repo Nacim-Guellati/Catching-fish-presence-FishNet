@@ -1,0 +1,8 @@
+841 396 1129 520 Acanthurus_dussumieri 
+946 285 1217 410 Acanthurus_dussumieri 
+1067 484 1162 595 Acanthurus_dussumieri 
+1174 408 1289 528 Naso_elegans 
+649 152 936 323 Aethaloperca_rogaa 
+541 30 666 139 Aethaloperca_rogaa_juv 
+232 696 276 760 Chromis_dimidiata 
+1340 818 1457 871 Gunnellichthys_monostigma 

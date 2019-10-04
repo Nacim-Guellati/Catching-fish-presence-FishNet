@@ -1,0 +1,6 @@
+76 120 152 231 Pygoplites_diacanthus 
+478 0 630 344 Caesio_lunaris 
+5 455 411 752 Caesio_lunaris 
+2 351 239 493 Caesio_lunaris 
+119 294 317 401 Caesio_lunaris 
+113 675 176 758 Ctenochaetus_striatus 

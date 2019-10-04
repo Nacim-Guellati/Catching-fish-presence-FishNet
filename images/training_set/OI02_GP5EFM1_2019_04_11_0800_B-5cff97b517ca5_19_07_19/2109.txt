@@ -1,0 +1,5 @@
+1565 242 1784 357 Pseudanthias_squamipinnis_male 
+1512 464 1640 527 Acanthurus_thompsoni 
+1620 585 1722 639 Chromis_dimidiata 
+1041 775 1082 809 Chromis_dimidiata 
+606 269 708 402 Chromis_xanthura 

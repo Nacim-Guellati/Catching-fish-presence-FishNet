@@ -1,0 +1,11 @@
+186 799 289 902 Chromis_dimidiata 
+145 772 189 802 Chromis_dimidiata 
+488 753 519 781 Chromis_dimidiata 
+445 688 478 708 Chromis_dimidiata 
+685 712 711 741 Chromis_dimidiata 
+670 679 701 697 Chromis_dimidiata 
+959 641 991 673 Chromis_dimidiata 
+796 722 834 754 Chromis_dimidiata 
+814 862 860 891 Chromis_dimidiata 
+1444 672 1475 698 Chromis_dimidiata 
+1436 744 1504 807 Zanclus_cornutus 

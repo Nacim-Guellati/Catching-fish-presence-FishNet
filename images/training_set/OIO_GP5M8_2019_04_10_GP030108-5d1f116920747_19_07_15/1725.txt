@@ -1,0 +1,5 @@
+574 59 644 114 Chromis_dimidiata 
+729 77 760 100 Chromis_dimidiata 
+812 155 837 178 Chromis_dimidiata 
+1025 381 1052 405 Chromis_dimidiata 
+280 467 780 814 Scarus 

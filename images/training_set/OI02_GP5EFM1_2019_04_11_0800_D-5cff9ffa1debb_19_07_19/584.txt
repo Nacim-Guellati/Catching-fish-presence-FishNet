@@ -1,0 +1,9 @@
+194 469 318 531 Chromis_dimidiata 
+1347 704 1440 752 Chromis_dimidiata 
+1238 974 1292 1015 Chromis_dimidiata 
+907 301 1006 387 Pseudanthias_squamipinnis_female 
+417 698 544 767 Ctenochaetus_striatus 
+232 632 326 672 Pterocaesio 
+681 730 738 766 Chromis_lepidolepis 
+182 699 255 732 Chromis_lepidolepis 
+635 600 682 634 Pseudanthias_squamipinnis_male 

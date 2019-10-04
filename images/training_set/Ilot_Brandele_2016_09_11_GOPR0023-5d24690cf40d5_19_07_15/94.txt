@@ -1,0 +1,8 @@
+33 362 106 443 Pomacentrus_sulfureus 
+810 549 927 632 Plectroglyphidodon_dickii 
+1516 311 1660 374 Pomacentrus_caeruleus 
+893 329 966 389 Amblyglyphidodon_indicus 
+971 356 1076 411 Amblyglyphidodon_indicus 
+1448 637 1603 703 Thalassoma_hardwicke_female 
+638 406 702 433 Labroides_dimidiatus 
+549 394 645 467 Hemigymnus_fasciatus 

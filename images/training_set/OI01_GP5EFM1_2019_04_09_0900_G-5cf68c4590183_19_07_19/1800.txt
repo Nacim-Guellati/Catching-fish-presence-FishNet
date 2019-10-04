@@ -1,0 +1,8 @@
+717 362 856 424 Chromis_dimidiata 
+482 634 641 738 Chromis_dimidiata 
+967 579 1048 621 Chromis_dimidiata 
+1082 764 1172 828 Chromis_dimidiata 
+11 466 192 583 Ctenochaetus_striatus 
+1736 309 1872 474 Chromis_ternatensis 
+756 538 863 611 Thalassoma_hardwicke 
+1692 854 1913 986 Ctenochaetus_striatus 

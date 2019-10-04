@@ -1,0 +1,4 @@
+58 367 1141 873 Plectorhinchus_obscurus 
+776 83 1893 607 Plectorhinchus_obscurus 
+1092 534 1908 884 Plectorhinchus_obscurus 
+1083 872 1124 902 Chromis_dimidiata 

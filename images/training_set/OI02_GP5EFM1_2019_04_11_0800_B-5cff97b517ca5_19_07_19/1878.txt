@@ -1,0 +1,5 @@
+1219 702 1288 757 Chromis_dimidiata 
+14 925 226 1029 Thalassoma_lunare 
+463 825 515 862 Paracirrhites_forsteri 
+1329 640 1410 695 Acanthurus_thompsoni 
+925 714 1009 764 Balistapus_undulatus 

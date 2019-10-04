@@ -1,0 +1,6 @@
+1067 337 1174 434 Nemanthias_carberryi_male 
+516 700 546 740 Chromis_dimidiata 
+942 812 988 836 Chromis_dimidiata 
+1410 782 1452 830 Chromis_dimidiata 
+1069 587 1104 612 Chromis_dimidiata 
+1283 986 1378 1060 Pseudocheilinus_hexataenia 

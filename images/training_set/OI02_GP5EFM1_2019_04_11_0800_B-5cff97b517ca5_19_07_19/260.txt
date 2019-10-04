@@ -1,0 +1,5 @@
+384 702 444 750 Chromis_dimidiata 
+226 864 310 906 Chromis_dimidiata 
+698 756 731 781 Chromis_dimidiata 
+702 681 729 701 Chromis_dimidiata 
+950 671 972 696 Chromis_dimidiata 

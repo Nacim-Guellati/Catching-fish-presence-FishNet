@@ -1,0 +1,9 @@
+539 266 674 428 Zebrasoma_rostratum 
+263 136 429 280 Zebrasoma_rostratum 
+1616 419 1887 532 Ctenochaetus_striatus 
+1659 475 1835 560 Ctenochaetus_striatus 
+1172 718 1328 869 Plectroglyphidodon_dickii 
+467 988 644 1055 Plectroglyphidodon_dickii 
+279 479 362 508 Thalassoma_hardwicke 
+0 443 72 500 Pomacentrus_sulfureus 
+212 458 290 514 Pomacentrus_sulfureus 

@@ -1,0 +1,14 @@
+392 358 559 452 Chromis_dimidiata 
+921 43 956 71 Chromis_dimidiata 
+1096 262 1164 337 Chromis_dimidiata 
+741 176 771 203 Chromis_dimidiata 
+248 58 303 88 Chromis_dimidiata 
+1368 33 1397 64 Chromis_dimidiata 
+1782 46 1846 96 Chromis_dimidiata 
+1481 611 1624 713 Chromis_dimidiata 
+508 19 543 44 Chromis_dimidiata 
+629 0 668 23 Chromis_dimidiata 
+1292 147 1316 169 Chromis_dimidiata 
+1484 273 1511 294 Chromis_dimidiata 
+1194 93 1216 113 Chromis_dimidiata 
+7 587 338 776 Aethaloperca_rogaa 

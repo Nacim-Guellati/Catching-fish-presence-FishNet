@@ -1,0 +1,5 @@
+1164 137 1251 199 Thalassoma_hardwicke 
+1686 47 1812 113 Thalassoma_hardwicke 
+956 380 1100 452 Pomacentrus_sulfureus 
+8 454 72 577 Pomacentrus_sulfureus 
+1857 262 1908 298 Ctenochaetus_striatus 

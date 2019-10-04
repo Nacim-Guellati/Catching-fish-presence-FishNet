@@ -1,0 +1,7 @@
+847 404 993 487 Pseudanthias_squamipinnis_male 
+758 382 829 446 Pseudanthias_squamipinnis_female 
+1374 623 1502 676 Pseudanthias_squamipinnis_female 
+1453 573 1548 622 Pseudanthias_squamipinnis_female 
+1323 866 1785 1076 Ctenochaetus_truncatus 
+1501 658 1625 727 Acanthurus_lineatus 
+1480 531 1533 587 Chromis_dimidiata 

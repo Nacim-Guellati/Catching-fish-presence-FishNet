@@ -1,0 +1,7 @@
+546 705 581 731 Chromis_dimidiata 
+702 693 736 719 Chromis_dimidiata 
+967 609 999 641 Chromis_dimidiata 
+1478 823 1524 867 Chromis_dimidiata 
+1777 777 1848 823 Chromis_dimidiata 
+1470 945 1514 982 Chromis_dimidiata 
+1478 910 1592 994 Pseudocheilinus_hexataenia 

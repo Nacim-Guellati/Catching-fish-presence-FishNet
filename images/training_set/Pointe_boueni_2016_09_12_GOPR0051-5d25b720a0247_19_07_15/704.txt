@@ -1,0 +1,11 @@
+1530 414 1592 467 Pomacentrus_sulfureus 
+327 761 476 838 Pomacentrus_sulfureus 
+287 422 336 462 Pomacentrus_sulfureus 
+1456 341 1503 371 Pomacentrus_sulfureus 
+687 146 768 189 Ctenochaetus_striatus 
+1340 293 1388 319 Ctenochaetus_striatus 
+851 633 978 801 Ctenochaetus_striatus 
+808 384 873 453 Ctenochaetus_striatus 
+1727 611 1842 688 Plectroglyphidodon_dickii 
+1158 413 1246 467 Plectroglyphidodon_dickii 
+1558 544 1678 582 Gomphosus_caeruleus_female 

@@ -1,0 +1,11 @@
+988 118 1063 248 Ctenochaetus_striatus 
+1005 609 1092 694 Myripristis_kuntee 
+822 747 892 804 Myripristis_kuntee 
+1297 861 1342 908 Myripristis_kuntee 
+1010 692 1085 759 Myripristis 
+883 708 951 737 Pseudanthias 
+911 717 1063 806 Aethaloperca_rogaa 
+1596 1 1907 72 Monotaxis_grandoculis 
+1186 407 1285 497 Novaculichthys_taeniourus 
+1298 571 1383 621 Zebrasoma_scopas 
+1803 608 1851 636 Ctenochaetus_striatus 

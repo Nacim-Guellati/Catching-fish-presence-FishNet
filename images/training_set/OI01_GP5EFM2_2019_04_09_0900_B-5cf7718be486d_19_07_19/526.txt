@@ -1,0 +1,4 @@
+1536 604 1704 709 Acanthurus_lineatus 
+1201 753 1417 951 Chaetodon_auriga 
+806 819 853 861 Nemateleotris_magnifica 
+1429 621 1518 666 Chromis_ternatensis 

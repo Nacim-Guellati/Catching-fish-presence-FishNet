@@ -1,0 +1,12 @@
+1023 549 1098 588 Chromis_dimidiata 
+1282 577 1364 645 Ctenochaetus_striatus 
+692 394 749 443 Ctenochaetus_striatus 
+1244 731 1316 801 Chaetodon_guttatissimus 
+1428 808 1506 900 Chaetodon_guttatissimus 
+416 398 489 459 Chromis_ternatensis 
+63 414 170 457 Chromis_ternatensis 
+187 214 250 237 Chromis_ternatensis 
+969 778 1025 838 Chromis_ternatensis 
+854 652 910 679 Chromis_ternatensis 
+633 287 689 313 Thalassoma_amblycephalum_juv 
+739 644 805 711 Acanthurus_lineatus 

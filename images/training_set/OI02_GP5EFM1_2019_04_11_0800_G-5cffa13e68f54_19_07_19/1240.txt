@@ -1,0 +1,3 @@
+566 463 629 531 Acanthurus_thompsoni 
+843 506 935 584 Acanthurus_thompsoni 
+494 861 547 893 Paracirrhites_forsteri 

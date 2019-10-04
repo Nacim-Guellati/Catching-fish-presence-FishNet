@@ -1,0 +1,7 @@
+1130 740 1210 787 Chromis_dimidiata 
+1125 903 1163 945 Chromis_dimidiata 
+164 842 209 868 Chromis_dimidiata 
+1602 303 1773 382 Pseudanthias_squamipinnis_female 
+1798 284 1911 369 Pseudanthias_squamipinnis_female 
+457 817 523 868 Paracirrhites_forsteri 
+522 991 633 1063 Ctenochaetus_striatus 

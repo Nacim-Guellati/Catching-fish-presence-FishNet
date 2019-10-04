@@ -1,0 +1,11 @@
+606 547 693 692 Pseudanthias_squamipinnis_female 
+791 591 910 656 Pseudanthias_squamipinnis_female 
+878 726 933 802 Pseudanthias_squamipinnis_female 
+943 982 1011 1033 Pseudanthias_squamipinnis_female 
+626 914 693 963 Pseudanthias_squamipinnis_female 
+163 906 333 1008 Carangoides 
+142 567 320 648 Pseudanthias 
+91 834 166 901 Pseudanthias 
+1406 292 1435 362 Pseudanthias 
+1652 547 1680 594 Pseudanthias 
+956 797 1020 847 Chromis_dimidiata 

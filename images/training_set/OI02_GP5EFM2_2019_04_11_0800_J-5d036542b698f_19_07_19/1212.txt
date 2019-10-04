@@ -1,0 +1,10 @@
+453 201 602 287 Chromis_dimidiata 
+506 524 607 572 Chromis_dimidiata 
+1559 12 1665 105 Chromis_dimidiata 
+1720 154 1776 204 Chromis_dimidiata 
+1498 244 1541 277 Chromis_dimidiata 
+1478 201 1511 227 Chromis_dimidiata 
+1551 208 1575 231 Chromis_dimidiata 
+1358 120 1393 152 Chromis_dimidiata 
+1310 145 1333 166 Chromis_dimidiata 
+1208 541 1243 564 Chromis_dimidiata 

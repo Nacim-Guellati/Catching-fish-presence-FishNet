@@ -1,0 +1,11 @@
+929 537 985 599 Chromis_dimidiata 
+96 633 144 674 Chromis_dimidiata 
+253 231 349 271 Chromis_ternatensis 
+821 264 899 299 Chromis_ternatensis 
+850 283 951 357 Chromis_ternatensis 
+1143 254 1213 296 Chromis_ternatensis 
+1100 351 1144 382 Chromis_ternatensis 
+784 439 844 483 Chromis_ternatensis 
+249 947 334 987 Chromis_ternatensis 
+724 612 776 663 Nemateleotris_magnifica 
+554 614 656 664 Acanthurus_lineatus 

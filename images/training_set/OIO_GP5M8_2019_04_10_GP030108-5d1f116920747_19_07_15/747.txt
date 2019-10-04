@@ -1,0 +1,8 @@
+328 514 482 612 Chaetodon_guttatissimus 
+495 577 651 697 Chaetodon_guttatissimus 
+421 104 511 158 Acanthurus_lineatus 
+357 125 442 189 Ctenochaetus_striatus 
+548 35 580 58 Chromis_dimidiata 
+931 142 969 182 Chromis_dimidiata 
+760 202 787 230 Chromis_dimidiata 
+1464 575 1515 621 Chromis_dimidiata 

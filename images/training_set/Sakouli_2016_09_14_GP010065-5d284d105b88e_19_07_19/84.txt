@@ -1,0 +1,8 @@
+1259 92 1323 133 Chromis_dimidiata 
+444 161 478 210 Chromis_dimidiata 
+902 350 998 402 Pomacentrus_sulfureus 
+960 198 1031 267 Chaetodon_trifasciatus 
+1029 173 1103 249 Chaetodon_trifasciatus 
+298 72 441 143 Thalassoma_hardwicke 
+341 95 510 181 Arothron 
+783 243 827 272 Chromis_dimidiata 

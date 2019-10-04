@@ -1,0 +1,5 @@
+1066 687 1201 809 Acanthurus_lineatus 
+912 295 1242 466 Acanthurus_lineatus 
+595 604 668 705 Acanthurus_lineatus 
+0 594 125 660 Halichoeres_hortulanus 
+795 877 863 914 Chromis_dimidiata 

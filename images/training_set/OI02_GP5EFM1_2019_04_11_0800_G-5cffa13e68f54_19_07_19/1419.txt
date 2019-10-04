@@ -1,0 +1,5 @@
+678 836 848 919 Nemanthias_carberryi_male 
+944 852 1074 926 Nemanthias_carberryi_male 
+1058 901 1158 949 Nemanthias_carberryi_male 
+1058 1024 1166 1071 Nemanthias_carberryi_male 
+947 1033 1006 1069 Pseudanthias_squamipinnis_male 

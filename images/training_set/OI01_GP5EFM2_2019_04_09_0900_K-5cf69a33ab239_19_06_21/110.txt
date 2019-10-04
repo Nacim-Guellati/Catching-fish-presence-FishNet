@@ -1,0 +1,10 @@
+504 797 567 922 Ctenochaetus_truncatus 
+824 859 1004 1021 Ctenochaetus_truncatus 
+1125 919 1329 1074 Ctenochaetus_truncatus 
+1182 706 1478 835 Acanthurus_lineatus 
+1466 802 1776 977 Acanthurus_lineatus 
+1545 652 1917 963 Acanthurus_lineatus 
+548 636 575 664 Chromis_dimidiata 
+797 607 826 640 Chromis_dimidiata 
+1003 383 1073 438 Chromis_ternatensis 
+1575 452 1646 475 Chromis_ternatensis 

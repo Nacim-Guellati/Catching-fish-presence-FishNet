@@ -1,0 +1,9 @@
+1215 331 1358 425 Chaetodon_trifasciatus 
+1349 140 1466 266 Chaetodon_kleinii 
+1482 235 1601 365 Pomacentrus_sulfureus 
+1050 0 1097 39 Ctenochaetus_striatus 
+1700 179 1887 313 Ctenochaetus_striatus 
+585 4 683 53 Hemigymnus_fasciatus 
+116 395 296 505 Thalassoma_hardwicke 
+1517 527 1709 736 Plectroglyphidodon_lacrymatus 
+954 107 1049 179 Scarus 

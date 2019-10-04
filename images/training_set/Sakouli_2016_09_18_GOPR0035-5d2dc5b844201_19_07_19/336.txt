@@ -1,0 +1,13 @@
+995 95 1139 205 Ctenochaetus_striatus 
+615 91 701 139 Ctenochaetus_striatus 
+887 146 992 218 Ctenochaetus_striatus 
+1203 304 1283 367 Pomacentrus_sulfureus 
+413 146 482 220 Pomacentrus_sulfureus 
+999 179 1079 248 Chaetodon_auriga 
+1080 272 1145 371 Chaetodon_trifasciatus 
+1686 94 1784 173 Arothron 
+689 104 804 151 Thalassoma_hardwicke 
+1271 109 1316 151 Pomacentrus_sulfureus 
+408 16 512 65 Arothron 
+827 53 884 85 Arothron 
+54 4 122 58 Heniochus 

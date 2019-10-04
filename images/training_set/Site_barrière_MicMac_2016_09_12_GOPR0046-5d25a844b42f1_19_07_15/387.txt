@@ -1,0 +1,5 @@
+968 709 1041 774 Ctenochaetus_striatus 
+861 440 1059 643 Ctenochaetus_striatus 
+509 551 782 669 Ctenochaetus_striatus 
+1108 837 1206 973 Zebrasoma_scopas 
+1743 855 1917 949 Monotaxis_grandoculis 

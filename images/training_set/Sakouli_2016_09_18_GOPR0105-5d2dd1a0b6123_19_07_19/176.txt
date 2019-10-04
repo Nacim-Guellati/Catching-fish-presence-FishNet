@@ -1,0 +1,7 @@
+965 418 1142 592 Zanclus_cornutus 
+638 647 918 838 Ctenochaetus_striatus 
+1704 389 1836 494 Pomacentrus_sulfureus 
+885 668 935 715 Pomacentrus_sulfureus 
+441 209 486 254 Pomacentrus_sulfureus 
+633 197 684 263 Chaetodon 
+510 491 552 565 Chaetodon 

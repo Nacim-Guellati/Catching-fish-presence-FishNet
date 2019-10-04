@@ -1,0 +1,7 @@
+133 363 198 442 Pomacentrus_sulfureus 
+11 521 206 598 Ctenochaetus_striatus 
+815 564 916 633 Plectroglyphidodon_dickii 
+1665 297 1800 343 Pomacentrus_caeruleus 
+968 362 1061 414 Amblyglyphidodon_indicus 
+881 362 951 416 Amblyglyphidodon_indicus 
+597 391 703 457 Hemigymnus_fasciatus 

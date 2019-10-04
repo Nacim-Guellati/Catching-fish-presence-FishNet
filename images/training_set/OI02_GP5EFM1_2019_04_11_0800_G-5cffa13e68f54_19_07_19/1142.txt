@@ -1,0 +1,8 @@
+1338 482 1461 557 Aethaloperca_rogaa 
+490 862 545 895 Paracirrhites_forsteri 
+763 728 822 768 Ctenochaetus_striatus 
+126 810 207 837 Pseudanthias_bicolor 
+594 667 646 696 Pseudanthias_bicolor 
+570 739 628 774 Pseudanthias_bicolor 
+866 718 926 750 Pseudanthias_bicolor 
+933 722 975 761 Pseudanthias_bicolor 

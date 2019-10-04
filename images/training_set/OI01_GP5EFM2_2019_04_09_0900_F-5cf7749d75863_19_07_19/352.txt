@@ -1,0 +1,11 @@
+1674 837 1911 1044 Acanthurus_lineatus 
+1175 834 1555 1009 Ctenochaetus_truncatus 
+288 757 440 871 Ctenochaetus_truncatus 
+1389 766 1565 863 Gomphosus_caeruleus_male 
+945 819 1108 912 Epinephelus_rivulatus 
+435 693 541 733 Chromis_ternatensis 
+590 504 630 541 Chromis_dimidiata 
+1566 488 1610 516 Chromis_dimidiata 
+1725 442 1761 472 Chromis_dimidiata 
+755 569 789 594 Chromis_dimidiata 
+825 498 854 531 Chromis_dimidiata 

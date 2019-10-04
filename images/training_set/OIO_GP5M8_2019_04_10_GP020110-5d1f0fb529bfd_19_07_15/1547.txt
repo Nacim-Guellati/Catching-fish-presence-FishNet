@@ -1,0 +1,4 @@
+1032 686 1196 790 Acanthurus_dussumieri 
+1157 556 1421 686 Acanthurus_dussumieri 
+1003 463 1197 596 Acanthurus_dussumieri 
+1214 353 1427 488 Acanthurus_dussumieri 

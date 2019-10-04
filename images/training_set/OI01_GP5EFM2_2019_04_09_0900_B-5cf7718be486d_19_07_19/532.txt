@@ -1,0 +1,7 @@
+833 676 1022 783 Acanthurus_lineatus 
+1392 556 1603 646 Acanthurus_lineatus 
+894 828 1124 984 Chaetodon_auriga 
+1579 779 1784 939 Chaetodon_auriga 
+1106 518 1202 582 Chromis_ternatensis 
+819 627 851 647 Chromis_dimidiata 
+637 604 661 627 Chromis_dimidiata 

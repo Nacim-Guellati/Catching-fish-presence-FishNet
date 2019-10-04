@@ -1,0 +1,8 @@
+905 775 1401 1010 Acanthurus_lineatus 
+151 293 283 349 Chromis_dimidiata 
+289 535 343 575 Chromis_dimidiata 
+205 603 258 629 Chromis_dimidiata 
+894 513 925 544 Chromis_dimidiata 
+941 532 979 569 Chromis_dimidiata 
+660 663 714 701 Nemateleotris_magnifica 
+1473 1013 1573 1054 Plectroglyphidodon_johnstonianus 

@@ -1,0 +1,17 @@
+626 271 669 298 Chromis_dimidiata 
+629 235 665 265 Chromis_dimidiata 
+359 5 404 35 Chromis_dimidiata 
+44 89 108 140 Chromis_dimidiata 
+390 266 494 311 Chromis_dimidiata 
+914 238 951 265 Chromis_dimidiata 
+951 208 978 229 Chromis_dimidiata 
+1080 391 1136 425 Chromis_dimidiata 
+773 352 819 379 Chromis_dimidiata 
+680 55 711 80 Chromis_dimidiata 
+1080 86 1194 208 Centropyge 
+905 319 980 371 Pomacentrus_sulfureus 
+1172 274 1229 310 Pomacentrus_sulfureus 
+672 557 758 638 Pomacentrus_sulfureus 
+135 1 258 68 Pomacentrus_sulfureus 
+192 541 264 610 Chaetodon_guttatissimus 
+669 449 767 506 Plectroglyphidodon_dickii 

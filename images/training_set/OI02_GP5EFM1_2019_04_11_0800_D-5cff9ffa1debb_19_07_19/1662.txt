@@ -1,0 +1,4 @@
+480 759 545 807 Chromis_dimidiata 
+1137 728 1181 754 Chromis_dimidiata 
+1456 284 1529 331 Chromis_dimidiata 
+821 707 846 731 Chromis_dimidiata 

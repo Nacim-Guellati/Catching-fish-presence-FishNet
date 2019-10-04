@@ -1,0 +1,9 @@
+1596 383 1775 649 Chaetodon_falcula 
+1265 295 1356 362 Thalassoma_hardwicke 
+1784 263 1917 323 Thalassoma_hardwicke 
+783 341 858 382 Thalassoma_hardwicke 
+449 269 590 334 Thalassoma_hardwicke 
+473 665 558 749 Pomacentrus_sulfureus 
+0 808 252 968 Pomacentrus_sulfureus 
+486 406 524 454 Pomacentrus_sulfureus 
+1734 538 1871 637 Plectroglyphidodon_dickii 

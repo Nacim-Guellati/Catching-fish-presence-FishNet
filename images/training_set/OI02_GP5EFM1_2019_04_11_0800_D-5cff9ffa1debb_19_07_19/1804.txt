@@ -1,0 +1,5 @@
+845 753 879 790 Chromis_dimidiata 
+1113 515 1146 549 Chromis_dimidiata 
+1827 821 1891 861 Chromis_dimidiata 
+337 949 547 1074 Gomphosus_caeruleus_male 
+1046 72 1152 167 Pseudanthias_squamipinnis_female 

@@ -1,0 +1,4 @@
+1384 502 1522 592 Pseudanthias_squamipinnis_female 
+1525 460 1632 552 Pseudanthias_squamipinnis_female 
+1345 549 1442 624 Acanthurus_lineatus 
+1508 425 1577 464 Chromis_dimidiata 

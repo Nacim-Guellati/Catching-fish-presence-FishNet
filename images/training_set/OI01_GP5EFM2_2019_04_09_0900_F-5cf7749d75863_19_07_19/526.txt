@@ -1,0 +1,6 @@
+504 646 701 758 Plectropomus_laevis 
+1022 482 1243 562 Scarus_frenatus_male 
+157 877 386 982 Ctenochaetus_truncatus 
+906 808 948 851 Chromis_dimidiata 
+1037 759 1079 803 Chromis_dimidiata 
+903 622 932 647 Chromis_dimidiata 

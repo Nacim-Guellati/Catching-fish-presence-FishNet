@@ -1,0 +1,7 @@
+330 566 575 703 Pomacentrus_sulfureus 
+486 228 556 272 Pomacentrus_sulfureus 
+1238 130 1290 165 Pomacentrus_sulfureus 
+1723 140 1801 181 Pomacentrus_sulfureus 
+1864 355 1916 396 Pomacentrus_sulfureus 
+667 212 726 268 Ctenochaetus_striatus 
+1047 174 1110 230 Zebrasoma_scopas 

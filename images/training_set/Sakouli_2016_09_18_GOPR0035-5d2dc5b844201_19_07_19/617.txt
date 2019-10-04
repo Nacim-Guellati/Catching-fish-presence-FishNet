@@ -1,0 +1,8 @@
+1128 324 1205 395 Oxymonacanthus_longirostris 
+985 304 1080 358 Oxymonacanthus_longirostris 
+1812 195 1885 245 Gomphosus_caeruleus_female 
+10 433 403 560 Gomphosus_caeruleus_male 
+1516 110 1580 140 Pomacentrus_sulfureus 
+671 358 846 456 Aethaloperca_rogaa 
+218 65 311 110 Labridae 
+545 0 610 43 Zebrasoma_scopas 

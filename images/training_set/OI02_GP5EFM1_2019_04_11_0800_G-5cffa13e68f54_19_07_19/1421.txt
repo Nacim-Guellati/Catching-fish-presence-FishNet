@@ -1,0 +1,9 @@
+1301 159 1389 199 Acanthurus_thompsoni 
+626 879 714 949 Chaetodon_guttatissimus 
+1059 866 1168 942 Nemanthias_carberryi_male 
+1177 964 1256 1042 Nemanthias_carberryi_male 
+491 933 662 1013 Nemanthias_carberryi_male 
+1271 967 1356 1067 Nemanthias_carberryi_male 
+59 709 283 788 Pseudanthias_bicolor 
+757 938 896 997 Nemanthias_carberryi_female 
+951 1017 1011 1056 Pseudanthias_squamipinnis_male 

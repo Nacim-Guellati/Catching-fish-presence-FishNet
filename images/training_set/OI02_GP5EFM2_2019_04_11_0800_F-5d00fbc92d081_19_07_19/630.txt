@@ -1,0 +1,10 @@
+1587 143 1634 173 Chromis_dimidiata 
+832 82 861 113 Chromis_dimidiata 
+677 38 706 66 Chromis_dimidiata 
+1346 202 1373 222 Chromis_dimidiata 
+1013 183 1038 206 Chromis_dimidiata 
+396 126 423 147 Chromis_dimidiata 
+366 53 394 77 Chromis_dimidiata 
+1392 298 1413 321 Chromis_dimidiata 
+1200 338 1314 409 Chromis_ternatensis 
+647 190 693 277 Naso_elegans 

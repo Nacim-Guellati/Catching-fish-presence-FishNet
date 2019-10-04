@@ -1,0 +1,12 @@
+753 801 808 861 Chromis_dimidiata 
+28 127 305 252 Chromis_dimidiata 
+220 38 241 62 Chromis_dimidiata 
+430 58 460 79 Chromis_dimidiata 
+466 84 508 114 Chromis_dimidiata 
+735 32 789 73 Chromis_dimidiata 
+740 141 766 179 Chromis_dimidiata 
+720 196 760 223 Chromis_dimidiata 
+795 187 825 207 Chromis_dimidiata 
+1510 3 1588 53 Chromis_dimidiata 
+1106 443 1191 501 Chromis_ternatensis 
+1570 54 1726 206 Pseudanthias_bicolor 

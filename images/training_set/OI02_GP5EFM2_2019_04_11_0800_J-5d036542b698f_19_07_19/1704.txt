@@ -1,0 +1,13 @@
+1521 451 1719 556 Chromis_dimidiata 
+1183 296 1349 397 Chromis_dimidiata 
+1708 276 1788 309 Chromis_dimidiata 
+1615 236 1691 284 Chromis_dimidiata 
+1473 243 1536 281 Chromis_dimidiata 
+910 191 954 239 Chromis_dimidiata 
+725 21 796 68 Chromis_dimidiata 
+368 82 413 131 Chromis_dimidiata 
+331 71 358 96 Chromis_dimidiata 
+31 194 95 237 Chromis_dimidiata 
+1330 259 1439 381 Aethaloperca_rogaa 
+779 108 831 174 Lutjanus_gibbus 
+800 186 900 258 Zanclus_cornutus 

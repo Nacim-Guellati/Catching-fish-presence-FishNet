@@ -1,0 +1,16 @@
+440 733 575 840 Acanthurus_lineatus 
+998 803 1133 922 Ctenochaetus_truncatus 
+1198 938 1358 1025 Ctenochaetus_truncatus 
+727 804 849 904 Ctenochaetus_truncatus 
+1105 320 1163 375 Acanthurus_lineatus 
+1200 465 1260 500 Chromis_dimidiata 
+1024 431 1075 463 Chromis_dimidiata 
+1570 651 1606 679 Chromis_dimidiata 
+1278 670 1311 696 Chromis_dimidiata 
+711 384 742 406 Chromis_dimidiata 
+89 268 130 293 Chromis_dimidiata 
+1310 882 1764 1073 Halichoeres_hortulanus 
+1336 533 1410 609 Chromis_ternatensis 
+520 508 581 536 Chromis_ternatensis 
+1704 374 1777 425 Pseudanthias_squamipinnis_male 
+810 287 868 333 Pseudanthias_squamipinnis_male 

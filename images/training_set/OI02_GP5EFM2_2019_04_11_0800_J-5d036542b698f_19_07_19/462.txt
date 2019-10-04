@@ -1,0 +1,12 @@
+1096 172 1203 274 Chromis_dimidiata 
+1274 742 1399 817 Chromis_dimidiata 
+1082 81 1125 114 Chromis_dimidiata 
+1421 35 1472 63 Chromis_dimidiata 
+1419 161 1445 189 Chromis_dimidiata 
+1493 231 1538 278 Chromis_dimidiata 
+1702 298 1914 400 Chromis_dimidiata 
+678 64 712 90 Chromis_dimidiata 
+1708 315 1754 347 Chromis_dimidiata 
+1372 338 1403 358 Chromis_dimidiata 
+1326 177 1352 202 Chromis_dimidiata 
+1278 902 1513 983 Gomphosus_caeruleus_male 

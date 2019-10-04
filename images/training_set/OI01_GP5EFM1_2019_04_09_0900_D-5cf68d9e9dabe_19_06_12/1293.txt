@@ -1,0 +1,12 @@
+1090 711 1198 805 Chromis_dimidiata 
+1037 389 1168 454 Chromis_dimidiata 
+569 798 678 856 Chromis_dimidiata 
+1172 976 1205 1014 Chromis_dimidiata 
+926 142 981 167 Thalassoma_hebraicum 
+1484 317 1530 340 Thalassoma_hardwicke 
+1397 404 1490 446 Acanthurus_lineatus 
+357 392 478 459 Acanthurus_lineatus 
+249 350 339 398 Acanthurus_lineatus 
+5 761 312 872 Acanthurus_lineatus 
+840 665 1098 758 Acanthurus_lineatus 
+664 254 1072 407 Scarus_rubroviolaceus_male 

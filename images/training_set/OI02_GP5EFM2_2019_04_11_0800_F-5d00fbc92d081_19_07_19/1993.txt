@@ -1,0 +1,11 @@
+1005 332 1103 403 Chromis_ternatensis 
+1291 0 1397 105 Chromis_ternatensis 
+902 188 950 231 Gomphosus_caeruleus_male 
+456 117 694 251 Pseudanthias_bicolor 
+1802 104 1863 154 Chromis_dimidiata 
+1449 112 1486 144 Chromis_dimidiata 
+1176 120 1207 155 Chromis_dimidiata 
+431 271 480 306 Chromis_dimidiata 
+450 103 475 128 Chromis_dimidiata 
+1289 472 1480 614 Ctenochaetus_truncatus 
+383 77 442 118 Chromis_ternatensis 

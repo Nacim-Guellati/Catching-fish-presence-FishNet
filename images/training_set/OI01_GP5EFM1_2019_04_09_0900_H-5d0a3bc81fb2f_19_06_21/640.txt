@@ -1,0 +1,13 @@
+1063 109 1149 191 Chromis_dimidiata 
+1145 301 1193 348 Chromis_dimidiata 
+1105 394 1179 438 Chromis_dimidiata 
+789 322 891 388 Chromis_dimidiata 
+544 384 615 418 Chromis_dimidiata 
+445 149 574 254 Chromis_dimidiata 
+184 646 275 699 Chromis_dimidiata 
+390 619 649 722 Gomphosus_caeruleus_male 
+583 759 648 809 Chromis_dimidiata 
+1523 398 1623 458 Acanthurus_lineatus 
+890 288 979 382 Acanthurus_lineatus 
+1196 547 1268 591 Chromis_ternatensis 
+1216 507 1285 547 Ctenochaetus_striatus 

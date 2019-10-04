@@ -1,0 +1,4 @@
+1488 706 1915 958 Acanthurus_lineatus 
+264 734 429 833 Ctenochaetus_truncatus 
+1419 811 1661 933 Gomphosus_caeruleus_male 
+1660 499 1694 528 Chromis_dimidiata 

@@ -1,0 +1,5 @@
+833 213 947 275 Pomacentrus_sulfureus 
+1445 659 1543 776 Plectroglyphidodon_dickii 
+1451 471 1613 573 Plectroglyphidodon_lacrymatus 
+1163 516 1331 570 Thalassoma_hardwicke 
+1816 263 1884 298 Pomacentrus_sulfureus 

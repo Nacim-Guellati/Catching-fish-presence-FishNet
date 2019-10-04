@@ -1,0 +1,10 @@
+1067 483 1203 578 Pseudanthias_squamipinnis_male 
+1464 592 1603 654 Pseudanthias_squamipinnis_female 
+1393 583 1506 636 Pseudanthias_squamipinnis_female 
+913 429 1009 491 Pseudanthias_squamipinnis_female 
+1735 35 1916 137 Naso_elegans 
+1581 929 1915 1075 Ctenochaetus_truncatus 
+1455 658 1587 724 Acanthurus_lineatus 
+1431 458 1488 509 Chromis_dimidiata 
+953 621 979 647 Chromis_dimidiata 
+606 550 698 593 Chromis_ternatensis 

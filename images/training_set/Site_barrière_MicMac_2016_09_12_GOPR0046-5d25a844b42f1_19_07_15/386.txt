@@ -1,0 +1,4 @@
+644 576 898 707 Ctenochaetus_striatus 
+990 585 1178 820 Ctenochaetus_striatus 
+979 722 1048 792 Ctenochaetus_striatus 
+1097 833 1202 969 Zebrasoma_scopas 

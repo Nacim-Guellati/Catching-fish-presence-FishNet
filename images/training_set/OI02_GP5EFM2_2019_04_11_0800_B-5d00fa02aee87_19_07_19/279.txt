@@ -1,0 +1,15 @@
+533 416 670 481 Chromis_ternatensis 
+730 694 854 773 Chromis_ternatensis 
+1429 596 1533 704 Chromis_ternatensis 
+410 742 606 852 Chromis_xanthura 
+1718 298 1809 353 Chromis_dimidiata 
+1428 281 1474 317 Chromis_dimidiata 
+924 217 956 256 Chromis_dimidiata 
+671 182 713 219 Chromis_dimidiata 
+545 124 596 164 Chromis_dimidiata 
+101 122 168 159 Chromis_dimidiata 
+151 176 196 206 Chromis_dimidiata 
+178 209 224 239 Chromis_dimidiata 
+1324 576 1396 627 Chromis_dimidiata 
+1258 37 1419 92 Gomphosus_caeruleus_male 
+876 378 988 509 Zebrasoma_rostratum 

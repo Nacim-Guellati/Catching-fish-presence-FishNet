@@ -1,0 +1,17 @@
+991 731 1056 786 Chromis_dimidiata 
+429 764 490 818 Chromis_dimidiata 
+272 778 301 805 Chromis_dimidiata 
+120 985 235 1066 Chromis_dimidiata 
+1755 1019 1866 1076 Chromis_dimidiata 
+949 880 995 914 Chromis_dimidiata 
+496 860 545 888 Paracirrhites_forsteri 
+465 194 582 265 Pseudanthias_squamipinnis_female 
+605 385 678 499 Chromis_lepidolepis 
+598 652 688 716 Pseudanthias_bicolor 
+700 609 754 664 Pseudanthias_bicolor 
+475 319 527 396 Pseudanthias_bicolor 
+1338 724 1404 769 Pseudanthias_squamipinnis_female 
+588 821 690 868 Pseudanthias_squamipinnis_male 
+808 751 1006 870 Gracila_albomarginata 
+4 760 259 885 Gracila_albomarginata 
+348 1 453 61 Chromis_dimidiata 

@@ -1,0 +1,4 @@
+1200 346 1422 493 Acanthurus_dussumieri 
+999 453 1196 589 Acanthurus_dussumieri 
+1178 550 1415 685 Acanthurus_dussumieri 
+1023 689 1181 783 Acanthurus_dussumieri 

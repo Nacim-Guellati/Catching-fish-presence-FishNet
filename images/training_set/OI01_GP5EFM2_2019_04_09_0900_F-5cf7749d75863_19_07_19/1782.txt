@@ -1,0 +1,8 @@
+1185 890 1293 996 Gomphosus_caeruleus_female 
+502 606 552 652 Nemateleotris_magnifica 
+698 132 770 194 Chromis_ternatensis 
+652 349 714 385 Chromis_ternatensis 
+1025 282 1050 302 Chromis_dimidiata 
+1478 395 1507 417 Chromis_dimidiata 
+492 534 522 557 Chromis_dimidiata 
+1107 460 1126 477 Chromis_dimidiata 

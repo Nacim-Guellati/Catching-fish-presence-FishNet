@@ -1,0 +1,6 @@
+158 95 274 180 Chaetodon_guttatissimus 
+173 238 276 324 Chaetodon_guttatissimus 
+1252 179 1332 234 Acanthurus_lineatus 
+990 535 1091 610 Ctenochaetus_striatus 
+879 301 930 362 Ctenochaetus_striatus 
+679 260 740 299 Gomphosus_caeruleus_female 

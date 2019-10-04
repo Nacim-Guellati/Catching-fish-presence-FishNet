@@ -1,0 +1,12 @@
+715 442 776 510 Pomacentrus_sulfureus 
+225 262 332 322 Pomacentrus_sulfureus 
+389 308 421 336 Pomacentrus_sulfureus 
+1090 151 1199 212 Pomacentrus_sulfureus 
+0 215 50 255 Pomacentrus_sulfureus 
+393 70 479 119 Chromis_dimidiata 
+338 147 390 192 Chromis_dimidiata 
+166 30 221 66 Chromis_dimidiata 
+464 13 504 54 Chromis_dimidiata 
+846 149 871 170 Chromis_dimidiata 
+527 169 560 198 Chromis_dimidiata 
+660 528 734 640 Zebrasoma_scopas 

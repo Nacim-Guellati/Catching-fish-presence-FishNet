@@ -1,0 +1,8 @@
+569 819 712 902 Acanthurus_lineatus 
+1262 356 1335 388 Chromis_ternatensis 
+1621 173 1680 243 Chromis_ternatensis 
+1626 343 1685 382 Chromis_ternatensis 
+1723 337 1780 382 Chromis_ternatensis 
+1115 552 1170 592 Chromis_ternatensis 
+658 770 740 808 Chromis_ternatensis 
+1419 310 1453 347 Chromis_dimidiata 

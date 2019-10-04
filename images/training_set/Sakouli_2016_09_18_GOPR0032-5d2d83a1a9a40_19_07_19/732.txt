@@ -1,0 +1,5 @@
+613 790 760 968 Pomacentrus_sulfureus 
+810 181 874 223 Pomacentrus_sulfureus 
+999 236 1094 290 Pomacentrus_sulfureus 
+288 850 425 1019 Ctenochaetus_striatus 
+152 719 258 861 Ctenochaetus_striatus 

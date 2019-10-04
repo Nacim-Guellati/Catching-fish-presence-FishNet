@@ -1,0 +1,6 @@
+839 461 1031 560 Pygoplites_diacanthus 
+960 701 1170 787 Pygoplites_diacanthus 
+1460 770 1554 836 Pomacentrus_sulfureus 
+1575 698 1631 737 Pomacentrus_sulfureus 
+1568 850 1608 925 Pomacentrus_sulfureus 
+1035 233 1122 275 Amphiprion_sandaracinos 

@@ -1,0 +1,14 @@
+80 809 170 867 Chromis_dimidiata 
+229 662 334 729 Chromis_dimidiata 
+528 561 578 599 Chromis_dimidiata 
+966 861 1005 893 Chromis_dimidiata 
+1229 956 1265 997 Chromis_dimidiata 
+71 571 189 638 Pseudanthias_squamipinnis_female 
+484 252 598 336 Pseudanthias_squamipinnis_female 
+919 44 1034 108 Pseudanthias_squamipinnis_female 
+870 171 953 212 Pseudanthias_squamipinnis_female 
+1244 77 1425 157 Pseudanthias_squamipinnis_female 
+1790 807 1916 867 Pseudanthias_squamipinnis_female 
+581 531 625 573 Pseudanthias_squamipinnis_male 
+750 536 823 568 Pseudanthias_bicolor 
+708 37 776 131 Chromis_lepidolepis 

@@ -1,0 +1,4 @@
+712 419 991 781 Chaetodon_auriga 
+531 526 591 587 Pomacentrus_sulfureus 
+307 7 353 41 Pomacentrus_sulfureus 
+398 146 442 179 Pomacentrus_sulfureus 

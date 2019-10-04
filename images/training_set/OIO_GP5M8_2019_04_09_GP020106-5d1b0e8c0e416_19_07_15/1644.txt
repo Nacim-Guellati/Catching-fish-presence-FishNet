@@ -1,0 +1,10 @@
+113 517 410 728 Ctenochaetus_truncatus 
+1053 260 1084 289 Chromis_dimidiata 
+1290 126 1356 167 Chromis_dimidiata 
+1503 498 1541 531 Chromis_dimidiata 
+911 353 936 377 Chromis_dimidiata 
+1753 134 1786 179 Chromis_dimidiata 
+1147 380 1239 420 Acanthurus_lineatus 
+1775 217 1858 262 Pseudanthias_squamipinnis_male 
+1267 364 1308 400 Pseudanthias_squamipinnis_female 
+773 474 799 497 Chromis_dimidiata 

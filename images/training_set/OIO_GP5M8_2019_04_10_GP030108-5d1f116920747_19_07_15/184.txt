@@ -1,0 +1,4 @@
+405 244 505 324 Chaetodon_guttatissimus 
+613 316 666 385 Chaetodon_guttatissimus 
+1368 223 1418 285 Acanthurus_lineatus 
+966 509 1066 576 Ctenochaetus_striatus 

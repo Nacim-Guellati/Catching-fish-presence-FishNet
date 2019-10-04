@@ -1,0 +1,13 @@
+700 698 799 795 Chromis_ternatensis 
+382 458 482 526 Chromis_ternatensis 
+234 418 316 492 Chromis_ternatensis 
+1 796 193 922 Pseudanthias_squamipinnis_female 
+235 799 367 889 Pseudanthias_squamipinnis_female 
+311 1001 447 1074 Pseudanthias_squamipinnis_female 
+664 184 692 213 Chromis_dimidiata 
+999 245 1025 273 Chromis_dimidiata 
+1412 119 1458 167 Chromis_dimidiata 
+1012 704 1072 756 Chromis_dimidiata 
+866 242 897 267 Chromis_dimidiata 
+462 216 679 360 Pseudanthias_squamipinnis_male 
+1275 357 1387 477 Anampses_twistii 

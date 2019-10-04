@@ -1,0 +1,4 @@
+486 337 542 380 Pomacentrus_sulfureus 
+1568 422 1677 491 Pomacentrus_sulfureus 
+1743 19 1889 89 Pomacentrus_sulfureus 
+975 169 1031 230 Chaetodon 

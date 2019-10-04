@@ -1,0 +1,3 @@
+792 778 1019 971 Acanthurus_lineatus 
+726 511 773 539 Nemateleotris_magnifica 
+1118 958 1208 1003 unknown_fish 

@@ -1,0 +1,4 @@
+657 747 728 802 Pseudanthias_squamipinnis_male 
+757 706 866 765 Nemanthias_carberryi_male 
+1550 774 1686 877 Pseudanthias_squamipinnis_female 
+854 510 1086 652 Epinephelus_flavocaeruleus 

@@ -1,0 +1,6 @@
+1360 362 1577 484 Pygoplites_diacanthus 
+1524 21 1583 60 Pomacentrus_sulfureus 
+1726 649 1765 699 Pomacentrus_sulfureus 
+593 93 641 141 Ctenochaetus_striatus 
+323 250 448 314 Pomacentrus_sulfureus 
+451 108 521 142 Pomacentrus_sulfureus 

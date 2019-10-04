@@ -1,0 +1,6 @@
+878 484 1289 833 Scarus 
+824 209 855 239 Chromis_dimidiata 
+323 13 350 43 Chromis_dimidiata 
+425 190 445 214 Chromis_dimidiata 
+547 233 577 256 Chromis 
+532 188 560 213 Chromis 

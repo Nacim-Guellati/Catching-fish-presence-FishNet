@@ -1,0 +1,3 @@
+882 189 994 289 Hemigymnus_fasciatus 
+1597 27 1649 66 Chromis_dimidiata 
+1022 939 1146 1013 Epinephelus 

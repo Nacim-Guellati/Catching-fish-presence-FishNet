@@ -1,0 +1,9 @@
+1248 431 1394 532 Ctenochaetus_striatus 
+899 403 974 489 Chromis_dimidiata 
+802 424 838 463 Chromis_dimidiata 
+1424 379 1528 429 Chromis_dimidiata 
+1333 742 1407 796 Chromis_dimidiata 
+921 612 963 643 Chromis_dimidiata 
+707 633 737 671 Chromis_dimidiata 
+181 852 297 927 Chromis_dimidiata 
+1248 386 1326 417 Halichoeres_hortulanus_transitional 

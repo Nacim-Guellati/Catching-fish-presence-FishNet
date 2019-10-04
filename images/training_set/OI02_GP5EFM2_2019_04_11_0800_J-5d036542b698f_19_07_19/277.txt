@@ -1,0 +1,10 @@
+633 739 974 861 Thalassoma_lunare 
+938 17 973 43 Chromis_dimidiata 
+1091 142 1124 172 Chromis_dimidiata 
+1309 144 1351 176 Chromis_dimidiata 
+1452 183 1492 222 Chromis_dimidiata 
+864 159 889 178 Chromis_dimidiata 
+602 202 626 226 Chromis_dimidiata 
+236 76 268 106 Chromis_dimidiata 
+881 182 922 226 Lutjanus_gibbus 
+1763 294 1824 331 Acanthurus_thompsoni 

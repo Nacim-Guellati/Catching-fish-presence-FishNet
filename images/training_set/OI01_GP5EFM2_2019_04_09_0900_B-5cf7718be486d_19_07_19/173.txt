@@ -1,0 +1,17 @@
+6 725 195 819 Ctenochaetus_truncatus 
+915 667 1013 723 Ctenochaetus_truncatus 
+1300 461 1411 537 Acanthurus_lineatus 
+933 604 1068 679 Acanthurus_lineatus 
+330 934 406 990 Chromis_ternatensis 
+1431 144 1494 185 Chromis_ternatensis 
+1316 268 1363 308 Chromis_ternatensis 
+1385 363 1438 402 Chromis_ternatensis 
+1461 319 1531 352 Chromis_ternatensis 
+1555 262 1608 289 Chromis_ternatensis 
+1669 353 1713 404 Chromis_ternatensis 
+1758 230 1803 267 Chromis_ternatensis 
+1791 112 1884 159 Chromis_ternatensis 
+1856 179 1914 218 Chromis_ternatensis 
+1583 528 1608 550 Chromis_dimidiata 
+1210 495 1259 535 Chromis_dimidiata 
+769 778 823 822 Nemateleotris_magnifica 

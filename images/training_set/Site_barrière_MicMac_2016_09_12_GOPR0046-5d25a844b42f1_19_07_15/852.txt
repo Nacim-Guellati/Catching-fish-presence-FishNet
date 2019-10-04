@@ -1,0 +1,4 @@
+1408 609 1525 693 Zanclus_cornutus 
+215 517 346 637 Ctenochaetus_striatus 
+1571 909 1643 958 Abudefduf_vaigiensis 
+1106 974 1241 1075 Myripristis_murdjan 

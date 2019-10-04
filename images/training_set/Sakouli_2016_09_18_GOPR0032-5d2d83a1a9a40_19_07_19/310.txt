@@ -1,0 +1,6 @@
+1300 156 1359 190 Pomacentrus_sulfureus 
+1852 153 1916 219 Pomacentrus_sulfureus 
+575 241 644 285 Pomacentrus_sulfureus 
+333 490 473 613 Pomacentrus_sulfureus 
+1290 271 1440 325 Gomphosus_caeruleus_female 
+765 219 867 276 Zebrasoma_scopas 

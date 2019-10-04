@@ -1,0 +1,4 @@
+493 77 535 105 Chromis_dimidiata 
+472 105 515 125 Chromis_dimidiata 
+973 333 1006 357 Chromis_dimidiata 
+591 819 650 895 Chromis_dimidiata 

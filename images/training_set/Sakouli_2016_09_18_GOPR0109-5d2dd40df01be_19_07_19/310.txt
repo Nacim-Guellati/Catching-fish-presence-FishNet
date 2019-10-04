@@ -1,0 +1,8 @@
+1737 161 1782 217 Ctenochaetus_striatus 
+809 185 885 230 Labridae 
+1493 275 1665 331 Gomphosus_caeruleus_female 
+699 194 780 236 Gomphosus_caeruleus_female 
+539 62 611 113 Gomphosus_caeruleus_female 
+299 230 362 313 Plectroglyphidodon_lacrymatus 
+1482 473 1548 565 Plectroglyphidodon_lacrymatus 
+1745 326 1826 365 Pomacentrus_sulfureus 

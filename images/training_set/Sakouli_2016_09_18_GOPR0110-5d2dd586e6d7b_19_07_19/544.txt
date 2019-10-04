@@ -1,0 +1,13 @@
+1188 203 1258 312 Ctenochaetus_striatus 
+853 521 927 593 Ctenochaetus_striatus 
+484 802 627 930 Zebrasoma_scopas 
+916 648 976 747 Centropyge_multispinis 
+874 127 921 176 Pomacentrus_sulfureus 
+747 420 805 458 Pomacentrus_sulfureus 
+566 356 596 405 Pomacentrus_sulfureus 
+0 1 153 65 Pomacentrus_sulfureus 
+510 272 553 303 Chromis_dimidiata 
+364 210 396 236 Chromis_dimidiata 
+105 223 192 272 Chromis_dimidiata 
+675 482 718 523 Chromis_dimidiata 
+570 248 605 274 Chromis_dimidiata 

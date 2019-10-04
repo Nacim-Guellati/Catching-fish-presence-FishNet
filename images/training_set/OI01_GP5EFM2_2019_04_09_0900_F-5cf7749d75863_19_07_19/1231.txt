@@ -1,0 +1,10 @@
+993 837 1223 951 Acanthurus_lineatus 
+1371 464 1488 521 Acanthurus_lineatus 
+1498 502 1586 549 Acanthurus_lineatus 
+441 646 482 674 Nemateleotris_magnifica 
+357 836 466 897 Chromis_ternatensis 
+1449 169 1504 256 Chromis_ternatensis 
+1198 551 1268 624 Chaetodon_guttatissimus 
+1384 702 1457 771 Chaetodon_guttatissimus 
+204 596 244 622 Chromis_dimidiata 
+832 502 868 527 Chromis_dimidiata 

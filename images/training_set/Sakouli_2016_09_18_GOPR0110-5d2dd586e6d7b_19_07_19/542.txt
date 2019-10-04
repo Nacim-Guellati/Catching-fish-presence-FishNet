@@ -1,0 +1,10 @@
+1002 386 1134 530 Ctenochaetus_striatus 
+1151 25 1206 140 Ctenochaetus_striatus 
+655 477 711 552 Ctenochaetus_striatus 
+554 750 698 872 Centropyge_multispinis 
+1029 122 1093 164 Pomacentrus_sulfureus 
+798 84 848 130 Pomacentrus_sulfureus 
+418 321 474 364 Pomacentrus_sulfureus 
+639 429 668 467 Pomacentrus_sulfureus 
+500 288 530 314 Chromis_dimidiata 
+9 192 91 238 Chromis_dimidiata 

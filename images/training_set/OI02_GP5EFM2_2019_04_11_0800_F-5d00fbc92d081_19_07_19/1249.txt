@@ -1,0 +1,11 @@
+1829 657 1915 724 Chromis_ternatensis 
+36 759 160 872 Chromis_ternatensis 
+1139 158 1245 226 Chromis_ternatensis 
+193 569 335 651 Chromis_dimidiata 
+1000 1027 1100 1056 Chromis_dimidiata 
+1051 86 1129 121 Chromis_dimidiata 
+1234 53 1283 89 Chromis_dimidiata 
+1703 268 1739 317 Chromis_dimidiata 
+1710 48 1763 94 Chromis_dimidiata 
+623 441 676 526 Gomphosus_caeruleus_female 
+1424 207 1489 286 Anampses_twistii 

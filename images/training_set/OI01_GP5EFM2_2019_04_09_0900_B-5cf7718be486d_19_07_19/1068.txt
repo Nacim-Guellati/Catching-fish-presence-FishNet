@@ -1,0 +1,6 @@
+1535 455 1603 494 Chromis_ternatensis 
+1254 303 1316 354 Chromis_ternatensis 
+947 297 1007 339 Chromis_ternatensis 
+980 385 1042 429 Chromis_ternatensis 
+615 512 663 562 Chromis_ternatensis 
+1098 455 1159 492 Chromis_dimidiata 

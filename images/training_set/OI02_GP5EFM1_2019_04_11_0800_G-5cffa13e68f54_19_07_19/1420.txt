@@ -1,0 +1,7 @@
+1347 167 1428 209 Acanthurus_thompsoni 
+658 873 753 943 Chaetodon_guttatissimus 
+1092 846 1177 922 Nemanthias_carberryi_male 
+466 996 637 1061 Nemanthias_carberryi_male 
+877 964 958 1023 Nemanthias_carberryi_male 
+1193 896 1273 994 Nemanthias_carberryi_male 
+27 766 292 851 Nemanthias_carberryi_female 

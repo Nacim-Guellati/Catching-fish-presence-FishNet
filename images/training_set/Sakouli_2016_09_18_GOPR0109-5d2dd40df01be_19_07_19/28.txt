@@ -1,0 +1,10 @@
+856 402 1145 545 Ctenochaetus_striatus 
+447 215 559 296 Pomacentrus_sulfureus 
+1794 378 1915 477 Pomacentrus_sulfureus 
+108 721 284 921 Plectroglyphidodon_dickii 
+1616 365 1716 405 Thalassoma_hardwicke 
+1759 144 1914 211 Thalassoma_hardwicke 
+113 171 245 216 Thalassoma_hardwicke 
+673 247 728 324 Chaetodon_trifasciatus 
+191 221 229 266 Plectroglyphidodon_lacrymatus 
+1496 464 1624 541 Plectroglyphidodon_lacrymatus 

@@ -1,0 +1,14 @@
+1152 236 1262 282 Caesio_teres 
+1116 251 1226 319 Caesio_teres 
+920 284 1036 338 Caesio_teres 
+757 328 887 374 Caesio_teres 
+646 356 736 403 Caesio_teres 
+563 291 685 332 Caesio_teres 
+296 186 412 243 Caesio_teres 
+366 314 490 371 Caesio_teres 
+288 326 418 417 Caesio_teres 
+285 414 407 486 Caesio_teres 
+120 371 225 448 Caesio_teres 
+642 396 802 501 Acanthurus_lineatus 
+395 362 477 423 Acanthurus_lineatus 
+1507 118 1578 204 Thalassoma_hardwicke 

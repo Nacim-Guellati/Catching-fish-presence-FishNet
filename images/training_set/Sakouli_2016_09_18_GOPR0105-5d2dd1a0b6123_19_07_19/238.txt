@@ -1,0 +1,7 @@
+953 540 989 607 Chaetodon_auriga 
+1161 421 1469 686 Ctenochaetus_striatus 
+633 581 719 625 Pomacentrus_sulfureus 
+1704 475 1827 532 Pomacentrus_sulfureus 
+1602 112 1701 206 Pomacentrus_sulfureus 
+475 230 526 273 Pomacentrus_sulfureus 
+488 410 539 445 Pomacentrus_sulfureus 

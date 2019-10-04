@@ -1,0 +1,3 @@
+1147 385 1300 581 Acanthurus_dussumieri 
+1426 440 1570 660 Acanthurus_dussumieri 
+355 12 490 155 Ctenochaetus_truncatus 

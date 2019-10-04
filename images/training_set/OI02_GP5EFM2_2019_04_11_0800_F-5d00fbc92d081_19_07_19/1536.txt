@@ -1,0 +1,10 @@
+1347 11 1455 94 Chromis_dimidiata 
+1404 219 1440 250 Chromis_dimidiata 
+1771 269 1809 303 Chromis_dimidiata 
+941 79 969 105 Chromis_dimidiata 
+1049 131 1080 155 Chromis_dimidiata 
+1157 60 1188 91 Chromis_dimidiata 
+753 199 790 224 Chromis_dimidiata 
+440 333 564 400 Chromis_dimidiata 
+10 790 107 932 Zebrasoma_rostratum 
+1757 681 1915 773 Zebrasoma_rostratum 

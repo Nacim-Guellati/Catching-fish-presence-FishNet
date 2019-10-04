@@ -1,0 +1,7 @@
+1015 493 1302 645 Cephalopholis_argus 
+466 79 652 171 Ctenochaetus_truncatus 
+848 261 879 310 Ctenochaetus_truncatus 
+579 814 678 861 Chromis_dimidiata 
+741 678 809 722 Chromis_dimidiata 
+702 247 730 272 Chromis_dimidiata 
+178 0 313 126 Naso 

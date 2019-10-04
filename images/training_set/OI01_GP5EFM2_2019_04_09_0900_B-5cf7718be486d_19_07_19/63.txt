@@ -1,0 +1,8 @@
+616 517 689 569 Chromis_dimidiata 
+1419 609 1497 642 Chromis_ternatensis 
+1403 549 1485 582 Chromis_ternatensis 
+956 623 1031 658 Chromis_ternatensis 
+683 675 766 712 Chromis_ternatensis 
+493 586 544 650 Chromis_ternatensis 
+258 899 327 956 Chromis_ternatensis 
+1638 626 1794 714 Aethaloperca_rogaa 

@@ -1,0 +1,7 @@
+815 1 858 24 Chromis_dimidiata 
+1435 162 1485 197 Chromis_dimidiata 
+612 181 743 281 Cephalopholis_argus 
+598 141 792 256 Arothron 
+947 405 1023 462 Pomacentrus_sulfureus 
+87 637 210 749 Centropyge_multispinis 
+990 592 1127 682 Centropyge_multispinis 

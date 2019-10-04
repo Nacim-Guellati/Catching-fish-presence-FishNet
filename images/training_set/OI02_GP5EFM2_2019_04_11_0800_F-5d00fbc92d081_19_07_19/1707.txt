@@ -1,0 +1,11 @@
+1421 158 1578 231 Chromis_ternatensis 
+993 231 1134 294 Chromis_ternatensis 
+981 41 1121 133 Chromis_ternatensis 
+4 683 299 771 Gomphosus_caeruleus_male 
+522 49 550 66 Chromis_dimidiata 
+721 180 753 203 Chromis_dimidiata 
+70 514 202 568 Chromis_dimidiata 
+1702 47 1761 79 Chromis_dimidiata 
+1615 156 1655 189 Chromis_dimidiata 
+1402 265 1437 286 Chromis_dimidiata 
+1379 306 1403 323 Chromis_dimidiata 

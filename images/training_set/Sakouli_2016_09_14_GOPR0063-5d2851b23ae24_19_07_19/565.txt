@@ -1,0 +1,11 @@
+468 509 651 647 Chaetodon_falcula 
+678 442 867 550 Chaetodon_falcula 
+1568 731 1707 881 Chaetodon_lunula 
+515 229 627 302 Pomacentrus_sulfureus 
+60 2 159 95 Pomacentrus_sulfureus 
+144 379 227 440 Pomacentrus_sulfureus 
+191 625 311 700 Pomacentrus_sulfureus 
+602 602 687 727 Pomacentrus_sulfureus 
+1023 346 1151 400 Gomphosus_caeruleus_female 
+0 574 101 673 Chaetodon_meyeri 
+1080 499 1235 578 Chaetodon_trifascialis 

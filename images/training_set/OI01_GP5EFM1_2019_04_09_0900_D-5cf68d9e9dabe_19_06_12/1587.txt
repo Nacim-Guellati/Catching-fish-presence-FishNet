@@ -1,0 +1,10 @@
+701 746 767 799 Chromis_dimidiata 
+980 625 1044 666 Chromis_dimidiata 
+1393 653 1452 714 Chromis_dimidiata 
+1031 536 1082 580 Chromis_dimidiata 
+1621 388 1704 468 Chromis_dimidiata 
+1786 330 1894 387 Chromis_dimidiata 
+252 1011 368 1075 Chromis_dimidiata 
+1109 415 1251 474 Acanthurus_lineatus 
+1475 403 1557 462 Chaetodon_ulietensis 
+228 526 393 606 Thalassoma_hardwicke 

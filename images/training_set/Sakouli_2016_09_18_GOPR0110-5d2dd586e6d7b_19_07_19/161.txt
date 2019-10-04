@@ -1,0 +1,15 @@
+795 602 884 713 Chaetodon_auriga 
+959 542 1037 593 Pomacentrus_sulfureus 
+1047 581 1106 629 Pomacentrus_sulfureus 
+914 392 960 431 Pomacentrus_sulfureus 
+914 182 1004 254 Pomacentrus_sulfureus 
+1166 85 1250 205 Pomacentrus_sulfureus 
+627 340 684 410 Pomacentrus_sulfureus 
+471 298 567 374 Pomacentrus_sulfureus 
+960 230 1034 323 Pomacentrus_sulfureus 
+606 293 644 329 Chromis_dimidiata 
+668 407 708 446 Chromis_dimidiata 
+482 266 521 301 Chromis_dimidiata 
+311 214 438 302 Chromis_ternatensis 
+1031 626 1095 673 Ctenochaetus_striatus 
+723 361 771 392 Labroides_dimidiatus 

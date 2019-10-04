@@ -1,0 +1,15 @@
+1391 331 1502 431 Chromis_dimidiata 
+1426 110 1452 164 Chromis_dimidiata 
+1357 103 1386 134 Chromis_dimidiata 
+1431 12 1480 49 Chromis_dimidiata 
+1580 0 1621 41 Chromis_dimidiata 
+879 134 917 170 Chromis_dimidiata 
+435 43 456 73 Chromis_dimidiata 
+622 188 647 216 Chromis_dimidiata 
+123 40 171 68 Chromis_dimidiata 
+215 141 249 161 Chromis_dimidiata 
+262 158 289 187 Chromis_dimidiata 
+778 467 871 526 Chromis_ternatensis 
+822 283 980 366 Chromis_ternatensis 
+29 855 225 953 Chromis_ternatensis 
+1329 270 1441 351 Balistapus_undulatus 

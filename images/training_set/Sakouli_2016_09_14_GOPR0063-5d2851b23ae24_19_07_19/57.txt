@@ -1,0 +1,14 @@
+894 319 1175 533 Chaetodon_falcula 
+1409 433 1569 598 Chaetodon_falcula 
+599 203 731 289 Ctenochaetus_striatus 
+632 272 747 355 Ctenochaetus_striatus 
+747 199 930 310 Ctenochaetus_striatus 
+933 200 1052 266 Ctenochaetus_striatus 
+1065 166 1230 274 Ctenochaetus_striatus 
+618 331 678 401 Ctenochaetus_striatus 
+488 388 780 470 Thalassoma_hardwicke 
+69 529 321 605 Thalassoma_hardwicke 
+219 428 263 476 Pomacentrus_sulfureus 
+386 397 428 446 Pomacentrus_sulfureus 
+645 563 719 631 Pomacentrus_sulfureus 
+60 851 260 943 Pomacentrus_sulfureus 

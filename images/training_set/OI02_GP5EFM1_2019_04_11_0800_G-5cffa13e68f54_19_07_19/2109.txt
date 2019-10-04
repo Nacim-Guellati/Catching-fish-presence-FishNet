@@ -1,0 +1,17 @@
+357 592 436 633 Chromis_dimidiata 
+557 672 603 720 Chromis_dimidiata 
+577 643 606 667 Chromis_dimidiata 
+938 586 960 608 Chromis_dimidiata 
+996 632 1018 655 Chromis_dimidiata 
+1001 562 1032 591 Chromis_dimidiata 
+1225 627 1254 654 Chromis_dimidiata 
+1284 779 1324 814 Chromis_dimidiata 
+1584 637 1636 664 Chromis_dimidiata 
+445 739 473 766 Chromis_dimidiata 
+1145 133 1241 178 Pseudanthias_squamipinnis_female 
+1666 340 1735 380 Pseudanthias_squamipinnis_female 
+50 366 200 448 Pseudanthias_squamipinnis_male 
+137 447 250 534 Pseudanthias_bicolor 
+656 362 689 422 Pseudanthias_bicolor 
+867 297 914 347 Chromis_lepidolepis 
+624 978 683 1057 Chaetodon_guttatissimus 

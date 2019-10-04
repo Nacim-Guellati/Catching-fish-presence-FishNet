@@ -1,0 +1,14 @@
+8 332 261 458 Chromis_dimidiata 
+216 57 243 83 Chromis_dimidiata 
+230 136 256 159 Chromis_dimidiata 
+79 152 110 182 Chromis_dimidiata 
+268 142 291 172 Chromis_dimidiata 
+419 24 455 49 Chromis_dimidiata 
+664 178 690 203 Chromis_dimidiata 
+763 184 809 216 Chromis_dimidiata 
+821 232 868 268 Chromis_dimidiata 
+728 67 755 97 Chromis_dimidiata 
+1365 289 1395 316 Chromis_dimidiata 
+409 114 548 182 Chromis_ternatensis 
+1071 397 1148 463 Chromis_ternatensis 
+528 797 891 916 Thalassoma_lunare 

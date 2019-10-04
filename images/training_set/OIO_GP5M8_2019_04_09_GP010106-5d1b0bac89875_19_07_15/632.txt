@@ -1,0 +1,4 @@
+898 891 1125 1032 Acanthurus_lineatus 
+1045 633 1137 705 Acanthurus_lineatus 
+1373 766 1445 840 Acanthurus_lineatus 
+775 845 826 883 Chromis_dimidiata 

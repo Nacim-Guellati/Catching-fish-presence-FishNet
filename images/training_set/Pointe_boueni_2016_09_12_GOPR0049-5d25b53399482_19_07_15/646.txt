@@ -1,0 +1,5 @@
+791 237 846 297 Pomacentrus_sulfureus 
+606 292 710 340 Pomacentrus_sulfureus 
+448 462 548 510 Plectroglyphidodon_dickii 
+1196 440 1250 485 Plectroglyphidodon_dickii 
+1306 490 1368 544 Plectroglyphidodon_dickii 

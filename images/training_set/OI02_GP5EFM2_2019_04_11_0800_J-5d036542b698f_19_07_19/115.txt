@@ -1,0 +1,9 @@
+353 146 383 166 Chromis_dimidiata 
+688 119 706 144 Chromis_dimidiata 
+703 137 735 168 Chromis_dimidiata 
+1288 167 1325 189 Chromis_dimidiata 
+1183 499 1231 534 Chromis_dimidiata 
+810 248 843 281 Chromis_dimidiata 
+1801 33 1843 99 Chromis_dimidiata 
+1493 204 1563 252 Chromis_dimidiata 
+1379 409 1414 447 Chromis_dimidiata 

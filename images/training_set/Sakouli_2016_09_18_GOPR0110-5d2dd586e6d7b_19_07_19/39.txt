@@ -1,0 +1,8 @@
+336 541 501 680 Ctenochaetus_striatus 
+845 248 915 350 Pomacentrus_sulfureus 
+840 512 899 559 Pomacentrus_sulfureus 
+980 596 1028 659 Pomacentrus_sulfureus 
+696 455 785 524 Pomacentrus_sulfureus 
+408 389 525 506 Pomacentrus_sulfureus 
+1215 56 1253 91 Chromis_dimidiata 
+425 322 462 355 Chromis_dimidiata 

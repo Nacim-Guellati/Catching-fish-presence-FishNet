@@ -1,0 +1,7 @@
+706 116 740 159 Chromis_dimidiata 
+859 11 901 51 Chromis_dimidiata 
+1498 93 1558 143 Chromis_dimidiata 
+1450 7 1513 42 Chromis_dimidiata 
+908 188 945 216 Chromis_dimidiata 
+310 146 334 181 Chromis_dimidiata 
+126 138 163 166 Chromis_dimidiata 

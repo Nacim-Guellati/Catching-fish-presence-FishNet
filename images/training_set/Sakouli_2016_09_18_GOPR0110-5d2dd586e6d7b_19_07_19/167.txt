@@ -1,0 +1,13 @@
+744 265 806 361 Pomacentrus_sulfureus 
+918 298 968 382 Pomacentrus_sulfureus 
+1064 598 1119 664 Pomacentrus_sulfureus 
+1067 382 1160 440 Pomacentrus_sulfureus 
+363 227 528 340 Pomacentrus_sulfureus 
+426 308 633 428 Pomacentrus_sulfureus 
+1196 178 1242 221 Chromis_dimidiata 
+782 470 822 514 Chromis_dimidiata 
+737 449 779 487 Chromis_dimidiata 
+702 380 746 421 Chromis_dimidiata 
+656 400 699 433 Chromis_dimidiata 
+284 601 434 692 Plectroglyphidodon_dickii 
+962 446 1032 523 Labroides_dimidiatus 

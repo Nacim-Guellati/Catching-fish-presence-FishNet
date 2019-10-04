@@ -1,0 +1,8 @@
+1014 65 1208 172 Ctenochaetus_striatus 
+1683 101 1758 166 Ctenochaetus_striatus 
+1607 274 1668 313 Pomacentrus_sulfureus 
+1434 230 1500 274 Zebrasoma_rostratum 
+1779 124 1832 190 Zebrasoma_rostratum 
+1136 199 1184 236 Zebrasoma_rostratum 
+228 265 285 332 Plectroglyphidodon_lacrymatus 
+1419 335 1484 365 Labridae 

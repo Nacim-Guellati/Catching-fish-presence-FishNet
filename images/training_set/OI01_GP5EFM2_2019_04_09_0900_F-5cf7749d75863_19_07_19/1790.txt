@@ -1,0 +1,3 @@
+1168 704 1657 879 Acanthurus_lineatus 
+679 536 720 574 Nemateleotris_magnifica 
+308 403 375 460 Chromis_ternatensis 

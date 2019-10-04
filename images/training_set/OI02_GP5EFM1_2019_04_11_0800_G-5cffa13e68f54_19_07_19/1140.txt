@@ -1,0 +1,9 @@
+1355 480 1475 552 Aethaloperca_rogaa 
+1780 288 1913 397 Acanthurus_thompsoni 
+487 858 549 893 Paracirrhites_forsteri 
+159 862 246 887 Pseudanthias_bicolor 
+196 819 269 849 Pseudanthias_bicolor 
+590 727 634 752 Pseudanthias_bicolor 
+465 726 522 761 Pseudanthias_bicolor 
+519 735 561 762 Pseudanthias_bicolor 
+783 734 831 752 Pseudanthias_bicolor 

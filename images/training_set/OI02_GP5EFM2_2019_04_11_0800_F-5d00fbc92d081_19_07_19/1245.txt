@@ -1,0 +1,9 @@
+1575 349 1718 436 Chromis_ternatensis 
+773 148 913 234 Chromis_ternatensis 
+1379 86 1438 123 Chromis_dimidiata 
+1033 22 1086 58 Chromis_dimidiata 
+389 4 426 32 Chromis_dimidiata 
+425 3 471 24 Chromis_dimidiata 
+85 16 125 44 Chromis_dimidiata 
+1568 4 1815 107 Pseudanthias_bicolor 
+1205 141 1285 177 Anampses_twistii 

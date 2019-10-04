@@ -1,0 +1,8 @@
+978 704 1056 752 Chromis_dimidiata 
+7 622 153 708 Chromis_dimidiata 
+1104 547 1167 606 Ctenochaetus_striatus 
+1180 901 1310 1009 Chaetodon_guttatissimus 
+888 512 1010 560 Chromis_ternatensis 
+562 864 625 919 Chromis_ternatensis 
+852 980 909 1019 Chromis_ternatensis 
+505 544 592 574 Thalassoma_amblycephalum_juv 

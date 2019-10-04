@@ -1,0 +1,5 @@
+941 493 969 523 Nemateleotris_magnifica 
+291 102 377 151 Chromis_ternatensis 
+936 699 989 757 Chromis_ternatensis 
+1118 963 1189 997 unknown_fish 
+1287 409 1322 441 Chromis_dimidiata 

@@ -1,0 +1,10 @@
+438 444 586 531 Chromis_dimidiata 
+868 313 963 374 Chromis_dimidiata 
+1479 84 1528 147 Chromis_dimidiata 
+897 521 978 566 Chromis_dimidiata 
+867 884 934 939 Chromis_dimidiata 
+175 397 307 453 Acanthurus_lineatus 
+1444 829 1910 1026 Acanthurus_lineatus 
+8 236 92 307 Thalassoma_hardwicke 
+1525 385 1743 462 Chromis_ternatensis 
+1046 608 1098 638 Chromis_dimidiata 
