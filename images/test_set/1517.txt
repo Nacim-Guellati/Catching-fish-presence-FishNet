@@ -1,0 +1,5 @@
+175 627 270 696 Ctenochaetus_striatus 
+833 468 865 499 Chromis_dimidiata 
+738 459 768 487 Chromis_dimidiata 
+420 730 632 829 Lethrinus 
+347 608 555 700 Chlorurus_sordidus 

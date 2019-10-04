@@ -1,0 +1,6 @@
+740 555 776 591 Chromis_dimidiata 
+395 429 435 459 Chromis_dimidiata 
+150 499 189 529 Chromis_dimidiata 
+167 532 210 571 Chromis_dimidiata 
+1013 138 1080 189 Chromis_ternatensis 
+1290 907 1443 997 Myripristis 

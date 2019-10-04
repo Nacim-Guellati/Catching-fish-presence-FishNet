@@ -1,0 +1,7 @@
+807 507 840 537 Chromis_dimidiata 
+722 564 765 603 Chromis_dimidiata 
+345 426 393 457 Chromis_dimidiata 
+102 468 165 510 Chromis_dimidiata 
+210 517 251 550 Chromis_dimidiata 
+854 514 900 543 Pomacentrus_sulfureus 
+1343 925 1460 997 Myripristis 

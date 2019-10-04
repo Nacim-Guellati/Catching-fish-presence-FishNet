@@ -1,0 +1,4 @@
+1706 264 1841 381 Ctenochaetus_striatus 
+1332 432 1403 526 Ctenochaetus_striatus 
+1112 805 1235 867 Pomacentrus_sulfureus 
+1808 708 1895 828 Pomacentrus_sulfureus 

@@ -1,0 +1,13 @@
+470 758 696 848 Parupeneus_barberinus 
+128 808 447 910 Parupeneus_barberinus 
+183 496 309 535 Scolopsis_frenata 
+797 640 975 695 Scolopsis_frenata 
+473 388 518 432 Zebrasoma 
+66 913 282 1012 Siganus_corallinus 
+515 873 594 994 Siganus_corallinus 
+609 348 662 379 Ctenochaetus_striatus 
+642 777 851 862 Scolopsis_frenata 
+716 675 818 745 Myripristis 
+306 439 339 469 Chromis_dimidiata 
+245 375 272 390 Chromis_dimidiata 
+356 496 402 526 Chromis_dimidiata 

@@ -1,0 +1,3 @@
+293 874 490 1025 Zebrasoma_scopas 
+484 807 614 930 Zebrasoma_scopas 
+1309 596 1372 643 Amblyglyphidodon_indicus 

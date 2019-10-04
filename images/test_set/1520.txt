@@ -1,0 +1,4 @@
+136 619 201 724 Ctenochaetus_striatus 
+611 385 643 416 Chromis_dimidiata 
+434 724 632 827 Lethrinus 
+0 554 150 642 Chlorurus_sordidus 

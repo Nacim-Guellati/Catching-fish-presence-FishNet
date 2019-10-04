@@ -1,0 +1,5 @@
+221 779 465 848 Gomphosus_caeruleus_female 
+1169 376 1224 433 Scarus_sordidus_female 
+735 704 803 809 Ctenochaetus_striatus 
+807 581 894 652 Ctenochaetus_striatus 
+972 608 1025 667 Pomacentrus_sulfureus 

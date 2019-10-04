@@ -1,0 +1,14 @@
+129 712 189 745 Pomacentrus_caeruleus 
+375 817 519 871 Pomacentrus_caeruleus 
+498 800 581 851 Pomacentrus_caeruleus 
+723 734 788 779 Pomacentrus_caeruleus 
+711 850 768 887 Pomacentrus_caeruleus 
+173 988 287 1048 Pomacentrus_caeruleus 
+59 725 335 824 Pomacentrus_sulfureus 
+1188 748 1350 842 Pomacentrus_sulfureus 
+1007 104 1119 164 Chromis_lepidolepis 
+837 325 924 383 Chromis_lepidolepis 
+305 331 464 412 Chromis_lepidolepis 
+1022 646 1190 749 Ctenochaetus_striatus 
+983 820 1026 865 Pomacentrus_sulfureus 
+1056 877 1104 916 unknown_fish 

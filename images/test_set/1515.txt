@@ -1,0 +1,5 @@
+825 55 879 106 Amblyglyphidodon_indicus 
+184 639 247 705 Ctenochaetus_striatus 
+724 444 760 471 Chromis_dimidiata 
+417 738 632 825 Lethrinus 
+591 654 768 732 Chlorurus_sordidus 

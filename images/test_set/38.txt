@@ -1,0 +1,4 @@
+1119 388 1187 458 Scarus_sordidus_female 
+782 593 869 659 Ctenochaetus_striatus 
+738 659 924 751 Ctenochaetus_striatus 
+993 599 1046 655 Pomacentrus_sulfureus 

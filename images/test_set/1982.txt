@@ -1,0 +1,12 @@
+1435 851 1706 1075 Chaetodon_trifasciatus 
+1491 857 1885 1071 Chaetodon_trifasciatus 
+1134 779 1195 840 Pomacentrus_sulfureus 
+1107 939 1307 1077 Pomacentrus_sulfureus 
+929 777 1006 835 Pomacentrus_sulfureus 
+1128 668 1272 749 unknown_fish 
+1254 468 1361 529 Pomacentrus_caeruleus 
+1354 495 1508 563 Pomacentrus_caeruleus 
+1031 738 1101 831 Pomacentrus_caeruleus 
+267 788 417 858 Pomacentrus_caeruleus 
+429 548 530 640 Pomacentrus_caeruleus 
+247 542 319 604 Pomacentrus_caeruleus 

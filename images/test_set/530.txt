@@ -1,0 +1,16 @@
+672 587 773 628 Pomacentrus_caeruleus 
+450 583 626 697 Pomacentrus_caeruleus 
+416 565 573 626 Pomacentrus_caeruleus 
+503 724 596 764 Pomacentrus_caeruleus 
+29 875 147 914 Pomacentrus_caeruleus 
+552 757 878 890 Pomacentrus_caeruleus 
+450 1027 531 1055 Pomacentrus_caeruleus 
+768 695 906 779 Pomacentrus_sulfureus 
+1095 812 1215 875 Pomacentrus_sulfureus 
+1047 772 1098 805 Pomacentrus_sulfureus 
+1431 932 1520 982 Pomacentrus_sulfureus 
+1475 587 1586 640 Chromis_lepidolepis 
+1299 475 1412 518 Chromis_lepidolepis 
+1379 511 1431 580 Chromis_lepidolepis 
+1149 781 1230 845 Ctenochaetus_striatus 
+1416 808 1566 901 Ctenochaetus_striatus 

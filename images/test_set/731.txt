@@ -1,0 +1,4 @@
+483 865 629 1078 Zebrasoma_scopas 
+977 835 1117 963 Zebrasoma_scopas 
+146 843 289 935 Ctenochaetus_striatus 
+1122 393 1186 435 Amblyglyphidodon_indicus 

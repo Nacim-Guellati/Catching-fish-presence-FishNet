@@ -1,0 +1,4 @@
+897 541 1001 643 Scarus_sordidus_female 
+999 580 1173 707 Ctenochaetus_striatus 
+717 680 827 743 Ctenochaetus_striatus 
+593 719 698 778 Ctenochaetus_striatus 
